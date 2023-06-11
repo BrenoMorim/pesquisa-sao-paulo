@@ -1,0 +1,12 @@
+Variável;Tipo;Descrição;Fonte;Nota
+cod_ibge;numérico;Código oficial de 7 dígitos definido pelo IBGE para município;Instituto Brasileiro de Geografia e Estatística – IBGE ;
+municipio;texto;Nome dos municípios do ESP;Instituto Brasileiro de Geografia e Estatística – IBGE ;
+valor;numérico;Valor do IPDM (0 a 1);Fundação Sistema Estadual de Análise de Dados – Seade;
+ano;numérico;Ano ;Fundação Sistema Estadual de Análise de Dados – Seade;
+tipo;numérico;Indicador do IPDM e dimensão;Fundação Sistema Estadual de Análise de Dados – Seade;Indica se o tipo é o resultado do IPDM ou das dimensões que o compõe
+valor_estado;numérico;Valor do IPDM (0 a 1) para o total do estado;Fundação Sistema Estadual de Análise de Dados – Seade;Ver Anexo Metodológico
+indicador1;numérico;Valor do primeiro componente de cada dimensão;Fundação Sistema Estadual de Análise de Dados – Seade;Ver Anexo Metodológico
+indicador2;numérico;Valor do segundo componente de cada dimensão;Fundação Sistema Estadual de Análise de Dados – Seade;Ver Anexo Metodológico
+indicador3;numérico;Valor doterceiro componente de cada dimensão;Fundação Sistema Estadual de Análise de Dados – Seade;Ver Anexo Metodológico
+indicador4;numérico;Valor do quarto componente de cada dimensão;Fundação Sistema Estadual de Análise de Dados – Seade;Ver Anexo Metodológico
+indicador5;numérico;Indicador de cada dimensão;Fundação Sistema Estadual de Análise de Dados – Seade;Ver Anexo Metodológico

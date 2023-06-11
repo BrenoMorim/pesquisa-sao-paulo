@@ -1,0 +1,3226 @@
+cod_ibge;municipio;ano;grupos_cod;grupos;populacao
+3500105;Adamantina;2014;2;Médio;33862
+3500105;Adamantina;2016;3;Alto;33882
+3500105;Adamantina;2018;3;Alto;33888
+3500105;Adamantina;2020;3;Alto;33894
+3500105;Adamantina;2021;3;Alto;33869
+3500204;Adolfo;2014;3;Alto;3512
+3500204;Adolfo;2016;2;Médio;3490
+3500204;Adolfo;2018;3;Alto;3469
+3500204;Adolfo;2020;3;Alto;3447
+3500204;Adolfo;2021;3;Alto;3436
+3500303;Aguaí;2014;1;Baixo;33542
+3500303;Aguaí;2016;1;Baixo;34242
+3500303;Aguaí;2018;2;Médio;34919
+3500303;Aguaí;2020;1;Baixo;35608
+3500303;Aguaí;2021;1;Baixo;35885
+3500402;Águas da Prata;2014;1;Baixo;7676
+3500402;Águas da Prata;2016;2;Médio;7720
+3500402;Águas da Prata;2018;3;Alto;7758
+3500402;Águas da Prata;2020;3;Alto;7797
+3500402;Águas da Prata;2021;3;Alto;7807
+3500501;Águas de Lindóia;2014;3;Alto;17731
+3500501;Águas de Lindóia;2016;3;Alto;17954
+3500501;Águas de Lindóia;2018;4;Muito alto;18163
+3500501;Águas de Lindóia;2020;3;Alto;18374
+3500501;Águas de Lindóia;2021;3;Alto;18438
+3500550;Águas de Santa Bárbara;2014;2;Médio;5734
+3500550;Águas de Santa Bárbara;2016;3;Alto;5801
+3500550;Águas de Santa Bárbara;2018;3;Alto;5865
+3500550;Águas de Santa Bárbara;2020;3;Alto;5931
+3500550;Águas de Santa Bárbara;2021;3;Alto;5957
+3500600;Águas de Săo Pedro;2014;4;Muito alto;2880
+3500600;Águas de Săo Pedro;2016;4;Muito alto;2966
+3500600;Águas de Săo Pedro;2018;4;Muito alto;3043
+3500600;Águas de Săo Pedro;2020;4;Muito alto;3122
+3500600;Águas de Săo Pedro;2021;4;Muito alto;3144
+3500709;Agudos;2014;1;Baixo;35199
+3500709;Agudos;2016;2;Médio;35525
+3500709;Agudos;2018;2;Médio;35828
+3500709;Agudos;2020;2;Médio;36134
+3500709;Agudos;2021;2;Médio;36255
+3500758;Alambari;2014;1;Baixo;5244
+3500758;Alambari;2016;1;Baixo;5426
+3500758;Alambari;2018;1;Baixo;5600
+3500758;Alambari;2020;1;Baixo;5779
+3500758;Alambari;2021;1;Baixo;5856
+3500808;Alfredo Marcondes;2014;3;Alto;3910
+3500808;Alfredo Marcondes;2016;2;Médio;3919
+3500808;Alfredo Marcondes;2018;2;Médio;3923
+3500808;Alfredo Marcondes;2020;1;Baixo;3927
+3500808;Alfredo Marcondes;2021;1;Baixo;3924
+3500907;Altair;2014;1;Baixo;3907
+3500907;Altair;2016;2;Médio;3951
+3500907;Altair;2018;2;Médio;3994
+3500907;Altair;2020;2;Médio;4036
+3500907;Altair;2021;2;Médio;4052
+3501004;Altinópolis;2014;2;Médio;15571
+3501004;Altinópolis;2016;2;Médio;15560
+3501004;Altinópolis;2018;2;Médio;15557
+3501004;Altinópolis;2020;3;Alto;15553
+3501004;Altinópolis;2021;3;Alto;15547
+3501103;Alto Alegre;2014;2;Médio;4074
+3501103;Alto Alegre;2016;2;Médio;4057
+3501103;Alto Alegre;2018;3;Alto;4037
+3501103;Alto Alegre;2020;1;Baixo;4017
+3501103;Alto Alegre;2021;1;Baixo;4006
+3501152;Alumínio;2014;2;Médio;17296
+3501152;Alumínio;2016;2;Médio;17525
+3501152;Alumínio;2018;3;Alto;17747
+3501152;Alumínio;2020;2;Médio;17972
+3501152;Alumínio;2021;2;Médio;18069
+3501202;Álvares Florence;2014;2;Médio;3783
+3501202;Álvares Florence;2016;3;Alto;3727
+3501202;Álvares Florence;2018;3;Alto;3673
+3501202;Álvares Florence;2020;3;Alto;3621
+3501202;Álvares Florence;2021;3;Alto;3596
+3501301;Álvares Machado;2014;1;Baixo;23583
+3501301;Álvares Machado;2016;1;Baixo;23639
+3501301;Álvares Machado;2018;2;Médio;23714
+3501301;Álvares Machado;2020;2;Médio;23789
+3501301;Álvares Machado;2021;2;Médio;23828
+3501400;Álvaro de Carvalho;2014;1;Baixo;4803
+3501400;Álvaro de Carvalho;2016;1;Baixo;4883
+3501400;Álvaro de Carvalho;2018;1;Baixo;4962
+3501400;Álvaro de Carvalho;2020;1;Baixo;5044
+3501400;Álvaro de Carvalho;2021;1;Baixo;5079
+3501509;Alvinlândia;2014;2;Médio;3074
+3501509;Alvinlândia;2016;2;Médio;3109
+3501509;Alvinlândia;2018;2;Médio;3142
+3501509;Alvinlândia;2020;1;Baixo;3176
+3501509;Alvinlândia;2021;1;Baixo;3190
+3501608;Americana;2014;3;Alto;220545
+3501608;Americana;2016;4;Muito alto;225183
+3501608;Americana;2018;4;Muito alto;229283
+3501608;Americana;2020;4;Muito alto;233458
+3501608;Americana;2021;4;Muito alto;235075
+3501707;Américo Brasiliense;2014;2;Médio;36861
+3501707;Américo Brasiliense;2016;2;Médio;38030
+3501707;Américo Brasiliense;2018;3;Alto;39121
+3501707;Américo Brasiliense;2020;2;Médio;40243
+3501707;Américo Brasiliense;2021;2;Médio;40676
+3501806;Américo de Campos;2014;2;Médio;5726
+3501806;Américo de Campos;2016;2;Médio;5732
+3501806;Américo de Campos;2018;2;Médio;5734
+3501806;Américo de Campos;2020;2;Médio;5736
+3501806;Américo de Campos;2021;2;Médio;5730
+3501905;Amparo;2014;3;Alto;67486
+3501905;Amparo;2016;3;Alto;68260
+3501905;Amparo;2018;4;Muito alto;68945
+3501905;Amparo;2020;3;Alto;69639
+3501905;Amparo;2021;3;Alto;69861
+3502002;Analândia;2014;2;Médio;4530
+3502002;Analândia;2016;3;Alto;4643
+3502002;Analândia;2018;2;Médio;4746
+3502002;Analândia;2020;3;Alto;4850
+3502002;Analândia;2021;3;Alto;4895
+3502101;Andradina;2014;3;Alto;55687
+3502101;Andradina;2016;3;Alto;55831
+3502101;Andradina;2018;3;Alto;55943
+3502101;Andradina;2020;2;Médio;56054
+3502101;Andradina;2021;2;Médio;56087
+3502200;Angatuba;2014;3;Alto;23122
+3502200;Angatuba;2016;3;Alto;23586
+3502200;Angatuba;2018;4;Muito alto;24038
+3502200;Angatuba;2020;2;Médio;24501
+3502200;Angatuba;2021;2;Médio;24697
+3502309;Anhembi;2014;1;Baixo;6063
+3502309;Anhembi;2016;1;Baixo;6269
+3502309;Anhembi;2018;2;Médio;6467
+3502309;Anhembi;2020;1;Baixo;6672
+3502309;Anhembi;2021;1;Baixo;6755
+3502408;Anhumas;2014;3;Alto;3831
+3502408;Anhumas;2016;2;Médio;3877
+3502408;Anhumas;2018;2;Médio;3919
+3502408;Anhumas;2020;2;Médio;3963
+3502408;Anhumas;2021;2;Médio;3983
+3502507;Aparecida;2014;1;Baixo;35292
+3502507;Aparecida;2016;3;Alto;35432
+3502507;Aparecida;2018;4;Muito alto;35570
+3502507;Aparecida;2020;3;Alto;35709
+3502507;Aparecida;2021;3;Alto;35744
+3502606;Aparecida d'Oeste;2014;2;Médio;4317
+3502606;Aparecida d'Oeste;2016;3;Alto;4253
+3502606;Aparecida d'Oeste;2018;4;Muito alto;4192
+3502606;Aparecida d'Oeste;2020;2;Médio;4132
+3502606;Aparecida d'Oeste;2021;2;Médio;4105
+3502705;Apiaí;2014;1;Baixo;24803
+3502705;Apiaí;2016;1;Baixo;24695
+3502705;Apiaí;2018;1;Baixo;24681
+3502705;Apiaí;2020;1;Baixo;24666
+3502705;Apiaí;2021;1;Baixo;24711
+3502754;Araçariguama;2014;2;Médio;18694
+3502754;Araçariguama;2016;2;Médio;19493
+3502754;Araçariguama;2018;3;Alto;20223
+3502754;Araçariguama;2020;3;Alto;20980
+3502754;Araçariguama;2021;3;Alto;21289
+3502804;Araçatuba;2014;2;Médio;185509
+3502804;Araçatuba;2016;3;Alto;187313
+3502804;Araçatuba;2018;3;Alto;188884
+3502804;Araçatuba;2020;3;Alto;190469
+3502804;Araçatuba;2021;3;Alto;190921
+3502903;Araçoiaba da Serra;2014;2;Médio;29351
+3502903;Araçoiaba da Serra;2016;2;Médio;30388
+3502903;Araçoiaba da Serra;2018;3;Alto;31373
+3502903;Araçoiaba da Serra;2020;2;Médio;32390
+3502903;Araçoiaba da Serra;2021;2;Médio;32846
+3503000;Aramina;2014;2;Médio;5301
+3503000;Aramina;2016;2;Médio;5371
+3503000;Aramina;2018;2;Médio;5433
+3503000;Aramina;2020;1;Baixo;5496
+3503000;Aramina;2021;1;Baixo;5515
+3503109;Arandu;2014;1;Baixo;6135
+3503109;Arandu;2016;1;Baixo;6144
+3503109;Arandu;2018;1;Baixo;6154
+3503109;Arandu;2020;1;Baixo;6165
+3503109;Arandu;2021;1;Baixo;6168
+3503158;Arapeí;2014;1;Baixo;2477
+3503158;Arapeí;2016;1;Baixo;2471
+3503158;Arapeí;2018;1;Baixo;2471
+3503158;Arapeí;2020;1;Baixo;2471
+3503158;Arapeí;2021;1;Baixo;2469
+3503208;Araraquara;2014;3;Alto;217343
+3503208;Araraquara;2016;3;Alto;221205
+3503208;Araraquara;2018;3;Alto;224389
+3503208;Araraquara;2020;3;Alto;227618
+3503208;Araraquara;2021;3;Alto;228792
+3503307;Araras;2014;3;Alto;123863
+3503307;Araras;2016;3;Alto;126338
+3503307;Araras;2018;3;Alto;128676
+3503307;Araras;2020;3;Alto;131057
+3503307;Araras;2021;3;Alto;131931
+3503356;Arco-Íris;2014;1;Baixo;1871
+3503356;Arco-Íris;2016;1;Baixo;1849
+3503356;Arco-Íris;2018;2;Médio;1832
+3503356;Arco-Íris;2020;2;Médio;1816
+3503356;Arco-Íris;2021;2;Médio;1806
+3503406;Arealva;2014;1;Baixo;7988
+3503406;Arealva;2016;2;Médio;8060
+3503406;Arealva;2018;3;Alto;8127
+3503406;Arealva;2020;2;Médio;8196
+3503406;Arealva;2021;2;Médio;8223
+3503505;Areias;2014;1;Baixo;3743
+3503505;Areias;2016;1;Baixo;3772
+3503505;Areias;2018;1;Baixo;3807
+3503505;Areias;2020;1;Baixo;3843
+3503505;Areias;2021;1;Baixo;3860
+3503604;Areiópolis;2014;1;Baixo;10662
+3503604;Areiópolis;2016;1;Baixo;10719
+3503604;Areiópolis;2018;1;Baixo;10788
+3503604;Areiópolis;2020;1;Baixo;10857
+3503604;Areiópolis;2021;1;Baixo;10900
+3503703;Ariranha;2014;3;Alto;8868
+3503703;Ariranha;2016;3;Alto;9025
+3503703;Ariranha;2018;4;Muito alto;9171
+3503703;Ariranha;2020;3;Alto;9320
+3503703;Ariranha;2021;3;Alto;9378
+3503802;Artur Nogueira;2014;2;Médio;47893
+3503802;Artur Nogueira;2016;2;Médio;49620
+3503802;Artur Nogueira;2018;3;Alto;51092
+3503802;Artur Nogueira;2020;2;Médio;52609
+3503802;Artur Nogueira;2021;2;Médio;53224
+3503901;Arujá;2014;1;Baixo;80841
+3503901;Arujá;2016;2;Médio;83849
+3503901;Arujá;2018;3;Alto;86746
+3503901;Arujá;2020;3;Alto;89744
+3503901;Arujá;2021;3;Alto;90958
+3503950;Aspásia;2014;3;Alto;1791
+3503950;Aspásia;2016;4;Muito alto;1782
+3503950;Aspásia;2018;4;Muito alto;1774
+3503950;Aspásia;2020;4;Muito alto;1765
+3503950;Aspásia;2021;4;Muito alto;1760
+3504008;Assis;2014;3;Alto;97738
+3504008;Assis;2016;3;Alto;99001
+3504008;Assis;2018;3;Alto;100184
+3504008;Assis;2020;3;Alto;101381
+3504008;Assis;2021;3;Alto;101825
+3504107;Atibaia;2014;3;Alto;132017
+3504107;Atibaia;2016;3;Alto;134652
+3504107;Atibaia;2018;4;Muito alto;137107
+3504107;Atibaia;2020;3;Alto;139606
+3504107;Atibaia;2021;3;Alto;140589
+3504206;Auriflama;2014;2;Médio;14331
+3504206;Auriflama;2016;3;Alto;14387
+3504206;Auriflama;2018;3;Alto;14429
+3504206;Auriflama;2020;2;Médio;14471
+3504206;Auriflama;2021;2;Médio;14478
+3504305;Avaí;2014;1;Baixo;5092
+3504305;Avaí;2016;2;Médio;5158
+3504305;Avaí;2018;2;Médio;5223
+3504305;Avaí;2020;2;Médio;5288
+3504305;Avaí;2021;2;Médio;5314
+3504404;Avanhandava;2014;1;Baixo;11621
+3504404;Avanhandava;2016;2;Médio;11787
+3504404;Avanhandava;2018;2;Médio;11949
+3504404;Avanhandava;2020;1;Baixo;12114
+3504404;Avanhandava;2021;1;Baixo;12188
+3504503;Avaré;2014;2;Médio;84876
+3504503;Avaré;2016;2;Médio;85810
+3504503;Avaré;2018;2;Médio;86669
+3504503;Avaré;2020;2;Médio;87538
+3504503;Avaré;2021;2;Médio;87854
+3504602;Bady Bassitt;2014;3;Alto;15396
+3504602;Bady Bassitt;2016;3;Alto;15750
+3504602;Bady Bassitt;2018;3;Alto;16037
+3504602;Bady Bassitt;2020;2;Médio;16329
+3504602;Bady Bassitt;2021;2;Médio;16441
+3504701;Balbinos;2014;1;Baixo;3688
+3504701;Balbinos;2016;2;Médio;3695
+3504701;Balbinos;2018;3;Alto;3699
+3504701;Balbinos;2020;3;Alto;3704
+3504701;Balbinos;2021;3;Alto;3707
+3504800;Bálsamo;2014;2;Médio;8323
+3504800;Bálsamo;2016;3;Alto;8397
+3504800;Bálsamo;2018;3;Alto;8460
+3504800;Bálsamo;2020;3;Alto;8524
+3504800;Bálsamo;2021;3;Alto;8542
+3504909;Bananal;2014;1;Baixo;10382
+3504909;Bananal;2016;1;Baixo;10468
+3504909;Bananal;2018;1;Baixo;10560
+3504909;Bananal;2020;1;Baixo;10651
+3504909;Bananal;2021;1;Baixo;10691
+3505005;Barăo de Antonina;2014;1;Baixo;3220
+3505005;Barăo de Antonina;2016;1;Baixo;3274
+3505005;Barăo de Antonina;2018;1;Baixo;3328
+3505005;Barăo de Antonina;2020;1;Baixo;3383
+3505005;Barăo de Antonina;2021;1;Baixo;3407
+3505104;Barbosa;2014;1;Baixo;6863
+3505104;Barbosa;2016;1;Baixo;7002
+3505104;Barbosa;2018;2;Médio;7142
+3505104;Barbosa;2020;2;Médio;7284
+3505104;Barbosa;2021;2;Médio;7345
+3505203;Bariri;2014;2;Médio;32606
+3505203;Bariri;2016;3;Alto;33093
+3505203;Bariri;2018;3;Alto;33540
+3505203;Bariri;2020;2;Médio;33993
+3505203;Bariri;2021;2;Médio;34180
+3505302;Barra Bonita;2014;2;Médio;35096
+3505302;Barra Bonita;2016;3;Alto;35029
+3505302;Barra Bonita;2018;3;Alto;34971
+3505302;Barra Bonita;2020;2;Médio;34914
+3505302;Barra Bonita;2021;2;Médio;34864
+3505351;Barra do Chapéu;2014;1;Baixo;5352
+3505351;Barra do Chapéu;2016;1;Baixo;5409
+3505351;Barra do Chapéu;2018;1;Baixo;5470
+3505351;Barra do Chapéu;2020;1;Baixo;5530
+3505351;Barra do Chapéu;2021;1;Baixo;5561
+3505401;Barra do Turvo;2014;1;Baixo;7674
+3505401;Barra do Turvo;2016;1;Baixo;7665
+3505401;Barra do Turvo;2018;1;Baixo;7676
+3505401;Barra do Turvo;2020;1;Baixo;7687
+3505401;Barra do Turvo;2021;1;Baixo;7709
+3505500;Barretos;2014;2;Médio;114701
+3505500;Barretos;2016;3;Alto;115907
+3505500;Barretos;2018;3;Alto;116973
+3505500;Barretos;2020;3;Alto;118048
+3505500;Barretos;2021;3;Alto;118419
+3505609;Barrinha;2014;1;Baixo;30051
+3505609;Barrinha;2016;1;Baixo;30829
+3505609;Barrinha;2018;2;Médio;31574
+3505609;Barrinha;2020;1;Baixo;32338
+3505609;Barrinha;2021;1;Baixo;32658
+3505708;Barueri;2014;4;Muito alto;250477
+3505708;Barueri;2016;4;Muito alto;255276
+3505708;Barueri;2018;4;Muito alto;259793
+3505708;Barueri;2020;4;Muito alto;264390
+3505708;Barueri;2021;4;Muito alto;266236
+3505807;Bastos;2014;3;Alto;20296
+3505807;Bastos;2016;3;Alto;20267
+3505807;Bastos;2018;3;Alto;20284
+3505807;Bastos;2020;3;Alto;20301
+3505807;Bastos;2021;3;Alto;20296
+3505906;Batatais;2014;2;Médio;58060
+3505906;Batatais;2016;3;Alto;58821
+3505906;Batatais;2018;3;Alto;59517
+3505906;Batatais;2020;2;Médio;60222
+3505906;Batatais;2021;2;Médio;60502
+3506003;Bauru;2014;2;Médio;352654
+3506003;Bauru;2016;3;Alto;356769
+3506003;Bauru;2018;3;Alto;360478
+3506003;Bauru;2020;3;Alto;364225
+3506003;Bauru;2021;3;Alto;365523
+3506102;Bebedouro;2014;2;Médio;74769
+3506102;Bebedouro;2016;3;Alto;74593
+3506102;Bebedouro;2018;3;Alto;74373
+3506102;Bebedouro;2020;3;Alto;74155
+3506102;Bebedouro;2021;3;Alto;73969
+3506201;Bento de Abreu;2014;3;Alto;2785
+3506201;Bento de Abreu;2016;3;Alto;2840
+3506201;Bento de Abreu;2018;4;Muito alto;2892
+3506201;Bento de Abreu;2020;3;Alto;2945
+3506201;Bento de Abreu;2021;3;Alto;2966
+3506300;Bernardino de Campos;2014;2;Médio;10771
+3506300;Bernardino de Campos;2016;1;Baixo;10773
+3506300;Bernardino de Campos;2018;2;Médio;10780
+3506300;Bernardino de Campos;2020;2;Médio;10787
+3506300;Bernardino de Campos;2021;2;Médio;10793
+3506359;Bertioga;2014;2;Médio;53915
+3506359;Bertioga;2016;2;Médio;57109
+3506359;Bertioga;2018;3;Alto;60120
+3506359;Bertioga;2020;3;Alto;63290
+3506359;Bertioga;2021;3;Alto;64526
+3506409;Bilac;2014;3;Alto;7381
+3506409;Bilac;2016;3;Alto;7537
+3506409;Bilac;2018;3;Alto;7676
+3506409;Bilac;2020;3;Alto;7816
+3506409;Bilac;2021;3;Alto;7855
+3506508;Birigui;2014;3;Alto;114081
+3506508;Birigui;2016;3;Alto;116637
+3506508;Birigui;2018;4;Muito alto;118960
+3506508;Birigui;2020;3;Alto;121329
+3506508;Birigui;2021;3;Alto;122161
+3506607;Biritiba Mirim;2014;1;Baixo;30062
+3506607;Biritiba Mirim;2016;1;Baixo;30822
+3506607;Biritiba Mirim;2018;2;Médio;31571
+3506607;Biritiba Mirim;2020;1;Baixo;32338
+3506607;Biritiba Mirim;2021;1;Baixo;32683
+3506706;Boa Esperança do Sul;2014;1;Baixo;14022
+3506706;Boa Esperança do Sul;2016;1;Baixo;14211
+3506706;Boa Esperança do Sul;2018;2;Médio;14396
+3506706;Boa Esperança do Sul;2020;1;Baixo;14582
+3506706;Boa Esperança do Sul;2021;1;Baixo;14658
+3506805;Bocaina;2014;2;Médio;11387
+3506805;Bocaina;2016;2;Médio;11646
+3506805;Bocaina;2018;1;Baixo;11888
+3506805;Bocaina;2020;2;Médio;12135
+3506805;Bocaina;2021;2;Médio;12243
+3506904;Bofete;2014;1;Baixo;10215
+3506904;Bofete;2016;2;Médio;10512
+3506904;Bofete;2018;2;Médio;10790
+3506904;Bofete;2020;1;Baixo;11076
+3506904;Bofete;2021;1;Baixo;11194
+3507001;Boituva;2014;3;Alto;52177
+3507001;Boituva;2016;3;Alto;54017
+3507001;Boituva;2018;4;Muito alto;55630
+3507001;Boituva;2020;3;Alto;57292
+3507001;Boituva;2021;3;Alto;57987
+3507100;Bom Jesus dos Perdőes;2014;2;Médio;21604
+3507100;Bom Jesus dos Perdőes;2016;2;Médio;22541
+3507100;Bom Jesus dos Perdőes;2018;3;Alto;23399
+3507100;Bom Jesus dos Perdőes;2020;2;Médio;24291
+3507100;Bom Jesus dos Perdőes;2021;2;Médio;24625
+3507159;Bom Sucesso de Itararé;2014;1;Baixo;3676
+3507159;Bom Sucesso de Itararé;2016;1;Baixo;3734
+3507159;Bom Sucesso de Itararé;2018;1;Baixo;3797
+3507159;Bom Sucesso de Itararé;2020;1;Baixo;3861
+3507159;Bom Sucesso de Itararé;2021;1;Baixo;3894
+3507209;Borá;2014;4;Muito alto;808
+3507209;Borá;2016;4;Muito alto;809
+3507209;Borá;2018;4;Muito alto;810
+3507209;Borá;2020;3;Alto;812
+3507209;Borá;2021;3;Alto;811
+3507308;Boracéia;2014;1;Baixo;4468
+3507308;Boracéia;2016;2;Médio;4568
+3507308;Boracéia;2018;3;Alto;4662
+3507308;Boracéia;2020;2;Médio;4759
+3507308;Boracéia;2021;2;Médio;4798
+3507407;Borborema;2014;1;Baixo;14883
+3507407;Borborema;2016;3;Alto;15045
+3507407;Borborema;2018;3;Alto;15183
+3507407;Borborema;2020;3;Alto;15323
+3507407;Borborema;2021;3;Alto;15370
+3507456;Borebi;2014;2;Médio;2413
+3507456;Borebi;2016;3;Alto;2470
+3507456;Borebi;2018;3;Alto;2524
+3507456;Borebi;2020;1;Baixo;2579
+3507456;Borebi;2021;1;Baixo;2602
+3507506;Botucatu;2014;2;Médio;133281
+3507506;Botucatu;2016;2;Médio;136091
+3507506;Botucatu;2018;3;Alto;138590
+3507506;Botucatu;2020;3;Alto;141135
+3507506;Botucatu;2021;3;Alto;142092
+3507605;Bragança Paulista;2014;2;Médio;154253
+3507605;Bragança Paulista;2016;2;Médio;157759
+3507605;Bragança Paulista;2018;3;Alto;160840
+3507605;Bragança Paulista;2020;3;Alto;163980
+3507605;Bragança Paulista;2021;3;Alto;165241
+3507704;Braúna;2014;2;Médio;5244
+3507704;Braúna;2016;3;Alto;5353
+3507704;Braúna;2018;3;Alto;5452
+3507704;Braúna;2020;2;Médio;5552
+3507704;Braúna;2021;2;Médio;5593
+3507753;Brejo Alegre;2014;3;Alto;2656
+3507753;Brejo Alegre;2016;2;Médio;2695
+3507753;Brejo Alegre;2018;2;Médio;2732
+3507753;Brejo Alegre;2020;1;Baixo;2768
+3507753;Brejo Alegre;2021;1;Baixo;2780
+3507803;Brodowski;2014;2;Médio;22349
+3507803;Brodowski;2016;2;Médio;22927
+3507803;Brodowski;2018;3;Alto;23430
+3507803;Brodowski;2020;2;Médio;23943
+3507803;Brodowski;2021;2;Médio;24132
+3507902;Brotas;2014;1;Baixo;22542
+3507902;Brotas;2016;2;Médio;23003
+3507902;Brotas;2018;3;Alto;23423
+3507902;Brotas;2020;2;Médio;23850
+3507902;Brotas;2021;2;Médio;24039
+3508009;Buri;2014;1;Baixo;18957
+3508009;Buri;2016;1;Baixo;19181
+3508009;Buri;2018;1;Baixo;19428
+3508009;Buri;2020;1;Baixo;19678
+3508009;Buri;2021;1;Baixo;19819
+3508108;Buritama;2014;2;Médio;15921
+3508108;Buritama;2016;3;Alto;16160
+3508108;Buritama;2018;3;Alto;16377
+3508108;Buritama;2020;2;Médio;16596
+3508108;Buritama;2021;2;Médio;16673
+3508207;Buritizal;2014;2;Médio;4160
+3508207;Buritizal;2016;2;Médio;4211
+3508207;Buritizal;2018;3;Alto;4259
+3508207;Buritizal;2020;3;Alto;4307
+3508207;Buritizal;2021;3;Alto;4323
+3508306;Cabrália Paulista;2014;1;Baixo;4331
+3508306;Cabrália Paulista;2016;1;Baixo;4319
+3508306;Cabrália Paulista;2018;2;Médio;4313
+3508306;Cabrália Paulista;2020;1;Baixo;4308
+3508306;Cabrália Paulista;2021;1;Baixo;4306
+3508405;Cabreúva;2014;3;Alto;44719
+3508405;Cabreúva;2016;2;Médio;46306
+3508405;Cabreúva;2018;3;Alto;47842
+3508405;Cabreúva;2020;3;Alto;49430
+3508405;Cabreúva;2021;3;Alto;50112
+3508504;Caçapava;2014;2;Médio;87599
+3508504;Caçapava;2016;2;Médio;88913
+3508504;Caçapava;2018;3;Alto;90057
+3508504;Caçapava;2020;2;Médio;91217
+3508504;Caçapava;2021;2;Médio;91646
+3508603;Cachoeira Paulista;2014;1;Baixo;30989
+3508603;Cachoeira Paulista;2016;1;Baixo;31423
+3508603;Cachoeira Paulista;2018;1;Baixo;31825
+3508603;Cachoeira Paulista;2020;1;Baixo;32231
+3508603;Cachoeira Paulista;2021;1;Baixo;32381
+3508702;Caconde;2014;2;Médio;18655
+3508702;Caconde;2016;2;Médio;18719
+3508702;Caconde;2018;2;Médio;18786
+3508702;Caconde;2020;2;Médio;18854
+3508702;Caconde;2021;2;Médio;18893
+3508801;Cafelândia;2014;1;Baixo;16871
+3508801;Cafelândia;2016;2;Médio;17000
+3508801;Cafelândia;2018;2;Médio;17121
+3508801;Cafelândia;2020;1;Baixo;17244
+3508801;Cafelândia;2021;1;Baixo;17286
+3508900;Caiabu;2014;1;Baixo;4090
+3508900;Caiabu;2016;2;Médio;4095
+3508900;Caiabu;2018;2;Médio;4099
+3508900;Caiabu;2020;1;Baixo;4103
+3508900;Caiabu;2021;1;Baixo;4104
+3509007;Caieiras;2014;2;Médio;92142
+3509007;Caieiras;2016;2;Médio;94994
+3509007;Caieiras;2018;3;Alto;97763
+3509007;Caieiras;2020;3;Alto;100612
+3509007;Caieiras;2021;3;Alto;101748
+3509106;Caiuá;2014;1;Baixo;5267
+3509106;Caiuá;2016;1;Baixo;5381
+3509106;Caiuá;2018;1;Baixo;5489
+3509106;Caiuá;2020;2;Médio;5600
+3509106;Caiuá;2021;2;Médio;5642
+3509205;Cajamar;2014;2;Médio;69549
+3509205;Cajamar;2016;3;Alto;72289
+3509205;Cajamar;2018;3;Alto;74910
+3509205;Cajamar;2020;3;Alto;77627
+3509205;Cajamar;2021;3;Alto;78786
+3509254;Cajati;2014;1;Baixo;28479
+3509254;Cajati;2016;1;Baixo;28601
+3509254;Cajati;2018;2;Médio;28795
+3509254;Cajati;2020;1;Baixo;28992
+3509254;Cajati;2021;1;Baixo;29116
+3509304;Cajobi;2014;2;Médio;9919
+3509304;Cajobi;2016;2;Médio;9987
+3509304;Cajobi;2018;4;Muito alto;10046
+3509304;Cajobi;2020;2;Médio;10105
+3509304;Cajobi;2021;2;Médio;10124
+3509403;Cajuru;2014;1;Baixo;24295
+3509403;Cajuru;2016;2;Médio;24758
+3509403;Cajuru;2018;2;Médio;25206
+3509403;Cajuru;2020;1;Baixo;25663
+3509403;Cajuru;2021;1;Baixo;25850
+3509452;Campina do Monte Alegre;2014;1;Baixo;5665
+3509452;Campina do Monte Alegre;2016;1;Baixo;5714
+3509452;Campina do Monte Alegre;2018;1;Baixo;5763
+3509452;Campina do Monte Alegre;2020;1;Baixo;5812
+3509452;Campina do Monte Alegre;2021;1;Baixo;5832
+3509502;Campinas;2014;3;Alto;1123241
+3509502;Campinas;2016;3;Alto;1142620
+3509502;Campinas;2018;4;Muito alto;1158944
+3509502;Campinas;2020;3;Alto;1175501
+3509502;Campinas;2021;3;Alto;1181555
+3509601;Campo Limpo Paulista;2014;2;Médio;77669
+3509601;Campo Limpo Paulista;2016;2;Médio;79446
+3509601;Campo Limpo Paulista;2018;2;Médio;81126
+3509601;Campo Limpo Paulista;2020;2;Médio;82842
+3509601;Campo Limpo Paulista;2021;2;Médio;83530
+3509700;Campos do Jordăo;2014;2;Médio;48746
+3509700;Campos do Jordăo;2016;2;Médio;49219
+3509700;Campos do Jordăo;2018;3;Alto;49666
+3509700;Campos do Jordăo;2020;3;Alto;50118
+3509700;Campos do Jordăo;2021;3;Alto;50307
+3509809;Campos Novos Paulista;2014;1;Baixo;4648
+3509809;Campos Novos Paulista;2016;1;Baixo;4705
+3509809;Campos Novos Paulista;2018;2;Médio;4760
+3509809;Campos Novos Paulista;2020;2;Médio;4817
+3509809;Campos Novos Paulista;2021;2;Médio;4841
+3509908;Cananéia;2014;1;Baixo;12215
+3509908;Cananéia;2016;1;Baixo;12236
+3509908;Cananéia;2018;2;Médio;12289
+3509908;Cananéia;2020;2;Médio;12341
+3509908;Cananéia;2021;2;Médio;12379
+3509957;Canas;2014;1;Baixo;4660
+3509957;Canas;2016;1;Baixo;4797
+3509957;Canas;2018;1;Baixo;4929
+3509957;Canas;2020;1;Baixo;5064
+3509957;Canas;2021;1;Baixo;5120
+3510005;Cândido Mota;2014;2;Médio;29948
+3510005;Cândido Mota;2016;3;Alto;29976
+3510005;Cândido Mota;2018;3;Alto;29997
+3510005;Cândido Mota;2020;2;Médio;30019
+3510005;Cândido Mota;2021;2;Médio;30010
+3510104;Cândido Rodrigues;2014;1;Baixo;2674
+3510104;Cândido Rodrigues;2016;2;Médio;2675
+3510104;Cândido Rodrigues;2018;3;Alto;2674
+3510104;Cândido Rodrigues;2020;2;Médio;2674
+3510104;Cândido Rodrigues;2021;2;Médio;2672
+3510153;Canitar;2014;1;Baixo;4610
+3510153;Canitar;2016;1;Baixo;4736
+3510153;Canitar;2018;1;Baixo;4862
+3510153;Canitar;2020;1;Baixo;4991
+3510153;Canitar;2021;1;Baixo;5051
+3510203;Capăo Bonito;2014;1;Baixo;46143
+3510203;Capăo Bonito;2016;2;Médio;46190
+3510203;Capăo Bonito;2018;2;Médio;46303
+3510203;Capăo Bonito;2020;2;Médio;46418
+3510203;Capăo Bonito;2021;2;Médio;46521
+3510302;Capela do Alto;2014;1;Baixo;18696
+3510302;Capela do Alto;2016;2;Médio;19304
+3510302;Capela do Alto;2018;2;Médio;19913
+3510302;Capela do Alto;2020;2;Médio;20542
+3510302;Capela do Alto;2021;2;Médio;20828
+3510401;Capivari;2014;2;Médio;50847
+3510401;Capivari;2016;2;Médio;51993
+3510401;Capivari;2018;3;Alto;53100
+3510401;Capivari;2020;3;Alto;54231
+3510401;Capivari;2021;3;Alto;54686
+3510500;Caraguatatuba;2014;2;Médio;107271
+3510500;Caraguatatuba;2016;3;Alto;110384
+3510500;Caraguatatuba;2018;3;Alto;113208
+3510500;Caraguatatuba;2020;3;Alto;116106
+3510500;Caraguatatuba;2021;3;Alto;117090
+3510609;Carapicuíba;2014;1;Baixo;380414
+3510609;Carapicuíba;2016;1;Baixo;385474
+3510609;Carapicuíba;2018;2;Médio;390010
+3510609;Carapicuíba;2020;1;Baixo;394598
+3510609;Carapicuíba;2021;1;Baixo;396447
+3510708;Cardoso;2014;2;Médio;11775
+3510708;Cardoso;2016;2;Médio;11759
+3510708;Cardoso;2018;3;Alto;11740
+3510708;Cardoso;2020;1;Baixo;11721
+3510708;Cardoso;2021;1;Baixo;11712
+3510807;Casa Branca;2014;1;Baixo;28779
+3510807;Casa Branca;2016;2;Médio;29013
+3510807;Casa Branca;2018;2;Médio;29236
+3510807;Casa Branca;2020;2;Médio;29462
+3510807;Casa Branca;2021;2;Médio;29549
+3510906;Cássia dos Coqueiros;2014;2;Médio;2569
+3510906;Cássia dos Coqueiros;2016;2;Médio;2542
+3510906;Cássia dos Coqueiros;2018;3;Alto;2518
+3510906;Cássia dos Coqueiros;2020;3;Alto;2495
+3510906;Cássia dos Coqueiros;2021;3;Alto;2486
+3511003;Castilho;2014;1;Baixo;19116
+3511003;Castilho;2016;2;Médio;19668
+3511003;Castilho;2018;2;Médio;20191
+3511003;Castilho;2020;2;Médio;20728
+3511003;Castilho;2021;2;Médio;20937
+3511102;Catanduva;2014;3;Alto;114778
+3511102;Catanduva;2016;3;Alto;115669
+3511102;Catanduva;2018;4;Muito alto;116435
+3511102;Catanduva;2020;3;Alto;117206
+3511102;Catanduva;2021;3;Alto;117414
+3511201;Catiguá;2014;1;Baixo;7301
+3511201;Catiguá;2016;2;Médio;7382
+3511201;Catiguá;2018;2;Médio;7455
+3511201;Catiguá;2020;2;Médio;7529
+3511201;Catiguá;2021;2;Médio;7555
+3511300;Cedral;2014;3;Alto;8337
+3511300;Cedral;2016;3;Alto;8513
+3511300;Cedral;2018;4;Muito alto;8673
+3511300;Cedral;2020;3;Alto;8836
+3511300;Cedral;2021;3;Alto;8895
+3511409;Cerqueira César;2014;1;Baixo;18212
+3511409;Cerqueira César;2016;2;Médio;18553
+3511409;Cerqueira César;2018;2;Médio;18879
+3511409;Cerqueira César;2020;2;Médio;19213
+3511409;Cerqueira César;2021;2;Médio;19350
+3511508;Cerquilho;2014;4;Muito alto;42560
+3511508;Cerquilho;2016;4;Muito alto;43949
+3511508;Cerquilho;2018;4;Muito alto;45164
+3511508;Cerquilho;2020;3;Alto;46411
+3511508;Cerquilho;2021;3;Alto;46932
+3511607;Cesário Lange;2014;2;Médio;16311
+3511607;Cesário Lange;2016;1;Baixo;16659
+3511607;Cesário Lange;2018;2;Médio;16951
+3511607;Cesário Lange;2020;1;Baixo;17248
+3511607;Cesário Lange;2021;1;Baixo;17360
+3511706;Charqueada;2014;2;Médio;15843
+3511706;Charqueada;2016;2;Médio;16217
+3511706;Charqueada;2018;3;Alto;16571
+3511706;Charqueada;2020;2;Médio;16933
+3511706;Charqueada;2021;2;Médio;17075
+3511904;Clementina;2014;2;Médio;7599
+3511904;Clementina;2016;3;Alto;7856
+3511904;Clementina;2018;2;Médio;8087
+3511904;Clementina;2020;2;Médio;8324
+3511904;Clementina;2021;2;Médio;8413
+3512001;Colina;2014;2;Médio;17485
+3512001;Colina;2016;2;Médio;17533
+3512001;Colina;2018;3;Alto;17568
+3512001;Colina;2020;3;Alto;17603
+3512001;Colina;2021;3;Alto;17606
+3512100;Colômbia;2014;2;Médio;6019
+3512100;Colômbia;2016;3;Alto;6029
+3512100;Colômbia;2018;4;Muito alto;6037
+3512100;Colômbia;2020;3;Alto;6046
+3512100;Colômbia;2021;3;Alto;6048
+3512209;Conchal;2014;2;Médio;26069
+3512209;Conchal;2016;1;Baixo;26484
+3512209;Conchal;2018;2;Médio;26881
+3512209;Conchal;2020;2;Médio;27284
+3512209;Conchal;2021;2;Médio;27445
+3512308;Conchas;2014;1;Baixo;16628
+3512308;Conchas;2016;1;Baixo;16799
+3512308;Conchas;2018;2;Médio;16966
+3512308;Conchas;2020;1;Baixo;17134
+3512308;Conchas;2021;1;Baixo;17203
+3512407;Cordeirópolis;2014;3;Alto;22457
+3512407;Cordeirópolis;2016;3;Alto;23123
+3512407;Cordeirópolis;2018;4;Muito alto;23732
+3512407;Cordeirópolis;2020;4;Muito alto;24356
+3512407;Cordeirópolis;2021;4;Muito alto;24615
+3512506;Coroados;2014;1;Baixo;5540
+3512506;Coroados;2016;1;Baixo;5680
+3512506;Coroados;2018;3;Alto;5802
+3512506;Coroados;2020;2;Médio;5926
+3512506;Coroados;2021;2;Médio;5971
+3512605;Coronel Macedo;2014;1;Baixo;4917
+3512605;Coronel Macedo;2016;1;Baixo;4884
+3512605;Coronel Macedo;2018;2;Médio;4864
+3512605;Coronel Macedo;2020;1;Baixo;4843
+3512605;Coronel Macedo;2021;1;Baixo;4839
+3512704;Corumbataí;2014;1;Baixo;3910
+3512704;Corumbataí;2016;3;Alto;3928
+3512704;Corumbataí;2018;4;Muito alto;3945
+3512704;Corumbataí;2020;3;Alto;3962
+3512704;Corumbataí;2021;3;Alto;3969
+3512803;Cosmópolis;2014;2;Médio;63942
+3512803;Cosmópolis;2016;3;Alto;66478
+3512803;Cosmópolis;2018;3;Alto;68838
+3512803;Cosmópolis;2020;2;Médio;71282
+3512803;Cosmópolis;2021;2;Médio;72215
+3512902;Cosmorama;2014;3;Alto;7123
+3512902;Cosmorama;2016;2;Médio;7079
+3512902;Cosmorama;2018;3;Alto;7038
+3512902;Cosmorama;2020;4;Muito alto;6997
+3512902;Cosmorama;2021;4;Muito alto;6976
+3513009;Cotia;2014;2;Médio;219888
+3513009;Cotia;2016;2;Médio;229300
+3513009;Cotia;2018;3;Alto;238189
+3513009;Cotia;2020;2;Médio;247424
+3513009;Cotia;2021;2;Médio;251382
+3513108;Cravinhos;2014;2;Médio;32818
+3513108;Cravinhos;2016;2;Médio;33372
+3513108;Cravinhos;2018;2;Médio;33896
+3513108;Cravinhos;2020;2;Médio;34428
+3513108;Cravinhos;2021;2;Médio;34637
+3513207;Cristais Paulista;2014;1;Baixo;7939
+3513207;Cristais Paulista;2016;2;Médio;8109
+3513207;Cristais Paulista;2018;2;Médio;8265
+3513207;Cristais Paulista;2020;2;Médio;8425
+3513207;Cristais Paulista;2021;2;Médio;8494
+3513306;Cruzália;2014;1;Baixo;2204
+3513306;Cruzália;2016;2;Médio;2172
+3513306;Cruzália;2018;3;Alto;2144
+3513306;Cruzália;2020;4;Muito alto;2117
+3513306;Cruzália;2021;4;Muito alto;2105
+3513405;Cruzeiro;2014;1;Baixo;78264
+3513405;Cruzeiro;2016;1;Baixo;78848
+3513405;Cruzeiro;2018;2;Médio;79386
+3513405;Cruzeiro;2020;1;Baixo;79927
+3513405;Cruzeiro;2021;1;Baixo;80128
+3513504;Cubatăo;2014;1;Baixo;122940
+3513504;Cubatăo;2016;2;Médio;125047
+3513504;Cubatăo;2018;3;Alto;127079
+3513504;Cubatăo;2020;2;Médio;129145
+3513504;Cubatăo;2021;2;Médio;130025
+3513603;Cunha;2014;1;Baixo;21733
+3513603;Cunha;2016;1;Baixo;21694
+3513603;Cunha;2018;1;Baixo;21687
+3513603;Cunha;2020;1;Baixo;21681
+3513603;Cunha;2021;1;Baixo;21660
+3513702;Descalvado;2014;2;Médio;31643
+3513702;Descalvado;2016;3;Alto;31923
+3513702;Descalvado;2018;4;Muito alto;32176
+3513702;Descalvado;2020;4;Muito alto;32430
+3513702;Descalvado;2021;4;Muito alto;32516
+3513801;Diadema;2014;2;Médio;394131
+3513801;Diadema;2016;2;Médio;397868
+3513801;Diadema;2018;2;Médio;401159
+3513801;Diadema;2020;2;Médio;404477
+3513801;Diadema;2021;2;Médio;405596
+3513850;Dirce Reis;2014;1;Baixo;1704
+3513850;Dirce Reis;2016;2;Médio;1710
+3513850;Dirce Reis;2018;2;Médio;1713
+3513850;Dirce Reis;2020;1;Baixo;1717
+3513850;Dirce Reis;2021;1;Baixo;1715
+3513900;Divinolândia;2014;1;Baixo;11059
+3513900;Divinolândia;2016;2;Médio;10993
+3513900;Divinolândia;2018;2;Médio;10940
+3513900;Divinolândia;2020;3;Alto;10886
+3513900;Divinolândia;2021;3;Alto;10865
+3514007;Dobrada;2014;2;Médio;8326
+3514007;Dobrada;2016;2;Médio;8521
+3514007;Dobrada;2018;2;Médio;8710
+3514007;Dobrada;2020;1;Baixo;8904
+3514007;Dobrada;2021;1;Baixo;8985
+3514106;Dois Córregos;2014;1;Baixo;25641
+3514106;Dois Córregos;2016;2;Médio;26087
+3514106;Dois Córregos;2018;2;Médio;26526
+3514106;Dois Córregos;2020;2;Médio;26972
+3514106;Dois Córregos;2021;2;Médio;27151
+3514205;Dolcinópolis;2014;3;Alto;2075
+3514205;Dolcinópolis;2016;4;Muito alto;2063
+3514205;Dolcinópolis;2018;4;Muito alto;2051
+3514205;Dolcinópolis;2020;3;Alto;2040
+3514205;Dolcinópolis;2021;3;Alto;2033
+3514304;Dourado;2014;2;Médio;8554
+3514304;Dourado;2016;3;Alto;8528
+3514304;Dourado;2018;2;Médio;8506
+3514304;Dourado;2020;2;Médio;8482
+3514304;Dourado;2021;2;Médio;8466
+3514403;Dracena;2014;2;Médio;44043
+3514403;Dracena;2016;3;Alto;44396
+3514403;Dracena;2018;3;Alto;44694
+3514403;Dracena;2020;3;Alto;44995
+3514403;Dracena;2021;3;Alto;45088
+3514502;Duartina;2014;1;Baixo;12143
+3514502;Duartina;2016;2;Médio;12088
+3514502;Duartina;2018;2;Médio;12031
+3514502;Duartina;2020;2;Médio;11975
+3514502;Duartina;2021;2;Médio;11941
+3514601;Dumont;2014;2;Médio;8786
+3514601;Dumont;2016;4;Muito alto;9079
+3514601;Dumont;2018;3;Alto;9321
+3514601;Dumont;2020;3;Alto;9570
+3514601;Dumont;2021;3;Alto;9659
+3514700;Echaporă;2014;1;Baixo;6274
+3514700;Echaporă;2016;1;Baixo;6253
+3514700;Echaporă;2018;1;Baixo;6235
+3514700;Echaporă;2020;1;Baixo;6217
+3514700;Echaporă;2021;1;Baixo;6208
+3514809;Eldorado;2014;1;Baixo;14790
+3514809;Eldorado;2016;1;Baixo;14909
+3514809;Eldorado;2018;1;Baixo;15072
+3514809;Eldorado;2020;1;Baixo;15236
+3514809;Eldorado;2021;1;Baixo;15331
+3514908;Elias Fausto;2014;2;Médio;16438
+3514908;Elias Fausto;2016;2;Médio;16756
+3514908;Elias Fausto;2018;3;Alto;17048
+3514908;Elias Fausto;2020;3;Alto;17346
+3514908;Elias Fausto;2021;3;Alto;17459
+3514924;Elisiário;2014;2;Médio;3282
+3514924;Elisiário;2016;4;Muito alto;3359
+3514924;Elisiário;2018;3;Alto;3428
+3514924;Elisiário;2020;3;Alto;3499
+3514924;Elisiário;2021;3;Alto;3518
+3514957;Embaúba;2014;2;Médio;2411
+3514957;Embaúba;2016;1;Baixo;2408
+3514957;Embaúba;2018;2;Médio;2409
+3514957;Embaúba;2020;2;Médio;2409
+3514957;Embaúba;2021;2;Médio;2406
+3515004;Embu das Artes;2014;1;Baixo;252729
+3515004;Embu das Artes;2016;2;Médio;258917
+3515004;Embu das Artes;2018;2;Médio;264787
+3515004;Embu das Artes;2020;2;Médio;270790
+3515004;Embu das Artes;2021;2;Médio;273266
+3515103;Embu-Guaçu;2014;1;Baixo;64882
+3515103;Embu-Guaçu;2016;2;Médio;65950
+3515103;Embu-Guaçu;2018;2;Médio;66993
+3515103;Embu-Guaçu;2020;2;Médio;68053
+3515103;Embu-Guaçu;2021;2;Médio;68565
+3515129;Emilianópolis;2014;2;Médio;3047
+3515129;Emilianópolis;2016;2;Médio;3057
+3515129;Emilianópolis;2018;2;Médio;3063
+3515129;Emilianópolis;2020;2;Médio;3068
+3515129;Emilianópolis;2021;2;Médio;3069
+3515152;Engenheiro Coelho;2014;1;Baixo;17772
+3515152;Engenheiro Coelho;2016;2;Médio;18761
+3515152;Engenheiro Coelho;2018;2;Médio;19628
+3515152;Engenheiro Coelho;2020;2;Médio;20535
+3515152;Engenheiro Coelho;2021;2;Médio;20884
+3515186;Espírito Santo do Pinhal;2014;2;Médio;42214
+3515186;Espírito Santo do Pinhal;2016;2;Médio;42350
+3515186;Espírito Santo do Pinhal;2018;3;Alto;42461
+3515186;Espírito Santo do Pinhal;2020;2;Médio;42573
+3515186;Espírito Santo do Pinhal;2021;2;Médio;42639
+3515194;Espírito Santo do Turvo;2014;1;Baixo;4462
+3515194;Espírito Santo do Turvo;2016;1;Baixo;4573
+3515194;Espírito Santo do Turvo;2018;1;Baixo;4685
+3515194;Espírito Santo do Turvo;2020;2;Médio;4799
+3515194;Espírito Santo do Turvo;2021;2;Médio;4850
+3515202;Estrela d'Oeste;2014;3;Alto;8168
+3515202;Estrela d'Oeste;2016;4;Muito alto;8144
+3515202;Estrela d'Oeste;2018;4;Muito alto;8119
+3515202;Estrela d'Oeste;2020;3;Alto;8094
+3515202;Estrela d'Oeste;2021;3;Alto;8083
+3515301;Estrela do Norte;2014;2;Médio;2655
+3515301;Estrela do Norte;2016;4;Muito alto;2656
+3515301;Estrela do Norte;2018;3;Alto;2661
+3515301;Estrela do Norte;2020;3;Alto;2665
+3515301;Estrela do Norte;2021;3;Alto;2668
+3515350;Euclides da Cunha Paulista;2014;1;Baixo;9517
+3515350;Euclides da Cunha Paulista;2016;1;Baixo;9507
+3515350;Euclides da Cunha Paulista;2018;1;Baixo;9523
+3515350;Euclides da Cunha Paulista;2020;1;Baixo;9537
+3515350;Euclides da Cunha Paulista;2021;1;Baixo;9549
+3515400;Fartura;2014;3;Alto;15432
+3515400;Fartura;2016;3;Alto;15497
+3515400;Fartura;2018;4;Muito alto;15570
+3515400;Fartura;2020;3;Alto;15644
+3515400;Fartura;2021;3;Alto;15679
+3515509;Fernandópolis;2014;3;Alto;65375
+3515509;Fernandópolis;2016;3;Alto;65663
+3515509;Fernandópolis;2018;4;Muito alto;65887
+3515509;Fernandópolis;2020;3;Alto;66112
+3515509;Fernandópolis;2021;3;Alto;66131
+3515608;Fernando Prestes;2014;2;Médio;5556
+3515608;Fernando Prestes;2016;3;Alto;5563
+3515608;Fernando Prestes;2018;3;Alto;5567
+3515608;Fernando Prestes;2020;4;Muito alto;5572
+3515608;Fernando Prestes;2021;4;Muito alto;5568
+3515657;Fernăo;2014;4;Muito alto;1596
+3515657;Fernăo;2016;3;Alto;1613
+3515657;Fernăo;2018;4;Muito alto;1631
+3515657;Fernăo;2020;3;Alto;1649
+3515657;Fernăo;2021;3;Alto;1656
+3515707;Ferraz de Vasconcelos;2014;1;Baixo;178160
+3515707;Ferraz de Vasconcelos;2016;1;Baixo;183163
+3515707;Ferraz de Vasconcelos;2018;1;Baixo;188035
+3515707;Ferraz de Vasconcelos;2020;1;Baixo;193037
+3515707;Ferraz de Vasconcelos;2021;1;Baixo;195168
+3515806;Flora Rica;2014;1;Baixo;1674
+3515806;Flora Rica;2016;2;Médio;1641
+3515806;Flora Rica;2018;2;Médio;1615
+3515806;Flora Rica;2020;2;Médio;1589
+3515806;Flora Rica;2021;2;Médio;1575
+3515905;Floreal;2014;3;Alto;2942
+3515905;Floreal;2016;4;Muito alto;2912
+3515905;Floreal;2018;4;Muito alto;2884
+3515905;Floreal;2020;4;Muito alto;2856
+3515905;Floreal;2021;4;Muito alto;2842
+3516002;Flórida Paulista;2014;1;Baixo;12522
+3516002;Flórida Paulista;2016;1;Baixo;12380
+3516002;Flórida Paulista;2018;1;Baixo;12249
+3516002;Flórida Paulista;2020;1;Baixo;12120
+3516002;Flórida Paulista;2021;1;Baixo;12060
+3516101;Florínea;2014;1;Baixo;2766
+3516101;Florínea;2016;3;Alto;2740
+3516101;Florínea;2018;4;Muito alto;2722
+3516101;Florínea;2020;3;Alto;2703
+3516101;Florínea;2021;3;Alto;2697
+3516200;Franca;2014;2;Médio;328640
+3516200;Franca;2016;3;Alto;333405
+3516200;Franca;2018;3;Alto;337738
+3516200;Franca;2020;3;Alto;342125
+3516200;Franca;2021;3;Alto;343801
+3516309;Francisco Morato;2014;1;Baixo;162055
+3516309;Francisco Morato;2016;1;Baixo;166077
+3516309;Francisco Morato;2018;1;Baixo;170189
+3516309;Francisco Morato;2020;1;Baixo;174403
+3516309;Francisco Morato;2021;1;Baixo;176346
+3516408;Franco da Rocha;2014;1;Baixo;139981
+3516408;Franco da Rocha;2016;1;Baixo;144159
+3516408;Franco da Rocha;2018;1;Baixo;148126
+3516408;Franco da Rocha;2020;1;Baixo;152201
+3516408;Franco da Rocha;2021;1;Baixo;153903
+3516507;Gabriel Monteiro;2014;3;Alto;2703
+3516507;Gabriel Monteiro;2016;4;Muito alto;2698
+3516507;Gabriel Monteiro;2018;3;Alto;2692
+3516507;Gabriel Monteiro;2020;4;Muito alto;2684
+3516507;Gabriel Monteiro;2021;4;Muito alto;2677
+3516606;Gália;2014;1;Baixo;6787
+3516606;Gália;2016;2;Médio;6696
+3516606;Gália;2018;1;Baixo;6629
+3516606;Gália;2020;2;Médio;6563
+3516606;Gália;2021;2;Médio;6537
+3516705;Garça;2014;1;Baixo;42838
+3516705;Garça;2016;1;Baixo;42712
+3516705;Garça;2018;2;Médio;42597
+3516705;Garça;2020;2;Médio;42483
+3516705;Garça;2021;2;Médio;42385
+3516804;Gastăo Vidigal;2014;2;Médio;4446
+3516804;Gastăo Vidigal;2016;2;Médio;4563
+3516804;Gastăo Vidigal;2018;3;Alto;4664
+3516804;Gastăo Vidigal;2020;3;Alto;4768
+3516804;Gastăo Vidigal;2021;3;Alto;4811
+3516853;Gaviăo Peixoto;2014;2;Médio;4496
+3516853;Gaviăo Peixoto;2016;4;Muito alto;4535
+3516853;Gaviăo Peixoto;2018;4;Muito alto;4572
+3516853;Gaviăo Peixoto;2020;4;Muito alto;4610
+3516853;Gaviăo Peixoto;2021;4;Muito alto;4627
+3516903;General Salgado;2014;3;Alto;10683
+3516903;General Salgado;2016;1;Baixo;10679
+3516903;General Salgado;2018;2;Médio;10663
+3516903;General Salgado;2020;2;Médio;10648
+3516903;General Salgado;2021;2;Médio;10632
+3517000;Getulina;2014;1;Baixo;10790
+3517000;Getulina;2016;1;Baixo;10807
+3517000;Getulina;2018;1;Baixo;10827
+3517000;Getulina;2020;1;Baixo;10847
+3517000;Getulina;2021;1;Baixo;10856
+3517109;Glicério;2014;1;Baixo;4643
+3517109;Glicério;2016;2;Médio;4681
+3517109;Glicério;2018;3;Alto;4714
+3517109;Glicério;2020;3;Alto;4749
+3517109;Glicério;2021;3;Alto;4762
+3517208;Guaiçara;2014;1;Baixo;11195
+3517208;Guaiçara;2016;1;Baixo;11454
+3517208;Guaiçara;2018;1;Baixo;11698
+3517208;Guaiçara;2020;2;Médio;11947
+3517208;Guaiçara;2021;2;Médio;12045
+3517307;Guaimbê;2014;1;Baixo;5457
+3517307;Guaimbê;2016;1;Baixo;5479
+3517307;Guaimbê;2018;1;Baixo;5507
+3517307;Guaimbê;2020;1;Baixo;5534
+3517307;Guaimbê;2021;1;Baixo;5547
+3517406;Guaíra;2014;2;Médio;38135
+3517406;Guaíra;2016;3;Alto;38473
+3517406;Guaíra;2018;3;Alto;38766
+3517406;Guaíra;2020;2;Médio;39061
+3517406;Guaíra;2021;2;Médio;39154
+3517505;Guapiaçu;2014;2;Médio;19146
+3517505;Guapiaçu;2016;3;Alto;19753
+3517505;Guapiaçu;2018;3;Alto;20293
+3517505;Guapiaçu;2020;2;Médio;20848
+3517505;Guapiaçu;2021;2;Médio;21060
+3517604;Guapiara;2014;1;Baixo;17754
+3517604;Guapiara;2016;1;Baixo;17707
+3517604;Guapiara;2018;1;Baixo;17741
+3517604;Guapiara;2020;1;Baixo;17775
+3517604;Guapiara;2021;1;Baixo;17832
+3517703;Guará;2014;1;Baixo;20226
+3517703;Guará;2016;2;Médio;20421
+3517703;Guará;2018;2;Médio;20622
+3517703;Guará;2020;2;Médio;20824
+3517703;Guará;2021;2;Médio;20907
+3517802;Guaraçaí;2014;1;Baixo;8440
+3517802;Guaraçaí;2016;2;Médio;8434
+3517802;Guaraçaí;2018;2;Médio;8424
+3517802;Guaraçaí;2020;1;Baixo;8412
+3517802;Guaraçaí;2021;1;Baixo;8400
+3517901;Guaraci;2014;1;Baixo;10386
+3517901;Guaraci;2016;1;Baixo;10589
+3517901;Guaraci;2018;2;Médio;10781
+3517901;Guaraci;2020;2;Médio;10978
+3517901;Guaraci;2021;2;Médio;11050
+3518008;Guarani d'Oeste;2014;3;Alto;1952
+3518008;Guarani d'Oeste;2016;3;Alto;1942
+3518008;Guarani d'Oeste;2018;4;Muito alto;1932
+3518008;Guarani d'Oeste;2020;4;Muito alto;1922
+3518008;Guarani d'Oeste;2021;4;Muito alto;1917
+3518107;Guarantă;2014;1;Baixo;6430
+3518107;Guarantă;2016;2;Médio;6445
+3518107;Guarantă;2018;1;Baixo;6461
+3518107;Guarantă;2020;1;Baixo;6477
+3518107;Guarantă;2021;1;Baixo;6485
+3518206;Guararapes;2014;2;Médio;31270
+3518206;Guararapes;2016;2;Médio;31570
+3518206;Guararapes;2018;3;Alto;31822
+3518206;Guararapes;2020;3;Alto;32076
+3518206;Guararapes;2021;3;Alto;32160
+3518305;Guararema;2014;2;Médio;27248
+3518305;Guararema;2016;2;Médio;27973
+3518305;Guararema;2018;3;Alto;28692
+3518305;Guararema;2020;3;Alto;29429
+3518305;Guararema;2021;3;Alto;29736
+3518404;Guaratinguetá;2014;1;Baixo;114750
+3518404;Guaratinguetá;2016;2;Médio;116020
+3518404;Guaratinguetá;2018;2;Médio;117177
+3518404;Guaratinguetá;2020;2;Médio;118345
+3518404;Guaratinguetá;2021;2;Médio;118741
+3518503;Guareí;2014;2;Médio;15033
+3518503;Guareí;2016;1;Baixo;15279
+3518503;Guareí;2018;2;Médio;15512
+3518503;Guareí;2020;1;Baixo;15750
+3518503;Guareí;2021;1;Baixo;15844
+3518602;Guariba;2014;1;Baixo;36962
+3518602;Guariba;2016;2;Médio;37679
+3518602;Guariba;2018;2;Médio;38344
+3518602;Guariba;2020;2;Médio;39021
+3518602;Guariba;2021;2;Médio;39285
+3518701;Guarujá;2014;1;Baixo;300761
+3518701;Guarujá;2016;1;Baixo;305938
+3518701;Guarujá;2018;2;Médio;311128
+3518701;Guarujá;2020;1;Baixo;316405
+3518701;Guarujá;2021;1;Baixo;318774
+3518800;Guarulhos;2014;2;Médio;1274528
+3518800;Guarulhos;2016;2;Médio;1300708
+3518800;Guarulhos;2018;2;Médio;1325750
+3518800;Guarulhos;2020;2;Médio;1351275
+3518800;Guarulhos;2021;2;Médio;1361862
+3518859;Guatapará;2014;1;Baixo;7155
+3518859;Guatapará;2016;1;Baixo;7250
+3518859;Guatapará;2018;1;Baixo;7345
+3518859;Guatapará;2020;2;Médio;7440
+3518859;Guatapará;2021;2;Médio;7482
+3518909;Guzolândia;2014;1;Baixo;4898
+3518909;Guzolândia;2016;1;Baixo;4970
+3518909;Guzolândia;2018;2;Médio;5038
+3518909;Guzolândia;2020;2;Médio;5107
+3518909;Guzolândia;2021;2;Médio;5134
+3519006;Herculândia;2014;1;Baixo;8921
+3519006;Herculândia;2016;1;Baixo;9036
+3519006;Herculândia;2018;2;Médio;9147
+3519006;Herculândia;2020;1;Baixo;9260
+3519006;Herculândia;2021;1;Baixo;9310
+3519055;Holambra;2014;3;Alto;12678
+3519055;Holambra;2016;4;Muito alto;13335
+3519055;Holambra;2018;4;Muito alto;13901
+3519055;Holambra;2020;4;Muito alto;14493
+3519055;Holambra;2021;4;Muito alto;14711
+3519071;Hortolândia;2014;2;Médio;207665
+3519071;Hortolândia;2016;3;Alto;215281
+3519071;Hortolândia;2018;4;Muito alto;222649
+3519071;Hortolândia;2020;3;Alto;230268
+3519071;Hortolândia;2021;3;Alto;233548
+3519105;Iacanga;2014;2;Médio;10557
+3519105;Iacanga;2016;3;Alto;10820
+3519105;Iacanga;2018;3;Alto;11060
+3519105;Iacanga;2020;3;Alto;11306
+3519105;Iacanga;2021;3;Alto;11410
+3519204;Iacri;2014;1;Baixo;6367
+3519204;Iacri;2016;1;Baixo;6337
+3519204;Iacri;2018;2;Médio;6305
+3519204;Iacri;2020;1;Baixo;6272
+3519204;Iacri;2021;1;Baixo;6255
+3519253;Iaras;2014;1;Baixo;6566
+3519253;Iaras;2016;1;Baixo;6677
+3519253;Iaras;2018;1;Baixo;6785
+3519253;Iaras;2020;1;Baixo;6894
+3519253;Iaras;2021;1;Baixo;6943
+3519303;Ibaté;2014;1;Baixo;32380
+3519303;Ibaté;2016;2;Médio;33192
+3519303;Ibaté;2018;3;Alto;33956
+3519303;Ibaté;2020;2;Médio;34738
+3519303;Ibaté;2021;2;Médio;35044
+3519402;Ibirá;2014;2;Médio;11390
+3519402;Ibirá;2016;4;Muito alto;11627
+3519402;Ibirá;2018;4;Muito alto;11841
+3519402;Ibirá;2020;2;Médio;12059
+3519402;Ibirá;2021;2;Médio;12132
+3519501;Ibirarema;2014;1;Baixo;7038
+3519501;Ibirarema;2016;2;Médio;7197
+3519501;Ibirarema;2018;2;Médio;7351
+3519501;Ibirarema;2020;2;Médio;7509
+3519501;Ibirarema;2021;2;Médio;7570
+3519600;Ibitinga;2014;2;Médio;55453
+3519600;Ibitinga;2016;2;Médio;56538
+3519600;Ibitinga;2018;3;Alto;57511
+3519600;Ibitinga;2020;2;Médio;58501
+3519600;Ibitinga;2021;2;Médio;58860
+3519709;Ibiúna;2014;1;Baixo;73309
+3519709;Ibiúna;2016;2;Médio;74364
+3519709;Ibiúna;2018;2;Médio;75390
+3519709;Ibiúna;2020;2;Médio;76430
+3519709;Ibiúna;2021;2;Médio;76867
+3519808;Icém;2014;1;Baixo;7698
+3519808;Icém;2016;2;Médio;7814
+3519808;Icém;2018;1;Baixo;7922
+3519808;Icém;2020;1;Baixo;8032
+3519808;Icém;2021;1;Baixo;8077
+3519907;Iepê;2014;2;Médio;7739
+3519907;Iepê;2016;2;Médio;7799
+3519907;Iepê;2018;2;Médio;7859
+3519907;Iepê;2020;2;Médio;7921
+3519907;Iepê;2021;2;Médio;7943
+3520004;Igaraçu do Tietê;2014;1;Baixo;23661
+3520004;Igaraçu do Tietê;2016;1;Baixo;23817
+3520004;Igaraçu do Tietê;2018;1;Baixo;23976
+3520004;Igaraçu do Tietê;2020;1;Baixo;24135
+3520004;Igaraçu do Tietê;2021;1;Baixo;24206
+3520103;Igarapava;2014;2;Médio;28594
+3520103;Igarapava;2016;1;Baixo;28899
+3520103;Igarapava;2018;2;Médio;29176
+3520103;Igarapava;2020;1;Baixo;29456
+3520103;Igarapava;2021;1;Baixo;29560
+3520202;Igaratá;2014;1;Baixo;9025
+3520202;Igaratá;2016;1;Baixo;9122
+3520202;Igaratá;2018;2;Médio;9217
+3520202;Igaratá;2020;2;Médio;9312
+3520202;Igaratá;2021;2;Médio;9354
+3520301;Iguape;2014;1;Baixo;29031
+3520301;Iguape;2016;1;Baixo;29158
+3520301;Iguape;2018;1;Baixo;29311
+3520301;Iguape;2020;1;Baixo;29465
+3520301;Iguape;2021;1;Baixo;29555
+3520400;Ilhabela;2014;3;Alto;30431
+3520400;Ilhabela;2016;3;Alto;31508
+3520400;Ilhabela;2018;4;Muito alto;32474
+3520400;Ilhabela;2020;4;Muito alto;33470
+3520400;Ilhabela;2021;4;Muito alto;33821
+3520426;Ilha Comprida;2014;2;Médio;9515
+3520426;Ilha Comprida;2016;2;Médio;9774
+3520426;Ilha Comprida;2018;4;Muito alto;10031
+3520426;Ilha Comprida;2020;2;Médio;10296
+3520426;Ilha Comprida;2021;2;Médio;10410
+3520442;Ilha Solteira;2014;2;Médio;25400
+3520442;Ilha Solteira;2016;3;Alto;25539
+3520442;Ilha Solteira;2018;4;Muito alto;25643
+3520442;Ilha Solteira;2020;3;Alto;25748
+3520442;Ilha Solteira;2021;3;Alto;25754
+3520509;Indaiatuba;2014;3;Alto;220762
+3520509;Indaiatuba;2016;4;Muito alto;229256
+3520509;Indaiatuba;2018;4;Muito alto;235964
+3520509;Indaiatuba;2020;4;Muito alto;242868
+3520509;Indaiatuba;2021;4;Muito alto;245366
+3520608;Indiana;2014;1;Baixo;4806
+3520608;Indiana;2016;1;Baixo;4796
+3520608;Indiana;2018;2;Médio;4785
+3520608;Indiana;2020;1;Baixo;4775
+3520608;Indiana;2021;1;Baixo;4771
+3520707;Indiaporă;2014;2;Médio;3876
+3520707;Indiaporă;2016;2;Médio;3866
+3520707;Indiaporă;2018;3;Alto;3860
+3520707;Indiaporă;2020;3;Alto;3854
+3520707;Indiaporă;2021;3;Alto;3847
+3520806;Inúbia Paulista;2014;2;Médio;3740
+3520806;Inúbia Paulista;2016;2;Médio;3793
+3520806;Inúbia Paulista;2018;4;Muito alto;3842
+3520806;Inúbia Paulista;2020;3;Alto;3892
+3520806;Inúbia Paulista;2021;3;Alto;3913
+3520905;Ipaussu;2014;2;Médio;13992
+3520905;Ipaussu;2016;3;Alto;14163
+3520905;Ipaussu;2018;2;Médio;14333
+3520905;Ipaussu;2020;1;Baixo;14506
+3520905;Ipaussu;2021;1;Baixo;14578
+3521002;Iperó;2014;1;Baixo;30835
+3521002;Iperó;2016;1;Baixo;32077
+3521002;Iperó;2018;2;Médio;33195
+3521002;Iperó;2020;1;Baixo;34352
+3521002;Iperó;2021;1;Baixo;34800
+3521101;Ipeúna;2014;3;Alto;6617
+3521101;Ipeúna;2016;3;Alto;6932
+3521101;Ipeúna;2018;3;Alto;7244
+3521101;Ipeúna;2020;2;Médio;7571
+3521101;Ipeúna;2021;2;Médio;7711
+3521150;Ipiguá;2014;1;Baixo;4784
+3521150;Ipiguá;2016;3;Alto;4940
+3521150;Ipiguá;2018;3;Alto;5083
+3521150;Ipiguá;2020;3;Alto;5231
+3521150;Ipiguá;2021;3;Alto;5286
+3521200;Iporanga;2014;1;Baixo;4331
+3521200;Iporanga;2016;1;Baixo;4353
+3521200;Iporanga;2018;1;Baixo;4380
+3521200;Iporanga;2020;1;Baixo;4407
+3521200;Iporanga;2021;1;Baixo;4424
+3521309;Ipuă;2014;1;Baixo;14849
+3521309;Ipuă;2016;3;Alto;15197
+3521309;Ipuă;2018;3;Alto;15526
+3521309;Ipuă;2020;2;Médio;15861
+3521309;Ipuă;2021;2;Médio;16001
+3521408;Iracemápolis;2014;3;Alto;21591
+3521408;Iracemápolis;2016;4;Muito alto;22331
+3521408;Iracemápolis;2018;4;Muito alto;22982
+3521408;Iracemápolis;2020;4;Muito alto;23654
+3521408;Iracemápolis;2021;4;Muito alto;23907
+3521507;Irapuă;2014;2;Médio;7467
+3521507;Irapuă;2016;2;Médio;7560
+3521507;Irapuă;2018;3;Alto;7647
+3521507;Irapuă;2020;3;Alto;7734
+3521507;Irapuă;2021;3;Alto;7767
+3521606;Irapuru;2014;1;Baixo;7593
+3521606;Irapuru;2016;1;Baixo;7502
+3521606;Irapuru;2018;2;Médio;7419
+3521606;Irapuru;2020;1;Baixo;7334
+3521606;Irapuru;2021;1;Baixo;7295
+3521705;Itaberá;2014;2;Médio;17715
+3521705;Itaberá;2016;2;Médio;17665
+3521705;Itaberá;2018;1;Baixo;17639
+3521705;Itaberá;2020;2;Médio;17614
+3521705;Itaberá;2021;2;Médio;17615
+3521804;Itaí;2014;1;Baixo;25000
+3521804;Itaí;2016;2;Médio;25505
+3521804;Itaí;2018;2;Médio;26002
+3521804;Itaí;2020;1;Baixo;26507
+3521804;Itaí;2021;1;Baixo;26725
+3521903;Itajobi;2014;3;Alto;14607
+3521903;Itajobi;2016;3;Alto;14619
+3521903;Itajobi;2018;4;Muito alto;14616
+3521903;Itajobi;2020;3;Alto;14614
+3521903;Itajobi;2021;3;Alto;14602
+3522000;Itaju;2014;1;Baixo;3419
+3522000;Itaju;2016;2;Médio;3502
+3522000;Itaju;2018;2;Médio;3577
+3522000;Itaju;2020;2;Médio;3654
+3522000;Itaju;2021;2;Médio;3688
+3522109;Itanhaém;2014;1;Baixo;91716
+3522109;Itanhaém;2016;2;Médio;94088
+3522109;Itanhaém;2018;3;Alto;96394
+3522109;Itanhaém;2020;1;Baixo;98757
+3522109;Itanhaém;2021;1;Baixo;99751
+3522158;Itaoca;2014;1;Baixo;3195
+3522158;Itaoca;2016;1;Baixo;3186
+3522158;Itaoca;2018;1;Baixo;3186
+3522158;Itaoca;2020;1;Baixo;3186
+3522158;Itaoca;2021;1;Baixo;3187
+3522208;Itapecerica da Serra;2014;1;Baixo;159457
+3522208;Itapecerica da Serra;2016;1;Baixo;162907
+3522208;Itapecerica da Serra;2018;2;Médio;166229
+3522208;Itapecerica da Serra;2020;1;Baixo;169619
+3522208;Itapecerica da Serra;2021;1;Baixo;171123
+3522307;Itapetininga;2014;2;Médio;150668
+3522307;Itapetininga;2016;2;Médio;153861
+3522307;Itapetininga;2018;2;Médio;156973
+3522307;Itapetininga;2020;2;Médio;160150
+3522307;Itapetininga;2021;2;Médio;161509
+3522406;Itapeva;2014;1;Baixo;89196
+3522406;Itapeva;2016;2;Médio;89992
+3522406;Itapeva;2018;2;Médio;90839
+3522406;Itapeva;2020;2;Médio;91693
+3522406;Itapeva;2021;2;Médio;92123
+3522505;Itapevi;2014;1;Baixo;215034
+3522505;Itapevi;2016;2;Médio;222501
+3522505;Itapevi;2018;2;Médio;229982
+3522505;Itapevi;2020;1;Baixo;237714
+3522505;Itapevi;2021;1;Baixo;241150
+3522604;Itapira;2014;3;Alto;69967
+3522604;Itapira;2016;2;Médio;70571
+3522604;Itapira;2018;3;Alto;71034
+3522604;Itapira;2020;3;Alto;71500
+3522604;Itapira;2021;3;Alto;71609
+3522653;Itapirapuă Paulista;2014;1;Baixo;3980
+3522653;Itapirapuă Paulista;2016;1;Baixo;4040
+3522653;Itapirapuă Paulista;2018;1;Baixo;4109
+3522653;Itapirapuă Paulista;2020;1;Baixo;4180
+3522653;Itapirapuă Paulista;2021;1;Baixo;4214
+3522703;Itápolis;2014;2;Médio;40674
+3522703;Itápolis;2016;3;Alto;40978
+3522703;Itápolis;2018;3;Alto;41262
+3522703;Itápolis;2020;3;Alto;41548
+3522703;Itápolis;2021;3;Alto;41648
+3522802;Itaporanga;2014;1;Baixo;14589
+3522802;Itaporanga;2016;1;Baixo;14617
+3522802;Itaporanga;2018;1;Baixo;14653
+3522802;Itaporanga;2020;1;Baixo;14688
+3522802;Itaporanga;2021;1;Baixo;14710
+3522901;Itapuí;2014;3;Alto;12837
+3522901;Itapuí;2016;2;Médio;13163
+3522901;Itapuí;2018;3;Alto;13467
+3522901;Itapuí;2020;3;Alto;13779
+3522901;Itapuí;2021;3;Alto;13913
+3523008;Itapura;2014;1;Baixo;4581
+3523008;Itapura;2016;1;Baixo;4694
+3523008;Itapura;2018;2;Médio;4804
+3523008;Itapura;2020;2;Médio;4916
+3523008;Itapura;2021;2;Médio;4965
+3523107;Itaquaquecetuba;2014;1;Baixo;340751
+3523107;Itaquaquecetuba;2016;1;Baixo;350610
+3523107;Itaquaquecetuba;2018;1;Baixo;360462
+3523107;Itaquaquecetuba;2020;1;Baixo;370589
+3523107;Itaquaquecetuba;2021;1;Baixo;374997
+3523206;Itararé;2014;1;Baixo;48285
+3523206;Itararé;2016;1;Baixo;48504
+3523206;Itararé;2018;2;Médio;48760
+3523206;Itararé;2020;1;Baixo;49018
+3523206;Itararé;2021;1;Baixo;49149
+3523305;Itariri;2014;1;Baixo;16174
+3523305;Itariri;2016;1;Baixo;16538
+3523305;Itariri;2018;1;Baixo;16902
+3523305;Itariri;2020;2;Médio;17274
+3523305;Itariri;2021;2;Médio;17442
+3523404;Itatiba;2014;3;Alto;108484
+3523404;Itatiba;2016;4;Muito alto;111835
+3523404;Itatiba;2018;4;Muito alto;114835
+3523404;Itatiba;2020;4;Muito alto;117916
+3523404;Itatiba;2021;4;Muito alto;119084
+3523503;Itatinga;2014;1;Baixo;19024
+3523503;Itatinga;2016;2;Médio;19528
+3523503;Itatinga;2018;2;Médio;20033
+3523503;Itatinga;2020;1;Baixo;20550
+3523503;Itatinga;2021;1;Baixo;20752
+3523602;Itirapina;2014;2;Médio;16191
+3523602;Itirapina;2016;2;Médio;16524
+3523602;Itirapina;2018;2;Médio;16840
+3523602;Itirapina;2020;2;Médio;17162
+3523602;Itirapina;2021;2;Médio;17284
+3523701;Itirapuă;2014;1;Baixo;6057
+3523701;Itirapuă;2016;1;Baixo;6131
+3523701;Itirapuă;2018;1;Baixo;6204
+3523701;Itirapuă;2020;1;Baixo;6279
+3523701;Itirapuă;2021;1;Baixo;6311
+3523800;Itobi;2014;1;Baixo;7572
+3523800;Itobi;2016;1;Baixo;7584
+3523800;Itobi;2018;1;Baixo;7596
+3523800;Itobi;2020;2;Médio;7609
+3523800;Itobi;2021;2;Médio;7608
+3523909;Itu;2014;3;Alto;160608
+3523909;Itu;2016;3;Alto;163775
+3523909;Itu;2018;3;Alto;166747
+3523909;Itu;2020;3;Alto;169772
+3523909;Itu;2021;3;Alto;170938
+3524006;Itupeva;2014;3;Alto;50622
+3524006;Itupeva;2016;3;Alto;53551
+3524006;Itupeva;2018;4;Muito alto;56285
+3524006;Itupeva;2020;4;Muito alto;59159
+3524006;Itupeva;2021;4;Muito alto;60255
+3524105;Ituverava;2014;1;Baixo;39373
+3524105;Ituverava;2016;2;Médio;39688
+3524105;Ituverava;2018;2;Médio;39966
+3524105;Ituverava;2020;2;Médio;40246
+3524105;Ituverava;2021;2;Médio;40333
+3524204;Jaborandi;2014;1;Baixo;6633
+3524204;Jaborandi;2016;2;Médio;6651
+3524204;Jaborandi;2018;2;Médio;6664
+3524204;Jaborandi;2020;2;Médio;6677
+3524204;Jaborandi;2021;2;Médio;6681
+3524303;Jaboticabal;2014;2;Médio;72796
+3524303;Jaboticabal;2016;3;Alto;73315
+3524303;Jaboticabal;2018;3;Alto;73766
+3524303;Jaboticabal;2020;2;Médio;74221
+3524303;Jaboticabal;2021;2;Médio;74352
+3524402;Jacareí;2014;2;Médio;218260
+3524402;Jacareí;2016;2;Médio;221650
+3524402;Jacareí;2018;3;Alto;224775
+3524402;Jacareí;2020;3;Alto;227945
+3524402;Jacareí;2021;3;Alto;229163
+3524501;Jaci;2014;3;Alto;6197
+3524501;Jaci;2016;2;Médio;6464
+3524501;Jaci;2018;3;Alto;6712
+3524501;Jaci;2020;3;Alto;6969
+3524501;Jaci;2021;3;Alto;7052
+3524600;Jacupiranga;2014;1;Baixo;17165
+3524600;Jacupiranga;2016;1;Baixo;17169
+3524600;Jacupiranga;2018;2;Médio;17195
+3524600;Jacupiranga;2020;1;Baixo;17222
+3524600;Jacupiranga;2021;1;Baixo;17237
+3524709;Jaguariúna;2014;4;Muito alto;49074
+3524709;Jaguariúna;2016;4;Muito alto;51248
+3524709;Jaguariúna;2018;4;Muito alto;53018
+3524709;Jaguariúna;2020;4;Muito alto;54848
+3524709;Jaguariúna;2021;4;Muito alto;55477
+3524808;Jales;2014;3;Alto;47137
+3524808;Jales;2016;3;Alto;47187
+3524808;Jales;2018;4;Muito alto;47220
+3524808;Jales;2020;4;Muito alto;47254
+3524808;Jales;2021;4;Muito alto;47242
+3524907;Jambeiro;2014;3;Alto;5739
+3524907;Jambeiro;2016;2;Médio;5916
+3524907;Jambeiro;2018;3;Alto;6064
+3524907;Jambeiro;2020;1;Baixo;6214
+3524907;Jambeiro;2021;1;Baixo;6272
+3525003;Jandira;2014;1;Baixo;114431
+3525003;Jandira;2016;2;Médio;117518
+3525003;Jandira;2018;2;Médio;120523
+3525003;Jandira;2020;2;Médio;123603
+3525003;Jandira;2021;2;Médio;124940
+3525102;Jardinópolis;2014;1;Baixo;39896
+3525102;Jardinópolis;2016;2;Médio;40962
+3525102;Jardinópolis;2018;3;Alto;41916
+3525102;Jardinópolis;2020;2;Médio;42893
+3525102;Jardinópolis;2021;2;Médio;43258
+3525201;Jarinu;2014;2;Médio;26292
+3525201;Jarinu;2016;3;Alto;27510
+3525201;Jarinu;2018;3;Alto;28642
+3525201;Jarinu;2020;2;Médio;29820
+3525201;Jarinu;2021;2;Médio;30330
+3525300;Jaú;2014;2;Médio;138001
+3525300;Jaú;2016;2;Médio;141344
+3525300;Jaú;2018;3;Alto;144392
+3525300;Jaú;2020;3;Alto;147505
+3525300;Jaú;2021;3;Alto;148613
+3525409;Jeriquara;2014;1;Baixo;3150
+3525409;Jeriquara;2016;1;Baixo;3146
+3525409;Jeriquara;2018;2;Médio;3144
+3525409;Jeriquara;2020;2;Médio;3141
+3525409;Jeriquara;2021;2;Médio;3141
+3525508;Joanópolis;2014;1;Baixo;12153
+3525508;Joanópolis;2016;3;Alto;12336
+3525508;Joanópolis;2018;3;Alto;12500
+3525508;Joanópolis;2020;2;Médio;12666
+3525508;Joanópolis;2021;2;Médio;12720
+3525607;Joăo Ramalho;2014;1;Baixo;4243
+3525607;Joăo Ramalho;2016;1;Baixo;4290
+3525607;Joăo Ramalho;2018;2;Médio;4336
+3525607;Joăo Ramalho;2020;2;Médio;4384
+3525607;Joăo Ramalho;2021;2;Médio;4404
+3525706;José Bonifácio;2014;2;Médio;34074
+3525706;José Bonifácio;2016;3;Alto;34726
+3525706;José Bonifácio;2018;3;Alto;35348
+3525706;José Bonifácio;2020;2;Médio;35981
+3525706;José Bonifácio;2021;2;Médio;36229
+3525805;Júlio Mesquita;2014;1;Baixo;4505
+3525805;Júlio Mesquita;2016;1;Baixo;4547
+3525805;Júlio Mesquita;2018;1;Baixo;4593
+3525805;Júlio Mesquita;2020;1;Baixo;4640
+3525805;Júlio Mesquita;2021;1;Baixo;4658
+3525854;Jumirim;2014;3;Alto;3017
+3525854;Jumirim;2016;3;Alto;3120
+3525854;Jumirim;2018;4;Muito alto;3211
+3525854;Jumirim;2020;4;Muito alto;3306
+3525854;Jumirim;2021;4;Muito alto;3343
+3525904;Jundiaí;2014;4;Muito alto;386677
+3525904;Jundiaí;2016;4;Muito alto;394185
+3525904;Jundiaí;2018;4;Muito alto;400549
+3525904;Jundiaí;2020;4;Muito alto;407016
+3525904;Jundiaí;2021;4;Muito alto;409439
+3526001;Junqueirópolis;2014;3;Alto;19262
+3526001;Junqueirópolis;2016;4;Muito alto;19534
+3526001;Junqueirópolis;2018;4;Muito alto;19798
+3526001;Junqueirópolis;2020;3;Alto;20065
+3526001;Junqueirópolis;2021;3;Alto;20174
+3526100;Juquiá;2014;1;Baixo;18981
+3526100;Juquiá;2016;1;Baixo;18896
+3526100;Juquiá;2018;1;Baixo;18862
+3526100;Juquiá;2020;1;Baixo;18828
+3526100;Juquiá;2021;1;Baixo;18856
+3526209;Juquitiba;2014;1;Baixo;29348
+3526209;Juquitiba;2016;2;Médio;29684
+3526209;Juquitiba;2018;3;Alto;30040
+3526209;Juquitiba;2020;2;Médio;30401
+3526209;Juquitiba;2021;2;Médio;30579
+3526308;Lagoinha;2014;1;Baixo;4823
+3526308;Lagoinha;2016;1;Baixo;4818
+3526308;Lagoinha;2018;2;Médio;4818
+3526308;Lagoinha;2020;2;Médio;4819
+3526308;Lagoinha;2021;2;Médio;4821
+3526407;Laranjal Paulista;2014;1;Baixo;26307
+3526407;Laranjal Paulista;2016;1;Baixo;26830
+3526407;Laranjal Paulista;2018;2;Médio;27327
+3526407;Laranjal Paulista;2020;2;Médio;27834
+3526407;Laranjal Paulista;2021;2;Médio;28042
+3526506;Lavínia;2014;2;Médio;8642
+3526506;Lavínia;2016;2;Médio;8594
+3526506;Lavínia;2018;2;Médio;8547
+3526506;Lavínia;2020;1;Baixo;8500
+3526506;Lavínia;2021;1;Baixo;8476
+3526605;Lavrinhas;2014;1;Baixo;6822
+3526605;Lavrinhas;2016;1;Baixo;6938
+3526605;Lavrinhas;2018;1;Baixo;7051
+3526605;Lavrinhas;2020;1;Baixo;7167
+3526605;Lavrinhas;2021;1;Baixo;7218
+3526704;Leme;2014;2;Médio;95535
+3526704;Leme;2016;2;Médio;97403
+3526704;Leme;2018;3;Alto;99172
+3526704;Leme;2020;3;Alto;100975
+3526704;Leme;2021;3;Alto;101693
+3526803;Lençóis Paulista;2014;3;Alto;63474
+3526803;Lençóis Paulista;2016;3;Alto;64470
+3526803;Lençóis Paulista;2018;3;Alto;65399
+3526803;Lençóis Paulista;2020;3;Alto;66343
+3526803;Lençóis Paulista;2021;3;Alto;66695
+3526902;Limeira;2014;2;Médio;284627
+3526902;Limeira;2016;3;Alto;288741
+3526902;Limeira;2018;3;Alto;292497
+3526902;Limeira;2020;3;Alto;296300
+3526902;Limeira;2021;3;Alto;297662
+3527009;Lindóia;2014;3;Alto;7164
+3527009;Lindóia;2016;3;Alto;7370
+3527009;Lindóia;2018;3;Alto;7544
+3527009;Lindóia;2020;2;Médio;7722
+3527009;Lindóia;2021;2;Médio;7789
+3527108;Lins;2014;2;Médio;73058
+3527108;Lins;2016;2;Médio;73801
+3527108;Lins;2018;3;Alto;74441
+3527108;Lins;2020;2;Médio;75087
+3527108;Lins;2021;2;Médio;75318
+3527207;Lorena;2014;1;Baixo;84217
+3527207;Lorena;2016;1;Baixo;85046
+3527207;Lorena;2018;2;Médio;85839
+3527207;Lorena;2020;1;Baixo;86639
+3527207;Lorena;2021;1;Baixo;86952
+3527256;Lourdes;2014;3;Alto;2156
+3527256;Lourdes;2016;3;Alto;2166
+3527256;Lourdes;2018;3;Alto;2174
+3527256;Lourdes;2020;1;Baixo;2182
+3527256;Lourdes;2021;1;Baixo;2183
+3527306;Louveira;2014;4;Muito alto;41974
+3527306;Louveira;2016;4;Muito alto;44269
+3527306;Louveira;2018;4;Muito alto;46225
+3527306;Louveira;2020;4;Muito alto;48268
+3527306;Louveira;2021;4;Muito alto;48965
+3527405;Lucélia;2014;2;Médio;20365
+3527405;Lucélia;2016;3;Alto;20596
+3527405;Lucélia;2018;3;Alto;20806
+3527405;Lucélia;2020;3;Alto;21019
+3527405;Lucélia;2021;3;Alto;21092
+3527504;Lucianópolis;2014;2;Médio;2249
+3527504;Lucianópolis;2016;2;Médio;2251
+3527504;Lucianópolis;2018;2;Médio;2256
+3527504;Lucianópolis;2020;2;Médio;2261
+3527504;Lucianópolis;2021;2;Médio;2264
+3527603;Luís Antônio;2014;2;Médio;12566
+3527603;Luís Antônio;2016;2;Médio;13161
+3527603;Luís Antônio;2018;3;Alto;13654
+3527603;Luís Antônio;2020;3;Alto;14166
+3527603;Luís Antônio;2021;3;Alto;14358
+3527702;Luiziânia;2014;1;Baixo;5319
+3527702;Luiziânia;2016;2;Médio;5465
+3527702;Luiziânia;2018;3;Alto;5607
+3527702;Luiziânia;2020;1;Baixo;5754
+3527702;Luiziânia;2021;1;Baixo;5813
+3527801;Lupércio;2014;1;Baixo;4379
+3527801;Lupércio;2016;1;Baixo;4393
+3527801;Lupércio;2018;1;Baixo;4407
+3527801;Lupércio;2020;1;Baixo;4421
+3527801;Lupércio;2021;1;Baixo;4428
+3527900;Lutécia;2014;1;Baixo;2671
+3527900;Lutécia;2016;2;Médio;2652
+3527900;Lutécia;2018;3;Alto;2637
+3527900;Lutécia;2020;2;Médio;2621
+3527900;Lutécia;2021;2;Médio;2615
+3528007;Macatuba;2014;3;Alto;16536
+3528007;Macatuba;2016;2;Médio;16672
+3528007;Macatuba;2018;3;Alto;16801
+3528007;Macatuba;2020;3;Alto;16932
+3528007;Macatuba;2021;3;Alto;16981
+3528106;Macaubal;2014;2;Médio;7718
+3528106;Macaubal;2016;2;Médio;7736
+3528106;Macaubal;2018;2;Médio;7742
+3528106;Macaubal;2020;2;Médio;7749
+3528106;Macaubal;2021;2;Médio;7738
+3528205;Macedônia;2014;2;Médio;3626
+3528205;Macedônia;2016;3;Alto;3609
+3528205;Macedônia;2018;4;Muito alto;3591
+3528205;Macedônia;2020;3;Alto;3574
+3528205;Macedônia;2021;3;Alto;3562
+3528304;Magda;2014;1;Baixo;3156
+3528304;Magda;2016;3;Alto;3133
+3528304;Magda;2018;3;Alto;3110
+3528304;Magda;2020;4;Muito alto;3088
+3528304;Magda;2021;4;Muito alto;3076
+3528403;Mairinque;2014;2;Médio;44522
+3528403;Mairinque;2016;2;Médio;45149
+3528403;Mairinque;2018;2;Médio;45732
+3528403;Mairinque;2020;2;Médio;46323
+3528403;Mairinque;2021;2;Médio;46569
+3528502;Mairiporă;2014;1;Baixo;88150
+3528502;Mairiporă;2016;1;Baixo;91745
+3528502;Mairiporă;2018;2;Médio;95122
+3528502;Mairiporă;2020;2;Médio;98622
+3528502;Mairiporă;2021;2;Médio;100034
+3528601;Manduri;2014;1;Baixo;9220
+3528601;Manduri;2016;1;Baixo;9328
+3528601;Manduri;2018;2;Médio;9426
+3528601;Manduri;2020;1;Baixo;9525
+3528601;Manduri;2021;1;Baixo;9562
+3528700;Marabá Paulista;2014;1;Baixo;4853
+3528700;Marabá Paulista;2016;2;Médio;4880
+3528700;Marabá Paulista;2018;1;Baixo;4905
+3528700;Marabá Paulista;2020;1;Baixo;4931
+3528700;Marabá Paulista;2021;1;Baixo;4942
+3528809;Maracaí;2014;2;Médio;13419
+3528809;Maracaí;2016;3;Alto;13457
+3528809;Maracaí;2018;3;Alto;13489
+3528809;Maracaí;2020;2;Médio;13521
+3528809;Maracaí;2021;2;Médio;13526
+3528858;Marapoama;2014;3;Alto;2750
+3528858;Marapoama;2016;3;Alto;2805
+3528858;Marapoama;2018;3;Alto;2856
+3528858;Marapoama;2020;4;Muito alto;2906
+3528858;Marapoama;2021;4;Muito alto;2925
+3528908;Mariápolis;2014;1;Baixo;3942
+3528908;Mariápolis;2016;1;Baixo;3954
+3528908;Mariápolis;2018;1;Baixo;3964
+3528908;Mariápolis;2020;2;Médio;3975
+3528908;Mariápolis;2021;2;Médio;3979
+3529005;Marília;2014;3;Alto;223002
+3529005;Marília;2016;3;Alto;226005
+3529005;Marília;2018;3;Alto;228763
+3529005;Marília;2020;3;Alto;231554
+3529005;Marília;2021;3;Alto;232599
+3529104;Marinópolis;2014;1;Baixo;2104
+3529104;Marinópolis;2016;2;Médio;2100
+3529104;Marinópolis;2018;3;Alto;2098
+3529104;Marinópolis;2020;3;Alto;2097
+3529104;Marinópolis;2021;3;Alto;2096
+3529203;Martinópolis;2014;2;Médio;24808
+3529203;Martinópolis;2016;2;Médio;25102
+3529203;Martinópolis;2018;2;Médio;25384
+3529203;Martinópolis;2020;2;Médio;25668
+3529203;Martinópolis;2021;2;Médio;25778
+3529302;Matăo;2014;3;Alto;78233
+3529302;Matăo;2016;3;Alto;78890
+3529302;Matăo;2018;4;Muito alto;79453
+3529302;Matăo;2020;3;Alto;80020
+3529302;Matăo;2021;3;Alto;80174
+3529401;Mauá;2014;2;Médio;435171
+3529401;Mauá;2016;2;Médio;443910
+3529401;Mauá;2018;3;Alto;451947
+3529401;Mauá;2020;2;Médio;460132
+3529401;Mauá;2021;2;Médio;463338
+3529500;Mendonça;2014;4;Muito alto;4817
+3529500;Mendonça;2016;4;Muito alto;4899
+3529500;Mendonça;2018;4;Muito alto;4971
+3529500;Mendonça;2020;4;Muito alto;5043
+3529500;Mendonça;2021;4;Muito alto;5069
+3529609;Meridiano;2014;3;Alto;3810
+3529609;Meridiano;2016;4;Muito alto;3786
+3529609;Meridiano;2018;4;Muito alto;3762
+3529609;Meridiano;2020;3;Alto;3739
+3529609;Meridiano;2021;3;Alto;3725
+3529658;Mesópolis;2014;2;Médio;1887
+3529658;Mesópolis;2016;3;Alto;1888
+3529658;Mesópolis;2018;3;Alto;1890
+3529658;Mesópolis;2020;2;Médio;1893
+3529658;Mesópolis;2021;2;Médio;1893
+3529708;Miguelópolis;2014;2;Médio;20864
+3529708;Miguelópolis;2016;2;Médio;21061
+3529708;Miguelópolis;2018;2;Médio;21242
+3529708;Miguelópolis;2020;2;Médio;21424
+3529708;Miguelópolis;2021;2;Médio;21500
+3529807;Mineiros do Tietê;2014;1;Baixo;12264
+3529807;Mineiros do Tietê;2016;1;Baixo;12377
+3529807;Mineiros do Tietê;2018;1;Baixo;12487
+3529807;Mineiros do Tietê;2020;1;Baixo;12597
+3529807;Mineiros do Tietê;2021;1;Baixo;12641
+3529906;Miracatu;2014;1;Baixo;20141
+3529906;Miracatu;2016;1;Baixo;20008
+3529906;Miracatu;2018;1;Baixo;19971
+3529906;Miracatu;2020;1;Baixo;19934
+3529906;Miracatu;2021;1;Baixo;19961
+3530003;Mira Estrela;2014;2;Médio;2869
+3530003;Mira Estrela;2016;3;Alto;2893
+3530003;Mira Estrela;2018;4;Muito alto;2916
+3530003;Mira Estrela;2020;2;Médio;2939
+3530003;Mira Estrela;2021;2;Médio;2949
+3530102;Mirandópolis;2014;2;Médio;27996
+3530102;Mirandópolis;2016;2;Médio;28232
+3530102;Mirandópolis;2018;2;Médio;28438
+3530102;Mirandópolis;2020;2;Médio;28646
+3530102;Mirandópolis;2021;2;Médio;28715
+3530201;Mirante do Paranapanema;2014;1;Baixo;17355
+3530201;Mirante do Paranapanema;2016;2;Médio;17498
+3530201;Mirante do Paranapanema;2018;3;Alto;17634
+3530201;Mirante do Paranapanema;2020;1;Baixo;17769
+3530201;Mirante do Paranapanema;2021;1;Baixo;17831
+3530300;Mirassol;2014;3;Alto;55493
+3530300;Mirassol;2016;3;Alto;56311
+3530300;Mirassol;2018;3;Alto;57062
+3530300;Mirassol;2020;3;Alto;57824
+3530300;Mirassol;2021;3;Alto;58112
+3530409;Mirassolândia;2014;2;Médio;4458
+3530409;Mirassolândia;2016;2;Médio;4540
+3530409;Mirassolândia;2018;3;Alto;4621
+3530409;Mirassolândia;2020;2;Médio;4702
+3530409;Mirassolândia;2021;2;Médio;4736
+3530508;Mococa;2014;2;Médio;66463
+3530508;Mococa;2016;3;Alto;66557
+3530508;Mococa;2018;3;Alto;66655
+3530508;Mococa;2020;2;Médio;66753
+3530508;Mococa;2021;2;Médio;66719
+3530607;Mogi das Cruzes;2014;1;Baixo;405959
+3530607;Mogi das Cruzes;2016;2;Médio;415107
+3530607;Mogi das Cruzes;2018;3;Alto;423912
+3530607;Mogi das Cruzes;2020;3;Alto;432905
+3530607;Mogi das Cruzes;2021;3;Alto;436883
+3530706;Mogi Guaçu;2014;3;Alto;141862
+3530706;Mogi Guaçu;2016;3;Alto;144106
+3530706;Mogi Guaçu;2018;3;Alto;146200
+3530706;Mogi Guaçu;2020;2;Médio;148325
+3530706;Mogi Guaçu;2021;2;Médio;149071
+3530805;Mogi Mirim;2014;2;Médio;88244
+3530805;Mogi Mirim;2016;3;Alto;89042
+3530805;Mogi Mirim;2018;4;Muito alto;89738
+3530805;Mogi Mirim;2020;3;Alto;90439
+3530805;Mogi Mirim;2021;3;Alto;90657
+3530904;Mombuca;2014;1;Baixo;3294
+3530904;Mombuca;2016;1;Baixo;3307
+3530904;Mombuca;2018;2;Médio;3320
+3530904;Mombuca;2020;3;Alto;3332
+3530904;Mombuca;2021;3;Alto;3338
+3531001;Monçőes;2014;2;Médio;2154
+3531001;Monçőes;2016;3;Alto;2163
+3531001;Monçőes;2018;4;Muito alto;2169
+3531001;Monçőes;2020;3;Alto;2175
+3531001;Monçőes;2021;3;Alto;2173
+3531100;Mongaguá;2014;1;Baixo;49687
+3531100;Mongaguá;2016;1;Baixo;51380
+3531100;Mongaguá;2018;1;Baixo;52970
+3531100;Mongaguá;2020;1;Baixo;54610
+3531100;Mongaguá;2021;1;Baixo;55216
+3531209;Monte Alegre do Sul;2014;3;Alto;7415
+3531209;Monte Alegre do Sul;2016;4;Muito alto;7536
+3531209;Monte Alegre do Sul;2018;4;Muito alto;7642
+3531209;Monte Alegre do Sul;2020;2;Médio;7749
+3531209;Monte Alegre do Sul;2021;2;Médio;7792
+3531308;Monte Alto;2014;2;Médio;47453
+3531308;Monte Alto;2016;3;Alto;47811
+3531308;Monte Alto;2018;3;Alto;48107
+3531308;Monte Alto;2020;3;Alto;48405
+3531308;Monte Alto;2021;3;Alto;48469
+3531407;Monte Aprazível;2014;2;Médio;22557
+3531407;Monte Aprazível;2016;2;Médio;22909
+3531407;Monte Aprazível;2018;3;Alto;23181
+3531407;Monte Aprazível;2020;3;Alto;23458
+3531407;Monte Aprazível;2021;3;Alto;23561
+3531506;Monte Azul Paulista;2014;2;Médio;18630
+3531506;Monte Azul Paulista;2016;2;Médio;18481
+3531506;Monte Azul Paulista;2018;2;Médio;18335
+3531506;Monte Azul Paulista;2020;2;Médio;18191
+3531506;Monte Azul Paulista;2021;2;Médio;18131
+3531605;Monte Castelo;2014;2;Médio;4027
+3531605;Monte Castelo;2016;2;Médio;4011
+3531605;Monte Castelo;2018;3;Alto;4001
+3531605;Monte Castelo;2020;2;Médio;3991
+3531605;Monte Castelo;2021;2;Médio;3985
+3531704;Monteiro Lobato;2014;1;Baixo;4261
+3531704;Monteiro Lobato;2016;1;Baixo;4330
+3531704;Monteiro Lobato;2018;1;Baixo;4398
+3531704;Monteiro Lobato;2020;2;Médio;4465
+3531704;Monteiro Lobato;2021;2;Médio;4491
+3531803;Monte Mor;2014;3;Alto;53151
+3531803;Monte Mor;2016;3;Alto;55313
+3531803;Monte Mor;2018;3;Alto;57423
+3531803;Monte Mor;2020;2;Médio;59614
+3531803;Monte Mor;2021;2;Médio;60555
+3531902;Morro Agudo;2014;2;Médio;30422
+3531902;Morro Agudo;2016;2;Médio;31073
+3531902;Morro Agudo;2018;2;Médio;31696
+3531902;Morro Agudo;2020;2;Médio;32332
+3531902;Morro Agudo;2021;2;Médio;32603
+3532009;Morungaba;2014;2;Médio;12374
+3532009;Morungaba;2016;1;Baixo;12674
+3532009;Morungaba;2018;1;Baixo;12958
+3532009;Morungaba;2020;2;Médio;13247
+3532009;Morungaba;2021;2;Médio;13359
+3532058;Motuca;2014;2;Médio;4432
+3532058;Motuca;2016;2;Médio;4502
+3532058;Motuca;2018;2;Médio;4569
+3532058;Motuca;2020;3;Alto;4638
+3532058;Motuca;2021;3;Alto;4665
+3532108;Murutinga do Sul;2014;1;Baixo;4228
+3532108;Murutinga do Sul;2016;1;Baixo;4247
+3532108;Murutinga do Sul;2018;1;Baixo;4264
+3532108;Murutinga do Sul;2020;2;Médio;4281
+3532108;Murutinga do Sul;2021;2;Médio;4283
+3532157;Nantes;2014;2;Médio;2856
+3532157;Nantes;2016;2;Médio;2930
+3532157;Nantes;2018;2;Médio;3000
+3532157;Nantes;2020;1;Baixo;3071
+3532157;Nantes;2021;1;Baixo;3103
+3532207;Narandiba;2014;2;Médio;4504
+3532207;Narandiba;2016;3;Alto;4616
+3532207;Narandiba;2018;3;Alto;4727
+3532207;Narandiba;2020;3;Alto;4841
+3532207;Narandiba;2021;3;Alto;4888
+3532306;Natividade da Serra;2014;1;Baixo;6679
+3532306;Natividade da Serra;2016;1;Baixo;6683
+3532306;Natividade da Serra;2018;1;Baixo;6690
+3532306;Natividade da Serra;2020;1;Baixo;6698
+3532306;Natividade da Serra;2021;1;Baixo;6703
+3532405;Nazaré Paulista;2014;1;Baixo;17236
+3532405;Nazaré Paulista;2016;1;Baixo;17646
+3532405;Nazaré Paulista;2018;2;Médio;18041
+3532405;Nazaré Paulista;2020;2;Médio;18445
+3532405;Nazaré Paulista;2021;2;Médio;18611
+3532504;Neves Paulista;2014;2;Médio;8727
+3532504;Neves Paulista;2016;2;Médio;8697
+3532504;Neves Paulista;2018;3;Alto;8659
+3532504;Neves Paulista;2020;3;Alto;8620
+3532504;Neves Paulista;2021;3;Alto;8592
+3532603;Nhandeara;2014;2;Médio;10780
+3532603;Nhandeara;2016;3;Alto;10793
+3532603;Nhandeara;2018;4;Muito alto;10787
+3532603;Nhandeara;2020;3;Alto;10782
+3532603;Nhandeara;2021;3;Alto;10760
+3532702;Nipoă;2014;1;Baixo;4578
+3532702;Nipoă;2016;2;Médio;4720
+3532702;Nipoă;2018;2;Médio;4843
+3532702;Nipoă;2020;2;Médio;4969
+3532702;Nipoă;2021;2;Médio;5014
+3532801;Nova Aliança;2014;2;Médio;6122
+3532801;Nova Aliança;2016;3;Alto;6237
+3532801;Nova Aliança;2018;3;Alto;6342
+3532801;Nova Aliança;2020;4;Muito alto;6450
+3532801;Nova Aliança;2021;4;Muito alto;6487
+3532827;Nova Campina;2014;1;Baixo;8949
+3532827;Nova Campina;2016;1;Baixo;9183
+3532827;Nova Campina;2018;1;Baixo;9425
+3532827;Nova Campina;2020;1;Baixo;9675
+3532827;Nova Campina;2021;1;Baixo;9787
+3532843;Nova Canaă Paulista;2014;2;Médio;2039
+3532843;Nova Canaă Paulista;2016;3;Alto;2003
+3532843;Nova Canaă Paulista;2018;4;Muito alto;1970
+3532843;Nova Canaă Paulista;2020;3;Alto;1937
+3532843;Nova Canaă Paulista;2021;3;Alto;1921
+3532868;Nova Castilho;2014;4;Muito alto;1149
+3532868;Nova Castilho;2016;4;Muito alto;1159
+3532868;Nova Castilho;2018;4;Muito alto;1167
+3532868;Nova Castilho;2020;3;Alto;1176
+3532868;Nova Castilho;2021;3;Alto;1180
+3532900;Nova Europa;2014;1;Baixo;9890
+3532900;Nova Europa;2016;2;Médio;10184
+3532900;Nova Europa;2018;2;Médio;10463
+3532900;Nova Europa;2020;2;Médio;10749
+3532900;Nova Europa;2021;2;Médio;10863
+3533007;Nova Granada;2014;1;Baixo;19892
+3533007;Nova Granada;2016;1;Baixo;20245
+3533007;Nova Granada;2018;2;Médio;20578
+3533007;Nova Granada;2020;2;Médio;20918
+3533007;Nova Granada;2021;2;Médio;21054
+3533106;Nova Guataporanga;2014;2;Médio;2184
+3533106;Nova Guataporanga;2016;2;Médio;2187
+3533106;Nova Guataporanga;2018;3;Alto;2189
+3533106;Nova Guataporanga;2020;3;Alto;2191
+3533106;Nova Guataporanga;2021;3;Alto;2192
+3533205;Nova Independência;2014;1;Baixo;3352
+3533205;Nova Independência;2016;3;Alto;3488
+3533205;Nova Independência;2018;4;Muito alto;3607
+3533205;Nova Independência;2020;3;Alto;3731
+3533205;Nova Independência;2021;3;Alto;3774
+3533254;Novais;2014;1;Baixo;4986
+3533254;Novais;2016;1;Baixo;5174
+3533254;Novais;2018;2;Médio;5339
+3533254;Novais;2020;2;Médio;5509
+3533254;Novais;2021;2;Médio;5575
+3533304;Nova Luzitânia;2014;1;Baixo;3707
+3533304;Nova Luzitânia;2016;1;Baixo;3830
+3533304;Nova Luzitânia;2018;2;Médio;3936
+3533304;Nova Luzitânia;2020;2;Médio;4044
+3533304;Nova Luzitânia;2021;2;Médio;4083
+3533403;Nova Odessa;2014;3;Alto;54139
+3533403;Nova Odessa;2016;3;Alto;55523
+3533403;Nova Odessa;2018;4;Muito alto;56767
+3533403;Nova Odessa;2020;4;Muito alto;58039
+3533403;Nova Odessa;2021;4;Muito alto;58490
+3533502;Novo Horizonte;2014;3;Alto;37578
+3533502;Novo Horizonte;2016;4;Muito alto;38059
+3533502;Novo Horizonte;2018;4;Muito alto;38504
+3533502;Novo Horizonte;2020;3;Alto;38954
+3533502;Novo Horizonte;2021;3;Alto;39124
+3533601;Nuporanga;2014;3;Alto;7007
+3533601;Nuporanga;2016;3;Alto;7099
+3533601;Nuporanga;2018;4;Muito alto;7183
+3533601;Nuporanga;2020;3;Alto;7268
+3533601;Nuporanga;2021;3;Alto;7297
+3533700;Ocauçu;2014;2;Médio;4153
+3533700;Ocauçu;2016;3;Alto;4150
+3533700;Ocauçu;2018;3;Alto;4148
+3533700;Ocauçu;2020;3;Alto;4146
+3533700;Ocauçu;2021;3;Alto;4143
+3533809;Óleo;2014;1;Baixo;2601
+3533809;Óleo;2016;2;Médio;2572
+3533809;Óleo;2018;3;Alto;2550
+3533809;Óleo;2020;3;Alto;2527
+3533809;Óleo;2021;3;Alto;2517
+3533908;Olímpia;2014;3;Alto;51092
+3533908;Olímpia;2016;3;Alto;51598
+3533908;Olímpia;2018;4;Muito alto;52055
+3533908;Olímpia;2020;3;Alto;52516
+3533908;Olímpia;2021;3;Alto;52670
+3534005;Onda Verde;2014;2;Médio;4023
+3534005;Onda Verde;2016;3;Alto;4093
+3534005;Onda Verde;2018;2;Médio;4159
+3534005;Onda Verde;2020;3;Alto;4225
+3534005;Onda Verde;2021;3;Alto;4250
+3534104;Oriente;2014;1;Baixo;6164
+3534104;Oriente;2016;1;Baixo;6198
+3534104;Oriente;2018;2;Médio;6231
+3534104;Oriente;2020;2;Médio;6265
+3534104;Oriente;2021;2;Médio;6275
+3534203;Orindiúva;2014;2;Médio;6177
+3534203;Orindiúva;2016;4;Muito alto;6421
+3534203;Orindiúva;2018;4;Muito alto;6640
+3534203;Orindiúva;2020;3;Alto;6866
+3534203;Orindiúva;2021;3;Alto;6951
+3534302;Orlândia;2014;2;Médio;40837
+3534302;Orlândia;2016;3;Alto;41341
+3534302;Orlândia;2018;4;Muito alto;41801
+3534302;Orlândia;2020;2;Médio;42266
+3534302;Orlândia;2021;2;Médio;42436
+3534401;Osasco;2014;2;Médio;671686
+3534401;Osasco;2016;2;Médio;674552
+3534401;Osasco;2018;3;Alto;677750
+3534401;Osasco;2020;3;Alto;680964
+3534401;Osasco;2021;3;Alto;682876
+3534500;Oscar Bressane;2014;2;Médio;2527
+3534500;Oscar Bressane;2016;1;Baixo;2522
+3534500;Oscar Bressane;2018;3;Alto;2518
+3534500;Oscar Bressane;2020;3;Alto;2514
+3534500;Oscar Bressane;2021;3;Alto;2508
+3534609;Osvaldo Cruz;2014;3;Alto;31088
+3534609;Osvaldo Cruz;2016;3;Alto;31159
+3534609;Osvaldo Cruz;2018;2;Médio;31210
+3534609;Osvaldo Cruz;2020;2;Médio;31263
+3534609;Osvaldo Cruz;2021;2;Médio;31256
+3534708;Ourinhos;2014;2;Médio;106106
+3534708;Ourinhos;2016;3;Alto;107616
+3534708;Ourinhos;2018;3;Alto;109043
+3534708;Ourinhos;2020;2;Médio;110489
+3534708;Ourinhos;2021;2;Médio;111039
+3534757;Ouroeste;2014;3;Alto;8979
+3534757;Ouroeste;2016;3;Alto;9259
+3534757;Ouroeste;2018;4;Muito alto;9515
+3534757;Ouroeste;2020;3;Alto;9777
+3534757;Ouroeste;2021;3;Alto;9871
+3534807;Ouro Verde;2014;1;Baixo;7987
+3534807;Ouro Verde;2016;2;Médio;8082
+3534807;Ouro Verde;2018;1;Baixo;8174
+3534807;Ouro Verde;2020;1;Baixo;8268
+3534807;Ouro Verde;2021;1;Baixo;8306
+3534906;Pacaembu;2014;1;Baixo;13156
+3534906;Pacaembu;2016;1;Baixo;13122
+3534906;Pacaembu;2018;2;Médio;13090
+3534906;Pacaembu;2020;2;Médio;13056
+3534906;Pacaembu;2021;2;Médio;13041
+3535002;Palestina;2014;2;Médio;11540
+3535002;Palestina;2016;3;Alto;11766
+3535002;Palestina;2018;3;Alto;11962
+3535002;Palestina;2020;3;Alto;12160
+3535002;Palestina;2021;3;Alto;12220
+3535101;Palmares Paulista;2014;1;Baixo;11785
+3535101;Palmares Paulista;2016;1;Baixo;12204
+3535101;Palmares Paulista;2018;1;Baixo;12594
+3535101;Palmares Paulista;2020;1;Baixo;12997
+3535101;Palmares Paulista;2021;1;Baixo;13154
+3535200;Palmeira d'Oeste;2014;2;Médio;9368
+3535200;Palmeira d'Oeste;2016;3;Alto;9276
+3535200;Palmeira d'Oeste;2018;3;Alto;9203
+3535200;Palmeira d'Oeste;2020;2;Médio;9130
+3535200;Palmeira d'Oeste;2021;2;Médio;9092
+3535309;Palmital;2014;2;Médio;21362
+3535309;Palmital;2016;2;Médio;21446
+3535309;Palmital;2018;2;Médio;21523
+3535309;Palmital;2020;2;Médio;21599
+3535309;Palmital;2021;2;Médio;21609
+3535408;Panorama;2014;1;Baixo;14832
+3535408;Panorama;2016;1;Baixo;14957
+3535408;Panorama;2018;2;Médio;15078
+3535408;Panorama;2020;1;Baixo;15199
+3535408;Panorama;2021;1;Baixo;15253
+3535507;Paraguaçu Paulista;2014;2;Médio;43061
+3535507;Paraguaçu Paulista;2016;3;Alto;43447
+3535507;Paraguaçu Paulista;2018;3;Alto;43812
+3535507;Paraguaçu Paulista;2020;2;Médio;44180
+3535507;Paraguaçu Paulista;2021;2;Médio;44310
+3535606;Paraibuna;2014;2;Médio;17724
+3535606;Paraibuna;2016;2;Médio;17893
+3535606;Paraibuna;2018;3;Alto;18060
+3535606;Paraibuna;2020;2;Médio;18230
+3535606;Paraibuna;2021;2;Médio;18304
+3535705;Paraíso;2014;3;Alto;6060
+3535705;Paraíso;2016;3;Alto;6135
+3535705;Paraíso;2018;4;Muito alto;6202
+3535705;Paraíso;2020;3;Alto;6269
+3535705;Paraíso;2021;3;Alto;6293
+3535804;Paranapanema;2014;1;Baixo;18648
+3535804;Paranapanema;2016;3;Alto;19083
+3535804;Paranapanema;2018;4;Muito alto;19517
+3535804;Paranapanema;2020;2;Médio;19962
+3535804;Paranapanema;2021;2;Médio;20151
+3535903;Paranapuă;2014;2;Médio;3851
+3535903;Paranapuă;2016;3;Alto;3866
+3535903;Paranapuă;2018;3;Alto;3879
+3535903;Paranapuă;2020;3;Alto;3892
+3535903;Paranapuă;2021;3;Alto;3895
+3536000;Parapuă;2014;2;Médio;10699
+3536000;Parapuă;2016;1;Baixo;10631
+3536000;Parapuă;2018;2;Médio;10569
+3536000;Parapuă;2020;3;Alto;10507
+3536000;Parapuă;2021;3;Alto;10473
+3536109;Pardinho;2014;1;Baixo;5901
+3536109;Pardinho;2016;1;Baixo;6064
+3536109;Pardinho;2018;1;Baixo;6226
+3536109;Pardinho;2020;1;Baixo;6392
+3536109;Pardinho;2021;1;Baixo;6467
+3536208;Pariquera-Açu;2014;1;Baixo;18774
+3536208;Pariquera-Açu;2016;1;Baixo;18937
+3536208;Pariquera-Açu;2018;2;Médio;19094
+3536208;Pariquera-Açu;2020;1;Baixo;19251
+3536208;Pariquera-Açu;2021;1;Baixo;19311
+3536257;Parisi;2014;1;Baixo;2044
+3536257;Parisi;2016;1;Baixo;2049
+3536257;Parisi;2018;2;Médio;2052
+3536257;Parisi;2020;2;Médio;2054
+3536257;Parisi;2021;2;Médio;2053
+3536307;Patrocínio Paulista;2014;1;Baixo;13594
+3536307;Patrocínio Paulista;2016;3;Alto;13890
+3536307;Patrocínio Paulista;2018;3;Alto;14174
+3536307;Patrocínio Paulista;2020;2;Médio;14463
+3536307;Patrocínio Paulista;2021;2;Médio;14592
+3536406;Paulicéia;2014;1;Baixo;6669
+3536406;Paulicéia;2016;2;Médio;6833
+3536406;Paulicéia;2018;2;Médio;6988
+3536406;Paulicéia;2020;1;Baixo;7146
+3536406;Paulicéia;2021;1;Baixo;7213
+3536505;Paulínia;2014;4;Muito alto;92231
+3536505;Paulínia;2016;4;Muito alto;96955
+3536505;Paulínia;2018;4;Muito alto;100915
+3536505;Paulínia;2020;4;Muito alto;105037
+3536505;Paulínia;2021;4;Muito alto;106781
+3536570;Paulistânia;2014;3;Alto;1777
+3536570;Paulistânia;2016;4;Muito alto;1775
+3536570;Paulistânia;2018;4;Muito alto;1772
+3536570;Paulistânia;2020;3;Alto;1769
+3536570;Paulistânia;2021;3;Alto;1769
+3536604;Paulo de Faria;2014;1;Baixo;8548
+3536604;Paulo de Faria;2016;2;Médio;8534
+3536604;Paulo de Faria;2018;3;Alto;8528
+3536604;Paulo de Faria;2020;1;Baixo;8521
+3536604;Paulo de Faria;2021;1;Baixo;8520
+3536703;Pederneiras;2014;2;Médio;43169
+3536703;Pederneiras;2016;2;Médio;43993
+3536703;Pederneiras;2018;3;Alto;44775
+3536703;Pederneiras;2020;3;Alto;45570
+3536703;Pederneiras;2021;3;Alto;45877
+3536802;Pedra Bela;2014;1;Baixo;5859
+3536802;Pedra Bela;2016;1;Baixo;5896
+3536802;Pedra Bela;2018;2;Médio;5930
+3536802;Pedra Bela;2020;3;Alto;5964
+3536802;Pedra Bela;2021;3;Alto;5974
+3536901;Pedranópolis;2014;2;Médio;2494
+3536901;Pedranópolis;2016;3;Alto;2467
+3536901;Pedranópolis;2018;3;Alto;2445
+3536901;Pedranópolis;2020;2;Médio;2422
+3536901;Pedranópolis;2021;2;Médio;2412
+3537008;Pedregulho;2014;1;Baixo;15940
+3537008;Pedregulho;2016;2;Médio;16057
+3537008;Pedregulho;2018;2;Médio;16167
+3537008;Pedregulho;2020;2;Médio;16279
+3537008;Pedregulho;2021;2;Médio;16319
+3537107;Pedreira;2014;3;Alto;43693
+3537107;Pedreira;2016;3;Alto;44707
+3537107;Pedreira;2018;3;Alto;45618
+3537107;Pedreira;2020;3;Alto;46548
+3537107;Pedreira;2021;3;Alto;46908
+3537156;Pedrinhas Paulista;2014;3;Alto;2969
+3537156;Pedrinhas Paulista;2016;3;Alto;2983
+3537156;Pedrinhas Paulista;2018;4;Muito alto;2997
+3537156;Pedrinhas Paulista;2020;4;Muito alto;3010
+3537156;Pedrinhas Paulista;2021;4;Muito alto;3015
+3537206;Pedro de Toledo;2014;1;Baixo;10497
+3537206;Pedro de Toledo;2016;1;Baixo;10653
+3537206;Pedro de Toledo;2018;1;Baixo;10814
+3537206;Pedro de Toledo;2020;2;Médio;10977
+3537206;Pedro de Toledo;2021;2;Médio;11055
+3537305;Penápolis;2014;2;Médio;59492
+3537305;Penápolis;2016;3;Alto;59953
+3537305;Penápolis;2018;3;Alto;60362
+3537305;Penápolis;2020;3;Alto;60774
+3537305;Penápolis;2021;3;Alto;60902
+3537404;Pereira Barreto;2014;2;Médio;25151
+3537404;Pereira Barreto;2016;3;Alto;25237
+3537404;Pereira Barreto;2018;3;Alto;25314
+3537404;Pereira Barreto;2020;2;Médio;25391
+3537404;Pereira Barreto;2021;2;Médio;25411
+3537503;Pereiras;2014;2;Médio;7858
+3537503;Pereiras;2016;2;Médio;8056
+3537503;Pereiras;2018;2;Médio;8240
+3537503;Pereiras;2020;1;Baixo;8428
+3537503;Pereiras;2021;1;Baixo;8507
+3537602;Peruíbe;2014;1;Baixo;62307
+3537602;Peruíbe;2016;1;Baixo;63609
+3537602;Peruíbe;2018;2;Médio;64892
+3537602;Peruíbe;2020;1;Baixo;66201
+3537602;Peruíbe;2021;1;Baixo;66747
+3537701;Piacatu;2014;2;Médio;5534
+3537701;Piacatu;2016;1;Baixo;5656
+3537701;Piacatu;2018;2;Médio;5772
+3537701;Piacatu;2020;1;Baixo;5891
+3537701;Piacatu;2021;1;Baixo;5936
+3537800;Piedade;2014;1;Baixo;52645
+3537800;Piedade;2016;1;Baixo;52927
+3537800;Piedade;2018;2;Médio;53230
+3537800;Piedade;2020;2;Médio;53536
+3537800;Piedade;2021;2;Médio;53656
+3537909;Pilar do Sul;2014;1;Baixo;27151
+3537909;Pilar do Sul;2016;2;Médio;27518
+3537909;Pilar do Sul;2018;2;Médio;27867
+3537909;Pilar do Sul;2020;2;Médio;28221
+3537909;Pilar do Sul;2021;2;Médio;28355
+3538006;Pindamonhangaba;2014;1;Baixo;154082
+3538006;Pindamonhangaba;2016;2;Médio;157459
+3538006;Pindamonhangaba;2018;3;Alto;160506
+3538006;Pindamonhangaba;2020;2;Médio;163611
+3538006;Pindamonhangaba;2021;2;Médio;164753
+3538105;Pindorama;2014;2;Médio;15596
+3538105;Pindorama;2016;2;Médio;15844
+3538105;Pindorama;2018;2;Médio;16049
+3538105;Pindorama;2020;1;Baixo;16255
+3538105;Pindorama;2021;1;Baixo;16331
+3538204;Pinhalzinho;2014;1;Baixo;13784
+3538204;Pinhalzinho;2016;2;Médio;14119
+3538204;Pinhalzinho;2018;3;Alto;14433
+3538204;Pinhalzinho;2020;2;Médio;14755
+3538204;Pinhalzinho;2021;2;Médio;14877
+3538303;Piquerobi;2014;2;Médio;3534
+3538303;Piquerobi;2016;2;Médio;3534
+3538303;Piquerobi;2018;2;Médio;3534
+3538303;Piquerobi;2020;2;Médio;3535
+3538303;Piquerobi;2021;2;Médio;3532
+3538501;Piquete;2014;1;Baixo;13884
+3538501;Piquete;2016;1;Baixo;13790
+3538501;Piquete;2018;1;Baixo;13718
+3538501;Piquete;2020;1;Baixo;13647
+3538501;Piquete;2021;1;Baixo;13621
+3538600;Piracaia;2014;1;Baixo;25573
+3538600;Piracaia;2016;2;Médio;25811
+3538600;Piracaia;2018;3;Alto;26048
+3538600;Piracaia;2020;2;Médio;26287
+3538600;Piracaia;2021;2;Médio;26379
+3538709;Piracicaba;2014;3;Alto;375358
+3538709;Piracicaba;2016;3;Alto;380494
+3538709;Piracicaba;2018;4;Muito alto;385155
+3538709;Piracicaba;2020;4;Muito alto;389873
+3538709;Piracicaba;2021;4;Muito alto;391464
+3538808;Piraju;2014;2;Médio;28547
+3538808;Piraju;2016;3;Alto;28568
+3538808;Piraju;2018;4;Muito alto;28571
+3538808;Piraju;2020;2;Médio;28574
+3538808;Piraju;2021;2;Médio;28552
+3538907;Pirajuí;2014;1;Baixo;23024
+3538907;Pirajuí;2016;1;Baixo;23140
+3538907;Pirajuí;2018;1;Baixo;23199
+3538907;Pirajuí;2020;1;Baixo;23259
+3538907;Pirajuí;2021;1;Baixo;23274
+3539004;Pirangi;2014;2;Médio;10718
+3539004;Pirangi;2016;3;Alto;10760
+3539004;Pirangi;2018;3;Alto;10792
+3539004;Pirangi;2020;3;Alto;10823
+3539004;Pirangi;2021;3;Alto;10825
+3539103;Pirapora do Bom Jesus;2014;1;Baixo;16918
+3539103;Pirapora do Bom Jesus;2016;1;Baixo;17548
+3539103;Pirapora do Bom Jesus;2018;1;Baixo;18188
+3539103;Pirapora do Bom Jesus;2020;1;Baixo;18851
+3539103;Pirapora do Bom Jesus;2021;1;Baixo;19139
+3539202;Pirapozinho;2014;2;Médio;25705
+3539202;Pirapozinho;2016;2;Médio;26215
+3539202;Pirapozinho;2018;3;Alto;26709
+3539202;Pirapozinho;2020;2;Médio;27213
+3539202;Pirapozinho;2021;2;Médio;27425
+3539301;Pirassununga;2014;2;Médio;71620
+3539301;Pirassununga;2016;3;Alto;72356
+3539301;Pirassununga;2018;3;Alto;73027
+3539301;Pirassununga;2020;3;Alto;73706
+3539301;Pirassununga;2021;3;Alto;73921
+3539400;Piratininga;2014;1;Baixo;12533
+3539400;Piratininga;2016;2;Médio;12764
+3539400;Piratininga;2018;2;Médio;12987
+3539400;Piratininga;2020;2;Médio;13213
+3539400;Piratininga;2021;2;Médio;13305
+3539509;Pitangueiras;2014;1;Baixo;36632
+3539509;Pitangueiras;2016;2;Médio;37295
+3539509;Pitangueiras;2018;2;Médio;37934
+3539509;Pitangueiras;2020;2;Médio;38584
+3539509;Pitangueiras;2021;2;Médio;38852
+3539608;Planalto;2014;2;Médio;4755
+3539608;Planalto;2016;2;Médio;4897
+3539608;Planalto;2018;2;Médio;5031
+3539608;Planalto;2020;2;Médio;5167
+3539608;Planalto;2021;2;Médio;5221
+3539707;Platina;2014;1;Baixo;3314
+3539707;Platina;2016;3;Alto;3378
+3539707;Platina;2018;3;Alto;3439
+3539707;Platina;2020;2;Médio;3501
+3539707;Platina;2021;2;Médio;3528
+3539806;Poá;2014;2;Médio;110001
+3539806;Poá;2016;2;Médio;111929
+3539806;Poá;2018;2;Médio;113719
+3539806;Poá;2020;2;Médio;115538
+3539806;Poá;2021;2;Médio;116289
+3539905;Poloni;2014;3;Alto;5507
+3539905;Poloni;2016;2;Médio;5562
+3539905;Poloni;2018;3;Alto;5615
+3539905;Poloni;2020;2;Médio;5667
+3539905;Poloni;2021;2;Médio;5681
+3540002;Pompéia;2014;2;Médio;20507
+3540002;Pompéia;2016;2;Médio;20775
+3540002;Pompéia;2018;3;Alto;21027
+3540002;Pompéia;2020;4;Muito alto;21282
+3540002;Pompéia;2021;4;Muito alto;21384
+3540101;Pongaí;2014;1;Baixo;3411
+3540101;Pongaí;2016;1;Baixo;3385
+3540101;Pongaí;2018;2;Médio;3368
+3540101;Pongaí;2020;2;Médio;3351
+3540101;Pongaí;2021;2;Médio;3340
+3540200;Pontal;2014;1;Baixo;44239
+3540200;Pontal;2016;1;Baixo;46092
+3540200;Pontal;2018;3;Alto;47661
+3540200;Pontal;2020;2;Médio;49283
+3540200;Pontal;2021;2;Médio;49889
+3540259;Pontalinda;2014;1;Baixo;4249
+3540259;Pontalinda;2016;1;Baixo;4333
+3540259;Pontalinda;2018;1;Baixo;4409
+3540259;Pontalinda;2020;2;Médio;4487
+3540259;Pontalinda;2021;2;Médio;4515
+3540309;Pontes Gestal;2014;2;Médio;2519
+3540309;Pontes Gestal;2016;3;Alto;2522
+3540309;Pontes Gestal;2018;3;Alto;2524
+3540309;Pontes Gestal;2020;2;Médio;2528
+3540309;Pontes Gestal;2021;2;Médio;2530
+3540408;Populina;2014;1;Baixo;4125
+3540408;Populina;2016;2;Médio;4079
+3540408;Populina;2018;2;Médio;4037
+3540408;Populina;2020;2;Médio;3995
+3540408;Populina;2021;2;Médio;3977
+3540507;Porangaba;2014;1;Baixo;8738
+3540507;Porangaba;2016;1;Baixo;8939
+3540507;Porangaba;2018;1;Baixo;9122
+3540507;Porangaba;2020;2;Médio;9310
+3540507;Porangaba;2021;2;Médio;9380
+3540606;Porto Feliz;2014;3;Alto;50041
+3540606;Porto Feliz;2016;3;Alto;50607
+3540606;Porto Feliz;2018;3;Alto;51149
+3540606;Porto Feliz;2020;3;Alto;51697
+3540606;Porto Feliz;2021;3;Alto;51907
+3540705;Porto Ferreira;2014;2;Médio;52568
+3540705;Porto Ferreira;2016;3;Alto;53117
+3540705;Porto Ferreira;2018;3;Alto;53607
+3540705;Porto Ferreira;2020;2;Médio;54102
+3540705;Porto Ferreira;2021;2;Médio;54274
+3540754;Potim;2014;1;Baixo;19899
+3540754;Potim;2016;1;Baixo;20171
+3540754;Potim;2018;1;Baixo;20434
+3540754;Potim;2020;1;Baixo;20702
+3540754;Potim;2021;1;Baixo;20815
+3540804;Potirendaba;2014;3;Alto;15958
+3540804;Potirendaba;2016;3;Alto;16194
+3540804;Potirendaba;2018;3;Alto;16398
+3540804;Potirendaba;2020;2;Médio;16605
+3540804;Potirendaba;2021;2;Médio;16677
+3540853;Pracinha;2014;1;Baixo;2871
+3540853;Pracinha;2016;2;Médio;2885
+3540853;Pracinha;2018;1;Baixo;2899
+3540853;Pracinha;2020;1;Baixo;2913
+3540853;Pracinha;2021;1;Baixo;2921
+3540903;Pradópolis;2014;3;Alto;18887
+3540903;Pradópolis;2016;3;Alto;19609
+3540903;Pradópolis;2018;3;Alto;20248
+3540903;Pradópolis;2020;2;Médio;20907
+3540903;Pradópolis;2021;2;Médio;21167
+3541000;Praia Grande;2014;2;Médio;284757
+3541000;Praia Grande;2016;2;Médio;295928
+3541000;Praia Grande;2018;3;Alto;306207
+3541000;Praia Grande;2020;2;Médio;316844
+3541000;Praia Grande;2021;2;Médio;321008
+3541059;Pratânia;2014;2;Médio;4813
+3541059;Pratânia;2016;2;Médio;4926
+3541059;Pratânia;2018;3;Alto;5040
+3541059;Pratânia;2020;2;Médio;5156
+3541059;Pratânia;2021;2;Médio;5210
+3541109;Presidente Alves;2014;1;Baixo;4073
+3541109;Presidente Alves;2016;3;Alto;4052
+3541109;Presidente Alves;2018;3;Alto;4036
+3541109;Presidente Alves;2020;2;Médio;4020
+3541109;Presidente Alves;2021;2;Médio;4011
+3541208;Presidente Bernardes;2014;1;Baixo;13650
+3541208;Presidente Bernardes;2016;1;Baixo;13679
+3541208;Presidente Bernardes;2018;1;Baixo;13700
+3541208;Presidente Bernardes;2020;2;Médio;13720
+3541208;Presidente Bernardes;2021;2;Médio;13713
+3541307;Presidente Epitácio;2014;1;Baixo;41727
+3541307;Presidente Epitácio;2016;2;Médio;41947
+3541307;Presidente Epitácio;2018;2;Médio;42174
+3541307;Presidente Epitácio;2020;2;Médio;42400
+3541307;Presidente Epitácio;2021;2;Médio;42484
+3541406;Presidente Prudente;2014;2;Médio;213313
+3541406;Presidente Prudente;2016;3;Alto;216044
+3541406;Presidente Prudente;2018;3;Alto;218544
+3541406;Presidente Prudente;2020;3;Alto;221073
+3541406;Presidente Prudente;2021;3;Alto;221938
+3541505;Presidente Venceslau;2014;3;Alto;37975
+3541505;Presidente Venceslau;2016;2;Médio;37995
+3541505;Presidente Venceslau;2018;3;Alto;38000
+3541505;Presidente Venceslau;2020;3;Alto;38005
+3541505;Presidente Venceslau;2021;3;Alto;37981
+3541604;Promissăo;2014;1;Baixo;37286
+3541604;Promissăo;2016;2;Médio;38094
+3541604;Promissăo;2018;2;Médio;38873
+3541604;Promissăo;2020;2;Médio;39667
+3541604;Promissăo;2021;2;Médio;40001
+3541653;Quadra;2014;1;Baixo;3430
+3541653;Quadra;2016;1;Baixo;3526
+3541653;Quadra;2018;2;Médio;3616
+3541653;Quadra;2020;2;Médio;3708
+3541653;Quadra;2021;2;Médio;3745
+3541703;Quatá;2014;1;Baixo;13259
+3541703;Quatá;2016;3;Alto;13488
+3541703;Quatá;2018;2;Médio;13710
+3541703;Quatá;2020;2;Médio;13935
+3541703;Quatá;2021;2;Médio;14025
+3541802;Queiroz;2014;2;Médio;2994
+3541802;Queiroz;2016;2;Médio;3089
+3541802;Queiroz;2018;3;Alto;3183
+3541802;Queiroz;2020;3;Alto;3279
+3541802;Queiroz;2021;3;Alto;3319
+3541901;Queluz;2014;1;Baixo;11894
+3541901;Queluz;2016;1;Baixo;12168
+3541901;Queluz;2018;1;Baixo;12404
+3541901;Queluz;2020;1;Baixo;12644
+3541901;Queluz;2021;1;Baixo;12735
+3542008;Quintana;2014;2;Médio;6207
+3542008;Quintana;2016;2;Médio;6307
+3542008;Quintana;2018;3;Alto;6403
+3542008;Quintana;2020;2;Médio;6500
+3542008;Quintana;2021;2;Médio;6539
+3542107;Rafard;2014;2;Médio;8738
+3542107;Rafard;2016;2;Médio;8810
+3542107;Rafard;2018;2;Médio;8893
+3542107;Rafard;2020;3;Alto;8976
+3542107;Rafard;2021;3;Alto;9014
+3542206;Rancharia;2014;2;Médio;28800
+3542206;Rancharia;2016;2;Médio;28809
+3542206;Rancharia;2018;3;Alto;28828
+3542206;Rancharia;2020;2;Médio;28847
+3542206;Rancharia;2021;2;Médio;28855
+3542305;Redençăo da Serra;2014;1;Baixo;3852
+3542305;Redençăo da Serra;2016;1;Baixo;3845
+3542305;Redençăo da Serra;2018;1;Baixo;3841
+3542305;Redençăo da Serra;2020;1;Baixo;3837
+3542305;Redençăo da Serra;2021;1;Baixo;3834
+3542404;Regente Feijó;2014;2;Médio;18906
+3542404;Regente Feijó;2016;3;Alto;19109
+3542404;Regente Feijó;2018;3;Alto;19298
+3542404;Regente Feijó;2020;3;Alto;19491
+3542404;Regente Feijó;2021;3;Alto;19556
+3542503;Reginópolis;2014;1;Baixo;7265
+3542503;Reginópolis;2016;2;Médio;7249
+3542503;Reginópolis;2018;2;Médio;7232
+3542503;Reginópolis;2020;2;Médio;7215
+3542503;Reginópolis;2021;2;Médio;7204
+3542602;Registro;2014;1;Baixo;54058
+3542602;Registro;2016;2;Médio;54050
+3542602;Registro;2018;3;Alto;54133
+3542602;Registro;2020;2;Médio;54216
+3542602;Registro;2021;2;Médio;54270
+3542701;Restinga;2014;1;Baixo;6946
+3542701;Restinga;2016;2;Médio;7129
+3542701;Restinga;2018;2;Médio;7309
+3542701;Restinga;2020;1;Baixo;7493
+3542701;Restinga;2021;1;Baixo;7575
+3542800;Ribeira;2014;1;Baixo;3295
+3542800;Ribeira;2016;1;Baixo;3272
+3542800;Ribeira;2018;1;Baixo;3257
+3542800;Ribeira;2020;2;Médio;3242
+3542800;Ribeira;2021;2;Médio;3240
+3542909;Ribeirăo Bonito;2014;1;Baixo;12458
+3542909;Ribeirăo Bonito;2016;1;Baixo;12625
+3542909;Ribeirăo Bonito;2018;2;Médio;12791
+3542909;Ribeirăo Bonito;2020;1;Baixo;12959
+3542909;Ribeirăo Bonito;2021;1;Baixo;13033
+3543006;Ribeirăo Branco;2014;1;Baixo;17855
+3543006;Ribeirăo Branco;2016;1;Baixo;17736
+3543006;Ribeirăo Branco;2018;1;Baixo;17710
+3543006;Ribeirăo Branco;2020;1;Baixo;17685
+3543006;Ribeirăo Branco;2021;1;Baixo;17683
+3543105;Ribeirăo Corrente;2014;1;Baixo;4432
+3543105;Ribeirăo Corrente;2016;2;Médio;4511
+3543105;Ribeirăo Corrente;2018;3;Alto;4587
+3543105;Ribeirăo Corrente;2020;2;Médio;4664
+3543105;Ribeirăo Corrente;2021;2;Médio;4698
+3543204;Ribeirăo do Sul;2014;3;Alto;4401
+3543204;Ribeirăo do Sul;2016;2;Médio;4383
+3543204;Ribeirăo do Sul;2018;2;Médio;4371
+3543204;Ribeirăo do Sul;2020;2;Médio;4360
+3543204;Ribeirăo do Sul;2021;2;Médio;4351
+3543238;Ribeirăo dos Índios;2014;1;Baixo;2165
+3543238;Ribeirăo dos Índios;2016;1;Baixo;2156
+3543238;Ribeirăo dos Índios;2018;2;Médio;2148
+3543238;Ribeirăo dos Índios;2020;2;Médio;2141
+3543238;Ribeirăo dos Índios;2021;2;Médio;2135
+3543253;Ribeirăo Grande;2014;1;Baixo;7457
+3543253;Ribeirăo Grande;2016;1;Baixo;7475
+3543253;Ribeirăo Grande;2018;2;Médio;7493
+3543253;Ribeirăo Grande;2020;1;Baixo;7510
+3543253;Ribeirăo Grande;2021;1;Baixo;7515
+3543303;Ribeirăo Pires;2014;3;Alto;115677
+3543303;Ribeirăo Pires;2016;3;Alto;116875
+3543303;Ribeirăo Pires;2018;4;Muito alto;117917
+3543303;Ribeirăo Pires;2020;3;Alto;118968
+3543303;Ribeirăo Pires;2021;3;Alto;119339
+3543402;Ribeirăo Preto;2014;3;Alto;638796
+3543402;Ribeirăo Preto;2016;3;Alto;654893
+3543402;Ribeirăo Preto;2018;3;Alto;669180
+3543402;Ribeirăo Preto;2020;3;Alto;683777
+3543402;Ribeirăo Preto;2021;3;Alto;688894
+3543501;Riversul;2014;1;Baixo;5947
+3543501;Riversul;2016;1;Baixo;5855
+3543501;Riversul;2018;1;Baixo;5779
+3543501;Riversul;2020;1;Baixo;5705
+3543501;Riversul;2021;1;Baixo;5686
+3543600;Rifaina;2014;1;Baixo;3447
+3543600;Rifaina;2016;2;Médio;3454
+3543600;Rifaina;2018;2;Médio;3460
+3543600;Rifaina;2020;3;Alto;3468
+3543600;Rifaina;2021;3;Alto;3470
+3543709;Rincăo;2014;1;Baixo;10440
+3543709;Rincăo;2016;2;Médio;10456
+3543709;Rincăo;2018;2;Médio;10476
+3543709;Rincăo;2020;1;Baixo;10496
+3543709;Rincăo;2021;1;Baixo;10506
+3543808;Rinópolis;2014;1;Baixo;9838
+3543808;Rinópolis;2016;1;Baixo;9795
+3543808;Rinópolis;2018;2;Médio;9757
+3543808;Rinópolis;2020;2;Médio;9720
+3543808;Rinópolis;2021;2;Médio;9700
+3543907;Rio Claro;2014;3;Alto;192460
+3543907;Rio Claro;2016;2;Médio;195490
+3543907;Rio Claro;2018;3;Alto;198330
+3543907;Rio Claro;2020;3;Alto;201212
+3543907;Rio Claro;2021;3;Alto;202289
+3544004;Rio das Pedras;2014;2;Médio;31593
+3544004;Rio das Pedras;2016;2;Médio;32594
+3544004;Rio das Pedras;2018;3;Alto;33493
+3544004;Rio das Pedras;2020;3;Alto;34416
+3544004;Rio das Pedras;2021;3;Alto;34768
+3544103;Rio Grande da Serra;2014;1;Baixo;46326
+3544103;Rio Grande da Serra;2016;2;Médio;47508
+3544103;Rio Grande da Serra;2018;3;Alto;48648
+3544103;Rio Grande da Serra;2020;2;Médio;49816
+3544103;Rio Grande da Serra;2021;2;Médio;50313
+3544202;Riolândia;2014;1;Baixo;10910
+3544202;Riolândia;2016;2;Médio;11084
+3544202;Riolândia;2018;3;Alto;11256
+3544202;Riolândia;2020;2;Médio;11431
+3544202;Riolândia;2021;2;Médio;11501
+3544251;Rosana;2014;1;Baixo;19058
+3544251;Rosana;2016;2;Médio;18791
+3544251;Rosana;2018;2;Médio;18588
+3544251;Rosana;2020;3;Alto;18387
+3544251;Rosana;2021;3;Alto;18320
+3544301;Roseira;2014;1;Baixo;10029
+3544301;Roseira;2016;2;Médio;10240
+3544301;Roseira;2018;3;Alto;10439
+3544301;Roseira;2020;2;Médio;10642
+3544301;Roseira;2021;2;Médio;10723
+3544400;Rubiácea;2014;3;Alto;2887
+3544400;Rubiácea;2016;3;Alto;2965
+3544400;Rubiácea;2018;3;Alto;3034
+3544400;Rubiácea;2020;3;Alto;3106
+3544400;Rubiácea;2021;3;Alto;3138
+3544509;Rubinéia;2014;3;Alto;2919
+3544509;Rubinéia;2016;3;Alto;2945
+3544509;Rubinéia;2018;4;Muito alto;2967
+3544509;Rubinéia;2020;3;Alto;2989
+3544509;Rubinéia;2021;3;Alto;2996
+3544608;Sabino;2014;1;Baixo;5326
+3544608;Sabino;2016;2;Médio;5377
+3544608;Sabino;2018;1;Baixo;5422
+3544608;Sabino;2020;2;Médio;5468
+3544608;Sabino;2021;2;Médio;5485
+3544707;Sagres;2014;1;Baixo;2372
+3544707;Sagres;2016;2;Médio;2365
+3544707;Sagres;2018;2;Médio;2363
+3544707;Sagres;2020;2;Médio;2362
+3544707;Sagres;2021;2;Médio;2362
+3544806;Sales;2014;2;Médio;5714
+3544806;Sales;2016;2;Médio;5836
+3544806;Sales;2018;3;Alto;5942
+3544806;Sales;2020;3;Alto;6050
+3544806;Sales;2021;3;Alto;6082
+3544905;Sales Oliveira;2014;3;Alto;10975
+3544905;Sales Oliveira;2016;2;Médio;11169
+3544905;Sales Oliveira;2018;3;Alto;11342
+3544905;Sales Oliveira;2020;2;Médio;11518
+3544905;Sales Oliveira;2021;2;Médio;11580
+3545001;Salesópolis;2014;1;Baixo;16104
+3545001;Salesópolis;2016;2;Médio;16346
+3545001;Salesópolis;2018;2;Médio;16590
+3545001;Salesópolis;2020;2;Médio;16838
+3545001;Salesópolis;2021;2;Médio;16945
+3545100;Salmourăo;2014;1;Baixo;4930
+3545100;Salmourăo;2016;1;Baixo;4991
+3545100;Salmourăo;2018;1;Baixo;5053
+3545100;Salmourăo;2020;1;Baixo;5117
+3545100;Salmourăo;2021;1;Baixo;5138
+3545159;Saltinho;2014;3;Alto;7420
+3545159;Saltinho;2016;3;Alto;7584
+3545159;Saltinho;2018;4;Muito alto;7721
+3545159;Saltinho;2020;4;Muito alto;7860
+3545159;Saltinho;2021;4;Muito alto;7898
+3545209;Salto;2014;2;Médio;109496
+3545209;Salto;2016;3;Alto;111492
+3545209;Salto;2018;4;Muito alto;113416
+3545209;Salto;2020;3;Alto;115372
+3545209;Salto;2021;3;Alto;116089
+3545308;Salto de Pirapora;2014;1;Baixo;41826
+3545308;Salto de Pirapora;2016;2;Médio;42656
+3545308;Salto de Pirapora;2018;2;Médio;43433
+3545308;Salto de Pirapora;2020;3;Alto;44223
+3545308;Salto de Pirapora;2021;3;Alto;44522
+3545407;Salto Grande;2014;2;Médio;8900
+3545407;Salto Grande;2016;1;Baixo;8962
+3545407;Salto Grande;2018;3;Alto;9029
+3545407;Salto Grande;2020;2;Médio;9095
+3545407;Salto Grande;2021;2;Médio;9125
+3545506;Sandovalina;2014;2;Médio;3905
+3545506;Sandovalina;2016;3;Alto;4009
+3545506;Sandovalina;2018;4;Muito alto;4108
+3545506;Sandovalina;2020;3;Alto;4211
+3545506;Sandovalina;2021;3;Alto;4257
+3545605;Santa Adélia;2014;1;Baixo;14570
+3545605;Santa Adélia;2016;2;Médio;14683
+3545605;Santa Adélia;2018;3;Alto;14787
+3545605;Santa Adélia;2020;3;Alto;14892
+3545605;Santa Adélia;2021;3;Alto;14929
+3545704;Santa Albertina;2014;2;Médio;5707
+3545704;Santa Albertina;2016;3;Alto;5698
+3545704;Santa Albertina;2018;3;Alto;5685
+3545704;Santa Albertina;2020;3;Alto;5672
+3545704;Santa Albertina;2021;3;Alto;5657
+3545803;Santa Bárbara d'Oeste;2014;3;Alto;183720
+3545803;Santa Bárbara d'Oeste;2016;3;Alto;185487
+3545803;Santa Bárbara d'Oeste;2018;4;Muito alto;187109
+3545803;Santa Bárbara d'Oeste;2020;3;Alto;188745
+3545803;Santa Bárbara d'Oeste;2021;3;Alto;189330
+3546009;Santa Branca;2014;1;Baixo;13934
+3546009;Santa Branca;2016;1;Baixo;14019
+3546009;Santa Branca;2018;1;Baixo;14099
+3546009;Santa Branca;2020;1;Baixo;14179
+3546009;Santa Branca;2021;1;Baixo;14212
+3546108;Santa Clara d'Oeste;2014;2;Médio;2059
+3546108;Santa Clara d'Oeste;2016;3;Alto;2044
+3546108;Santa Clara d'Oeste;2018;4;Muito alto;2024
+3546108;Santa Clara d'Oeste;2020;4;Muito alto;2006
+3546108;Santa Clara d'Oeste;2021;4;Muito alto;1998
+3546207;Santa Cruz da Conceiçăo;2014;1;Baixo;4143
+3546207;Santa Cruz da Conceiçăo;2016;3;Alto;4213
+3546207;Santa Cruz da Conceiçăo;2018;3;Alto;4280
+3546207;Santa Cruz da Conceiçăo;2020;3;Alto;4349
+3546207;Santa Cruz da Conceiçăo;2021;3;Alto;4372
+3546256;Santa Cruz da Esperança;2014;2;Médio;2004
+3546256;Santa Cruz da Esperança;2016;1;Baixo;2030
+3546256;Santa Cruz da Esperança;2018;3;Alto;2054
+3546256;Santa Cruz da Esperança;2020;2;Médio;2077
+3546256;Santa Cruz da Esperança;2021;2;Médio;2086
+3546306;Santa Cruz das Palmeiras;2014;1;Baixo;31492
+3546306;Santa Cruz das Palmeiras;2016;2;Médio;32262
+3546306;Santa Cruz das Palmeiras;2018;2;Médio;32987
+3546306;Santa Cruz das Palmeiras;2020;2;Médio;33729
+3546306;Santa Cruz das Palmeiras;2021;2;Médio;34031
+3546405;Santa Cruz do Rio Pardo;2014;3;Alto;44791
+3546405;Santa Cruz do Rio Pardo;2016;3;Alto;45235
+3546405;Santa Cruz do Rio Pardo;2018;3;Alto;45671
+3546405;Santa Cruz do Rio Pardo;2020;3;Alto;46110
+3546405;Santa Cruz do Rio Pardo;2021;3;Alto;46276
+3546504;Santa Ernestina;2014;2;Médio;5546
+3546504;Santa Ernestina;2016;1;Baixo;5538
+3546504;Santa Ernestina;2018;2;Médio;5532
+3546504;Santa Ernestina;2020;1;Baixo;5525
+3546504;Santa Ernestina;2021;1;Baixo;5527
+3546603;Santa Fé do Sul;2014;2;Médio;29886
+3546603;Santa Fé do Sul;2016;3;Alto;30204
+3546603;Santa Fé do Sul;2018;4;Muito alto;30503
+3546603;Santa Fé do Sul;2020;3;Alto;30804
+3546603;Santa Fé do Sul;2021;3;Alto;30897
+3546702;Santa Gertrudes;2014;3;Alto;23450
+3546702;Santa Gertrudes;2016;3;Alto;24376
+3546702;Santa Gertrudes;2018;4;Muito alto;25266
+3546702;Santa Gertrudes;2020;3;Alto;26189
+3546702;Santa Gertrudes;2021;3;Alto;26572
+3546801;Santa Isabel;2014;1;Baixo;52369
+3546801;Santa Isabel;2016;2;Médio;53310
+3546801;Santa Isabel;2018;3;Alto;54191
+3546801;Santa Isabel;2020;2;Médio;55086
+3546801;Santa Isabel;2021;2;Médio;55436
+3546900;Santa Lúcia;2014;1;Baixo;8381
+3546900;Santa Lúcia;2016;1;Baixo;8444
+3546900;Santa Lúcia;2018;1;Baixo;8503
+3546900;Santa Lúcia;2020;1;Baixo;8562
+3546900;Santa Lúcia;2021;1;Baixo;8590
+3547007;Santa Maria da Serra;2014;1;Baixo;5698
+3547007;Santa Maria da Serra;2016;1;Baixo;5845
+3547007;Santa Maria da Serra;2018;2;Médio;5992
+3547007;Santa Maria da Serra;2020;2;Médio;6141
+3547007;Santa Maria da Serra;2021;2;Médio;6208
+3547106;Santa Mercedes;2014;2;Médio;2819
+3547106;Santa Mercedes;2016;2;Médio;2815
+3547106;Santa Mercedes;2018;3;Alto;2814
+3547106;Santa Mercedes;2020;2;Médio;2813
+3547106;Santa Mercedes;2021;2;Médio;2814
+3547205;Santana da Ponte Pensa;2014;2;Médio;1581
+3547205;Santana da Ponte Pensa;2016;4;Muito alto;1555
+3547205;Santana da Ponte Pensa;2018;4;Muito alto;1532
+3547205;Santana da Ponte Pensa;2020;4;Muito alto;1509
+3547205;Santana da Ponte Pensa;2021;4;Muito alto;1497
+3547304;Santana de Parnaíba;2014;3;Alto;120765
+3547304;Santana de Parnaíba;2016;4;Muito alto;126747
+3547304;Santana de Parnaíba;2018;4;Muito alto;132317
+3547304;Santana de Parnaíba;2020;4;Muito alto;138132
+3547304;Santana de Parnaíba;2021;4;Muito alto;140616
+3547403;Santa Rita d'Oeste;2014;2;Médio;2489
+3547403;Santa Rita d'Oeste;2016;3;Alto;2461
+3547403;Santa Rita d'Oeste;2018;3;Alto;2432
+3547403;Santa Rita d'Oeste;2020;4;Muito alto;2404
+3547403;Santa Rita d'Oeste;2021;4;Muito alto;2389
+3547502;Santa Rita do Passa Quatro;2014;2;Médio;26448
+3547502;Santa Rita do Passa Quatro;2016;2;Médio;26430
+3547502;Santa Rita do Passa Quatro;2018;2;Médio;26408
+3547502;Santa Rita do Passa Quatro;2020;2;Médio;26385
+3547502;Santa Rita do Passa Quatro;2021;2;Médio;26355
+3547601;Santa Rosa de Viterbo;2014;2;Médio;24577
+3547601;Santa Rosa de Viterbo;2016;2;Médio;24930
+3547601;Santa Rosa de Viterbo;2018;2;Médio;25264
+3547601;Santa Rosa de Viterbo;2020;2;Médio;25604
+3547601;Santa Rosa de Viterbo;2021;2;Médio;25732
+3547650;Santa Salete;2014;3;Alto;1447
+3547650;Santa Salete;2016;4;Muito alto;1446
+3547650;Santa Salete;2018;4;Muito alto;1443
+3547650;Santa Salete;2020;4;Muito alto;1440
+3547650;Santa Salete;2021;4;Muito alto;1438
+3547700;Santo Anastácio;2014;1;Baixo;20301
+3547700;Santo Anastácio;2016;1;Baixo;20231
+3547700;Santo Anastácio;2018;1;Baixo;20179
+3547700;Santo Anastácio;2020;1;Baixo;20127
+3547700;Santo Anastácio;2021;1;Baixo;20106
+3547809;Santo André;2014;2;Médio;683709
+3547809;Santo André;2016;3;Alto;687250
+3547809;Santo André;2018;3;Alto;690551
+3547809;Santo André;2020;3;Alto;693867
+3547809;Santo André;2021;3;Alto;694681
+3547908;Santo Antônio da Alegria;2014;1;Baixo;6441
+3547908;Santo Antônio da Alegria;2016;2;Médio;6508
+3547908;Santo Antônio da Alegria;2018;2;Médio;6572
+3547908;Santo Antônio da Alegria;2020;2;Médio;6637
+3547908;Santo Antônio da Alegria;2021;2;Médio;6661
+3548005;Santo Antônio de Posse;2014;2;Médio;21561
+3548005;Santo Antônio de Posse;2016;2;Médio;22006
+3548005;Santo Antônio de Posse;2018;3;Alto;22424
+3548005;Santo Antônio de Posse;2020;3;Alto;22849
+3548005;Santo Antônio de Posse;2021;3;Alto;23027
+3548054;Santo Antônio do Aracanguá;2014;2;Médio;7893
+3548054;Santo Antônio do Aracanguá;2016;3;Alto;8019
+3548054;Santo Antônio do Aracanguá;2018;3;Alto;8135
+3548054;Santo Antônio do Aracanguá;2020;3;Alto;8252
+3548054;Santo Antônio do Aracanguá;2021;3;Alto;8297
+3548104;Santo Antônio do Jardim;2014;2;Médio;5882
+3548104;Santo Antônio do Jardim;2016;3;Alto;5858
+3548104;Santo Antônio do Jardim;2018;3;Alto;5842
+3548104;Santo Antônio do Jardim;2020;3;Alto;5826
+3548104;Santo Antônio do Jardim;2021;3;Alto;5823
+3548203;Santo Antônio do Pinhal;2014;1;Baixo;6537
+3548203;Santo Antônio do Pinhal;2016;1;Baixo;6565
+3548203;Santo Antônio do Pinhal;2018;2;Médio;6596
+3548203;Santo Antônio do Pinhal;2020;1;Baixo;6628
+3548203;Santo Antônio do Pinhal;2021;1;Baixo;6643
+3548302;Santo Expedito;2014;1;Baixo;2873
+3548302;Santo Expedito;2016;1;Baixo;2907
+3548302;Santo Expedito;2018;1;Baixo;2939
+3548302;Santo Expedito;2020;2;Médio;2972
+3548302;Santo Expedito;2021;2;Médio;2986
+3548401;Santópolis do Aguapeí;2014;1;Baixo;4439
+3548401;Santópolis do Aguapeí;2016;2;Médio;4519
+3548401;Santópolis do Aguapeí;2018;2;Médio;4593
+3548401;Santópolis do Aguapeí;2020;2;Médio;4668
+3548401;Santópolis do Aguapeí;2021;2;Médio;4698
+3548500;Santos;2014;3;Alto;422737
+3548500;Santos;2016;3;Alto;424599
+3548500;Santos;2018;4;Muito alto;426646
+3548500;Santos;2020;3;Alto;428703
+3548500;Santos;2021;3;Alto;429513
+3548609;Săo Bento do Sapucaí;2014;2;Médio;10478
+3548609;Săo Bento do Sapucaí;2016;2;Médio;10491
+3548609;Săo Bento do Sapucaí;2018;2;Médio;10510
+3548609;Săo Bento do Sapucaí;2020;2;Médio;10530
+3548609;Săo Bento do Sapucaí;2021;2;Médio;10539
+3548708;Săo Bernardo do Campo;2014;3;Alto;786078
+3548708;Săo Bernardo do Campo;2016;3;Alto;795541
+3548708;Săo Bernardo do Campo;2018;4;Muito alto;803771
+3548708;Săo Bernardo do Campo;2020;4;Muito alto;812086
+3548708;Săo Bernardo do Campo;2021;4;Muito alto;815109
+3548807;Săo Caetano do Sul;2014;4;Muito alto;150319
+3548807;Săo Caetano do Sul;2016;4;Muito alto;150732
+3548807;Săo Caetano do Sul;2018;4;Muito alto;150988
+3548807;Săo Caetano do Sul;2020;4;Muito alto;151244
+3548807;Săo Caetano do Sul;2021;4;Muito alto;151111
+3548906;Săo Carlos;2014;3;Alto;230890
+3548906;Săo Carlos;2016;3;Alto;235096
+3548906;Săo Carlos;2018;4;Muito alto;238834
+3548906;Săo Carlos;2020;4;Muito alto;242632
+3548906;Săo Carlos;2021;4;Muito alto;244036
+3549003;Săo Francisco;2014;3;Alto;2746
+3549003;Săo Francisco;2016;3;Alto;2723
+3549003;Săo Francisco;2018;3;Alto;2700
+3549003;Săo Francisco;2020;3;Alto;2677
+3549003;Săo Francisco;2021;3;Alto;2667
+3549102;Săo Joăo da Boa Vista;2014;2;Médio;85269
+3549102;Săo Joăo da Boa Vista;2016;3;Alto;86021
+3549102;Săo Joăo da Boa Vista;2018;3;Alto;86679
+3549102;Săo Joăo da Boa Vista;2020;1;Baixo;87340
+3549102;Săo Joăo da Boa Vista;2021;1;Baixo;87537
+3549201;Săo Joăo das Duas Pontes;2014;1;Baixo;2527
+3549201;Săo Joăo das Duas Pontes;2016;3;Alto;2508
+3549201;Săo Joăo das Duas Pontes;2018;2;Médio;2492
+3549201;Săo Joăo das Duas Pontes;2020;2;Médio;2476
+3549201;Săo Joăo das Duas Pontes;2021;2;Médio;2466
+3549250;Săo Joăo de Iracema;2014;1;Baixo;1812
+3549250;Săo Joăo de Iracema;2016;2;Médio;1826
+3549250;Săo Joăo de Iracema;2018;3;Alto;1838
+3549250;Săo Joăo de Iracema;2020;3;Alto;1850
+3549250;Săo Joăo de Iracema;2021;3;Alto;1853
+3549300;Săo Joăo do Pau d'Alho;2014;2;Médio;2050
+3549300;Săo Joăo do Pau d'Alho;2016;3;Alto;2027
+3549300;Săo Joăo do Pau d'Alho;2018;3;Alto;2005
+3549300;Săo Joăo do Pau d'Alho;2020;3;Alto;1985
+3549300;Săo Joăo do Pau d'Alho;2021;3;Alto;1973
+3549409;Săo Joaquim da Barra;2014;2;Médio;48110
+3549409;Săo Joaquim da Barra;2016;3;Alto;48874
+3549409;Săo Joaquim da Barra;2018;3;Alto;49569
+3549409;Săo Joaquim da Barra;2020;3;Alto;50274
+3549409;Săo Joaquim da Barra;2021;3;Alto;50553
+3549508;Săo José da Bela Vista;2014;1;Baixo;8524
+3549508;Săo José da Bela Vista;2016;1;Baixo;8589
+3549508;Săo José da Bela Vista;2018;1;Baixo;8658
+3549508;Săo José da Bela Vista;2020;1;Baixo;8727
+3549508;Săo José da Bela Vista;2021;1;Baixo;8762
+3549607;Săo José do Barreiro;2014;1;Baixo;4070
+3549607;Săo José do Barreiro;2016;1;Baixo;4069
+3549607;Săo José do Barreiro;2018;1;Baixo;4069
+3549607;Săo José do Barreiro;2020;1;Baixo;4070
+3549607;Săo José do Barreiro;2021;1;Baixo;4073
+3549706;Săo José do Rio Pardo;2014;2;Médio;52452
+3549706;Săo José do Rio Pardo;2016;3;Alto;52716
+3549706;Săo José do Rio Pardo;2018;3;Alto;52960
+3549706;Săo José do Rio Pardo;2020;2;Médio;53206
+3549706;Săo José do Rio Pardo;2021;2;Médio;53277
+3549805;Săo José do Rio Preto;2014;3;Alto;425716
+3549805;Săo José do Rio Preto;2016;4;Muito alto;433779
+3549805;Săo José do Rio Preto;2018;4;Muito alto;440796
+3549805;Săo José do Rio Preto;2020;3;Alto;447924
+3549805;Săo José do Rio Preto;2021;3;Alto;450361
+3549904;Săo José dos Campos;2014;3;Alto;663632
+3549904;Săo José dos Campos;2016;3;Alto;680008
+3549904;Săo José dos Campos;2018;4;Muito alto;695163
+3549904;Săo José dos Campos;2020;3;Alto;710654
+3549904;Săo José dos Campos;2021;3;Alto;716688
+3549953;Săo Lourenço da Serra;2014;2;Médio;14595
+3549953;Săo Lourenço da Serra;2016;2;Médio;14920
+3549953;Săo Lourenço da Serra;2018;3;Alto;15246
+3549953;Săo Lourenço da Serra;2020;2;Médio;15579
+3549953;Săo Lourenço da Serra;2021;2;Médio;15721
+3550001;Săo Luiz do Paraitinga;2014;1;Baixo;10458
+3550001;Săo Luiz do Paraitinga;2016;1;Baixo;10493
+3550001;Săo Luiz do Paraitinga;2018;3;Alto;10531
+3550001;Săo Luiz do Paraitinga;2020;1;Baixo;10569
+3550001;Săo Luiz do Paraitinga;2021;1;Baixo;10584
+3550100;Săo Manuel;2014;1;Baixo;38830
+3550100;Săo Manuel;2016;2;Médio;39080
+3550100;Săo Manuel;2018;2;Médio;39326
+3550100;Săo Manuel;2020;2;Médio;39574
+3550100;Săo Manuel;2021;2;Médio;39678
+3550209;Săo Miguel Arcanjo;2014;1;Baixo;31634
+3550209;Săo Miguel Arcanjo;2016;2;Médio;31745
+3550209;Săo Miguel Arcanjo;2018;1;Baixo;31872
+3550209;Săo Miguel Arcanjo;2020;1;Baixo;32000
+3550209;Săo Miguel Arcanjo;2021;1;Baixo;32115
+3550308;Săo Paulo;2014;2;Médio;11513836
+3550308;Săo Paulo;2016;3;Alto;11638802
+3550308;Săo Paulo;2018;3;Alto;11753659
+3550308;Săo Paulo;2020;3;Alto;11869660
+3550308;Săo Paulo;2021;3;Alto;11914851
+3550407;Săo Pedro;2014;2;Médio;32731
+3550407;Săo Pedro;2016;3;Alto;33249
+3550407;Săo Pedro;2018;3;Alto;33725
+3550407;Săo Pedro;2020;3;Alto;34208
+3550407;Săo Pedro;2021;3;Alto;34408
+3550506;Săo Pedro do Turvo;2014;2;Médio;7253
+3550506;Săo Pedro do Turvo;2016;2;Médio;7289
+3550506;Săo Pedro do Turvo;2018;3;Alto;7329
+3550506;Săo Pedro do Turvo;2020;2;Médio;7369
+3550506;Săo Pedro do Turvo;2021;2;Médio;7389
+3550605;Săo Roque;2014;2;Médio;82528
+3550605;Săo Roque;2016;2;Médio;84281
+3550605;Săo Roque;2018;3;Alto;85844
+3550605;Săo Roque;2020;2;Médio;87435
+3550605;Săo Roque;2021;2;Médio;88032
+3550704;Săo Sebastiăo;2014;3;Alto;79395
+3550704;Săo Sebastiăo;2016;3;Alto;82079
+3550704;Săo Sebastiăo;2018;3;Alto;84569
+3550704;Săo Sebastiăo;2020;3;Alto;87135
+3550704;Săo Sebastiăo;2021;3;Alto;88156
+3550803;Săo Sebastiăo da Grama;2014;1;Baixo;12001
+3550803;Săo Sebastiăo da Grama;2016;2;Médio;11968
+3550803;Săo Sebastiăo da Grama;2018;3;Alto;11952
+3550803;Săo Sebastiăo da Grama;2020;1;Baixo;11936
+3550803;Săo Sebastiăo da Grama;2021;1;Baixo;11929
+3550902;Săo Simăo;2014;2;Médio;14537
+3550902;Săo Simăo;2016;2;Médio;14638
+3550902;Săo Simăo;2018;3;Alto;14742
+3550902;Săo Simăo;2020;1;Baixo;14847
+3550902;Săo Simăo;2021;1;Baixo;14891
+3551009;Săo Vicente;2014;1;Baixo;342583
+3551009;Săo Vicente;2016;1;Baixo;347733
+3551009;Săo Vicente;2018;1;Baixo;352794
+3551009;Săo Vicente;2020;1;Baixo;357929
+3551009;Săo Vicente;2021;1;Baixo;360262
+3551108;Sarapuí;2014;1;Baixo;9455
+3551108;Sarapuí;2016;1;Baixo;9675
+3551108;Sarapuí;2018;1;Baixo;9890
+3551108;Sarapuí;2020;1;Baixo;10110
+3551108;Sarapuí;2021;1;Baixo;10206
+3551207;Sarutaiá;2014;1;Baixo;3628
+3551207;Sarutaiá;2016;1;Baixo;3633
+3551207;Sarutaiá;2018;2;Médio;3639
+3551207;Sarutaiá;2020;3;Alto;3646
+3551207;Sarutaiá;2021;3;Alto;3652
+3551306;Sebastianópolis do Sul;2014;4;Muito alto;3154
+3551306;Sebastianópolis do Sul;2016;4;Muito alto;3207
+3551306;Sebastianópolis do Sul;2018;4;Muito alto;3250
+3551306;Sebastianópolis do Sul;2020;4;Muito alto;3293
+3551306;Sebastianópolis do Sul;2021;4;Muito alto;3304
+3551405;Serra Azul;2014;1;Baixo;11650
+3551405;Serra Azul;2016;1;Baixo;11863
+3551405;Serra Azul;2018;1;Baixo;12070
+3551405;Serra Azul;2020;1;Baixo;12282
+3551405;Serra Azul;2021;1;Baixo;12381
+3551504;Serrana;2014;1;Baixo;41169
+3551504;Serrana;2016;2;Médio;42296
+3551504;Serrana;2018;2;Médio;43352
+3551504;Serrana;2020;2;Médio;44434
+3551504;Serrana;2021;2;Médio;44870
+3551603;Serra Negra;2014;2;Médio;26856
+3551603;Serra Negra;2016;3;Alto;27072
+3551603;Serra Negra;2018;4;Muito alto;27255
+3551603;Serra Negra;2020;2;Médio;27440
+3551603;Serra Negra;2021;2;Médio;27486
+3551702;Sertăozinho;2014;3;Alto;115419
+3551702;Sertăozinho;2016;4;Muito alto;117916
+3551702;Sertăozinho;2018;4;Muito alto;120116
+3551702;Sertăozinho;2020;3;Alto;122355
+3551702;Sertăozinho;2021;3;Alto;123148
+3551801;Sete Barras;2014;1;Baixo;12756
+3551801;Sete Barras;2016;1;Baixo;12680
+3551801;Sete Barras;2018;1;Baixo;12654
+3551801;Sete Barras;2020;1;Baixo;12628
+3551801;Sete Barras;2021;1;Baixo;12643
+3551900;Severínia;2014;1;Baixo;16164
+3551900;Severínia;2016;1;Baixo;16492
+3551900;Severínia;2018;2;Médio;16806
+3551900;Severínia;2020;1;Baixo;17126
+3551900;Severínia;2021;1;Baixo;17263
+3552007;Silveiras;2014;1;Baixo;5955
+3552007;Silveiras;2016;1;Baixo;6039
+3552007;Silveiras;2018;1;Baixo;6121
+3552007;Silveiras;2020;1;Baixo;6204
+3552007;Silveiras;2021;1;Baixo;6240
+3552106;Socorro;2014;2;Médio;37608
+3552106;Socorro;2016;3;Alto;38036
+3552106;Socorro;2018;3;Alto;38407
+3552106;Socorro;2020;3;Alto;38783
+3552106;Socorro;2021;3;Alto;38896
+3552205;Sorocaba;2014;3;Alto;615955
+3552205;Sorocaba;2016;3;Alto;630550
+3552205;Sorocaba;2018;3;Alto;644397
+3552205;Sorocaba;2020;3;Alto;658547
+3552205;Sorocaba;2021;3;Alto;663739
+3552304;Sud Mennucci;2014;2;Médio;7559
+3552304;Sud Mennucci;2016;3;Alto;7615
+3552304;Sud Mennucci;2018;3;Alto;7664
+3552304;Sud Mennucci;2020;2;Médio;7713
+3552304;Sud Mennucci;2021;2;Médio;7728
+3552403;Sumaré;2014;2;Médio;258801
+3552403;Sumaré;2016;3;Alto;267313
+3552403;Sumaré;2018;3;Alto;275147
+3552403;Sumaré;2020;3;Alto;283212
+3552403;Sumaré;2021;3;Alto;286462
+3552502;Suzano;2014;1;Baixo;273854
+3552502;Suzano;2016;2;Médio;279626
+3552502;Suzano;2018;2;Médio;285257
+3552502;Suzano;2020;2;Médio;291002
+3552502;Suzano;2021;2;Médio;293464
+3552551;Suzanápolis;2014;2;Médio;3624
+3552551;Suzanápolis;2016;3;Alto;3738
+3552551;Suzanápolis;2018;4;Muito alto;3842
+3552551;Suzanápolis;2020;3;Alto;3947
+3552551;Suzanápolis;2021;3;Alto;3990
+3552601;Tabapuă;2014;2;Médio;11606
+3552601;Tabapuă;2016;3;Alto;11714
+3552601;Tabapuă;2018;4;Muito alto;11803
+3552601;Tabapuă;2020;4;Muito alto;11892
+3552601;Tabapuă;2021;4;Muito alto;11918
+3552700;Tabatinga;2014;1;Baixo;15178
+3552700;Tabatinga;2016;1;Baixo;15423
+3552700;Tabatinga;2018;2;Médio;15658
+3552700;Tabatinga;2020;1;Baixo;15897
+3552700;Tabatinga;2021;1;Baixo;15996
+3552809;Taboăo da Serra;2014;1;Baixo;260345
+3552809;Taboăo da Serra;2016;2;Médio;268325
+3552809;Taboăo da Serra;2018;2;Médio;275988
+3552809;Taboăo da Serra;2020;2;Médio;283871
+3552809;Taboăo da Serra;2021;2;Médio;287155
+3552908;Taciba;2014;2;Médio;5851
+3552908;Taciba;2016;2;Médio;5920
+3552908;Taciba;2018;3;Alto;5987
+3552908;Taciba;2020;2;Médio;6054
+3552908;Taciba;2021;2;Médio;6081
+3553005;Taguaí;2014;4;Muito alto;11857
+3553005;Taguaí;2016;3;Alto;12367
+3553005;Taguaí;2018;4;Muito alto;12834
+3553005;Taguaí;2020;3;Alto;13319
+3553005;Taguaí;2021;3;Alto;13503
+3553104;Taiaçu;2014;1;Baixo;5953
+3553104;Taiaçu;2016;1;Baixo;5982
+3553104;Taiaçu;2018;2;Médio;6009
+3553104;Taiaçu;2020;2;Médio;6037
+3553104;Taiaçu;2021;2;Médio;6048
+3553203;Taiúva;2014;1;Baixo;6371
+3553203;Taiúva;2016;2;Médio;6330
+3553203;Taiúva;2018;3;Alto;6302
+3553203;Taiúva;2020;3;Alto;6278
+3553203;Taiúva;2021;3;Alto;6265
+3553302;Tambaú;2014;2;Médio;22540
+3553302;Tambaú;2016;1;Baixo;22620
+3553302;Tambaú;2018;2;Médio;22712
+3553302;Tambaú;2020;1;Baixo;22803
+3553302;Tambaú;2021;1;Baixo;22846
+3553401;Tanabi;2014;3;Alto;24536
+3553401;Tanabi;2016;3;Alto;24750
+3553401;Tanabi;2018;4;Muito alto;24926
+3553401;Tanabi;2020;3;Alto;25105
+3553401;Tanabi;2021;3;Alto;25147
+3553500;Tapiraí;2014;1;Baixo;7828
+3553500;Tapiraí;2016;1;Baixo;7765
+3553500;Tapiraí;2018;2;Médio;7732
+3553500;Tapiraí;2020;1;Baixo;7699
+3553500;Tapiraí;2021;1;Baixo;7705
+3553609;Tapiratiba;2014;3;Alto;12669
+3553609;Tapiratiba;2016;4;Muito alto;12644
+3553609;Tapiratiba;2018;4;Muito alto;12627
+3553609;Tapiratiba;2020;2;Médio;12610
+3553609;Tapiratiba;2021;2;Médio;12602
+3553658;Taquaral;2014;2;Médio;2730
+3553658;Taquaral;2016;3;Alto;2735
+3553658;Taquaral;2018;4;Muito alto;2743
+3553658;Taquaral;2020;2;Médio;2751
+3553658;Taquaral;2021;2;Médio;2753
+3553708;Taquaritinga;2014;1;Baixo;54156
+3553708;Taquaritinga;2016;2;Médio;54262
+3553708;Taquaritinga;2018;3;Alto;54381
+3553708;Taquaritinga;2020;1;Baixo;54499
+3553708;Taquaritinga;2021;1;Baixo;54531
+3553807;Taquarituba;2014;2;Médio;22684
+3553807;Taquarituba;2016;2;Médio;22865
+3553807;Taquarituba;2018;3;Alto;23029
+3553807;Taquarituba;2020;3;Alto;23193
+3553807;Taquarituba;2021;3;Alto;23246
+3553856;Taquarivaí;2014;1;Baixo;5380
+3553856;Taquarivaí;2016;2;Médio;5500
+3553856;Taquarivaí;2018;2;Médio;5622
+3553856;Taquarivaí;2020;2;Médio;5746
+3553856;Taquarivaí;2021;2;Médio;5803
+3553906;Tarabai;2014;1;Baixo;6870
+3553906;Tarabai;2016;1;Baixo;7004
+3553906;Tarabai;2018;1;Baixo;7135
+3553906;Tarabai;2020;1;Baixo;7269
+3553906;Tarabai;2021;1;Baixo;7327
+3553955;Tarumă;2014;2;Médio;13669
+3553955;Tarumă;2016;2;Médio;14059
+3553955;Tarumă;2018;3;Alto;14428
+3553955;Tarumă;2020;3;Alto;14806
+3553955;Tarumă;2021;3;Alto;14951
+3554003;Tatuí;2014;1;Baixo;112459
+3554003;Tatuí;2016;2;Médio;115049
+3554003;Tatuí;2018;2;Médio;117558
+3554003;Tatuí;2020;1;Baixo;120123
+3554003;Tatuí;2021;1;Baixo;121202
+3554102;Taubaté;2014;2;Médio;290634
+3554102;Taubaté;2016;3;Alto;296449
+3554102;Taubaté;2018;3;Alto;301856
+3554102;Taubaté;2020;2;Médio;307361
+3554102;Taubaté;2021;2;Médio;309483
+3554201;Tejupá;2014;1;Baixo;4739
+3554201;Tejupá;2016;1;Baixo;4716
+3554201;Tejupá;2018;2;Médio;4707
+3554201;Tejupá;2020;1;Baixo;4697
+3554201;Tejupá;2021;1;Baixo;4707
+3554300;Teodoro Sampaio;2014;1;Baixo;21818
+3554300;Teodoro Sampaio;2016;2;Médio;22026
+3554300;Teodoro Sampaio;2018;2;Médio;22219
+3554300;Teodoro Sampaio;2020;2;Médio;22414
+3554300;Teodoro Sampaio;2021;2;Médio;22495
+3554409;Terra Roxa;2014;1;Baixo;8754
+3554409;Terra Roxa;2016;2;Médio;8880
+3554409;Terra Roxa;2018;3;Alto;8999
+3554409;Terra Roxa;2020;2;Médio;9121
+3554409;Terra Roxa;2021;2;Médio;9170
+3554508;Tietê;2014;2;Médio;38571
+3554508;Tietê;2016;3;Alto;39431
+3554508;Tietê;2018;3;Alto;40244
+3554508;Tietê;2020;3;Alto;41073
+3554508;Tietê;2021;3;Alto;41405
+3554607;Timburi;2014;1;Baixo;2605
+3554607;Timburi;2016;1;Baixo;2587
+3554607;Timburi;2018;1;Baixo;2572
+3554607;Timburi;2020;1;Baixo;2557
+3554607;Timburi;2021;1;Baixo;2551
+3554656;Torre de Pedra;2014;1;Baixo;2279
+3554656;Torre de Pedra;2016;1;Baixo;2293
+3554656;Torre de Pedra;2018;1;Baixo;2307
+3554656;Torre de Pedra;2020;3;Alto;2320
+3554656;Torre de Pedra;2021;3;Alto;2325
+3554706;Torrinha;2014;1;Baixo;9481
+3554706;Torrinha;2016;2;Médio;9558
+3554706;Torrinha;2018;2;Médio;9635
+3554706;Torrinha;2020;2;Médio;9713
+3554706;Torrinha;2021;2;Médio;9736
+3554755;Trabiju;2014;4;Muito alto;1605
+3554755;Trabiju;2016;2;Médio;1637
+3554755;Trabiju;2018;3;Alto;1670
+3554755;Trabiju;2020;2;Médio;1703
+3554755;Trabiju;2021;2;Médio;1716
+3554805;Tremembé;2014;1;Baixo;43157
+3554805;Tremembé;2016;2;Médio;44174
+3554805;Tremembé;2018;2;Médio;45066
+3554805;Tremembé;2020;1;Baixo;45978
+3554805;Tremembé;2021;1;Baixo;46364
+3554904;Três Fronteiras;2014;1;Baixo;5478
+3554904;Três Fronteiras;2016;2;Médio;5503
+3554904;Três Fronteiras;2018;3;Alto;5525
+3554904;Três Fronteiras;2020;2;Médio;5547
+3554904;Três Fronteiras;2021;2;Médio;5550
+3554953;Tuiuti;2014;1;Baixo;6197
+3554953;Tuiuti;2016;1;Baixo;6325
+3554953;Tuiuti;2018;1;Baixo;6439
+3554953;Tuiuti;2020;1;Baixo;6557
+3554953;Tuiuti;2021;1;Baixo;6597
+3555000;Tupă;2014;2;Médio;63184
+3555000;Tupă;2016;2;Médio;63057
+3555000;Tupă;2018;2;Médio;62950
+3555000;Tupă;2020;2;Médio;62843
+3555000;Tupă;2021;2;Médio;62720
+3555109;Tupi Paulista;2014;2;Médio;14657
+3555109;Tupi Paulista;2016;2;Médio;14783
+3555109;Tupi Paulista;2018;4;Muito alto;14829
+3555109;Tupi Paulista;2020;3;Alto;14878
+3555109;Tupi Paulista;2021;3;Alto;14877
+3555208;Turiúba;2014;3;Alto;1926
+3555208;Turiúba;2016;2;Médio;1923
+3555208;Turiúba;2018;3;Alto;1917
+3555208;Turiúba;2020;3;Alto;1912
+3555208;Turiúba;2021;3;Alto;1905
+3555307;Turmalina;2014;3;Alto;1904
+3555307;Turmalina;2016;4;Muito alto;1869
+3555307;Turmalina;2018;4;Muito alto;1836
+3555307;Turmalina;2020;4;Muito alto;1805
+3555307;Turmalina;2021;4;Muito alto;1789
+3555356;Ubarana;2014;1;Baixo;5607
+3555356;Ubarana;2016;2;Médio;5764
+3555356;Ubarana;2018;3;Alto;5914
+3555356;Ubarana;2020;2;Médio;6066
+3555356;Ubarana;2021;2;Médio;6126
+3555406;Ubatuba;2014;1;Baixo;82823
+3555406;Ubatuba;2016;2;Médio;84872
+3555406;Ubatuba;2018;2;Médio;86870
+3555406;Ubatuba;2020;2;Médio;88916
+3555406;Ubatuba;2021;2;Médio;89782
+3555505;Ubirajara;2014;1;Baixo;4522
+3555505;Ubirajara;2016;1;Baixo;4570
+3555505;Ubirajara;2018;1;Baixo;4616
+3555505;Ubirajara;2020;2;Médio;4663
+3555505;Ubirajara;2021;2;Médio;4684
+3555604;Uchoa;2014;2;Médio;9564
+3555604;Uchoa;2016;3;Alto;9607
+3555604;Uchoa;2018;3;Alto;9645
+3555604;Uchoa;2020;1;Baixo;9683
+3555604;Uchoa;2021;1;Baixo;9689
+3555703;Uniăo Paulista;2014;3;Alto;1656
+3555703;Uniăo Paulista;2016;1;Baixo;1686
+3555703;Uniăo Paulista;2018;1;Baixo;1712
+3555703;Uniăo Paulista;2020;1;Baixo;1739
+3555703;Uniăo Paulista;2021;1;Baixo;1751
+3555802;Urânia;2014;2;Médio;8755
+3555802;Urânia;2016;2;Médio;8710
+3555802;Urânia;2018;3;Alto;8660
+3555802;Urânia;2020;3;Alto;8611
+3555802;Urânia;2021;3;Alto;8584
+3555901;Uru;2014;1;Baixo;1229
+3555901;Uru;2016;1;Baixo;1219
+3555901;Uru;2018;2;Médio;1213
+3555901;Uru;2020;3;Alto;1207
+3555901;Uru;2021;3;Alto;1203
+3556008;Urupês;2014;2;Médio;12906
+3556008;Urupês;2016;3;Alto;12997
+3556008;Urupês;2018;3;Alto;13081
+3556008;Urupês;2020;3;Alto;13164
+3556008;Urupês;2021;3;Alto;13181
+3556107;Valentim Gentil;2014;2;Médio;11752
+3556107;Valentim Gentil;2016;3;Alto;12106
+3556107;Valentim Gentil;2018;3;Alto;12433
+3556107;Valentim Gentil;2020;3;Alto;12770
+3556107;Valentim Gentil;2021;3;Alto;12897
+3556206;Valinhos;2014;3;Alto;115258
+3556206;Valinhos;2016;4;Muito alto;118947
+3556206;Valinhos;2018;4;Muito alto;121809
+3556206;Valinhos;2020;4;Muito alto;124742
+3556206;Valinhos;2021;4;Muito alto;125800
+3556305;Valparaíso;2014;1;Baixo;23147
+3556305;Valparaíso;2016;3;Alto;23438
+3556305;Valparaíso;2018;3;Alto;23711
+3556305;Valparaíso;2020;3;Alto;23988
+3556305;Valparaíso;2021;3;Alto;24099
+3556354;Vargem;2014;1;Baixo;9287
+3556354;Vargem;2016;1;Baixo;9531
+3556354;Vargem;2018;1;Baixo;9762
+3556354;Vargem;2020;1;Baixo;10000
+3556354;Vargem;2021;1;Baixo;10094
+3556404;Vargem Grande do Sul;2014;1;Baixo;40199
+3556404;Vargem Grande do Sul;2016;2;Médio;40652
+3556404;Vargem Grande do Sul;2018;3;Alto;41075
+3556404;Vargem Grande do Sul;2020;2;Médio;41501
+3556404;Vargem Grande do Sul;2021;2;Médio;41684
+3556453;Vargem Grande Paulista;2014;1;Baixo;46921
+3556453;Vargem Grande Paulista;2016;2;Médio;48905
+3556453;Vargem Grande Paulista;2018;3;Alto;50797
+3556453;Vargem Grande Paulista;2020;3;Alto;52762
+3556453;Vargem Grande Paulista;2021;3;Alto;53613
+3556503;Várzea Paulista;2014;2;Médio;112833
+3556503;Várzea Paulista;2016;2;Médio;115562
+3556503;Várzea Paulista;2018;2;Médio;118022
+3556503;Várzea Paulista;2020;2;Médio;120535
+3556503;Várzea Paulista;2021;2;Médio;121482
+3556602;Vera Cruz;2014;1;Baixo;10654
+3556602;Vera Cruz;2016;1;Baixo;10604
+3556602;Vera Cruz;2018;1;Baixo;10564
+3556602;Vera Cruz;2020;1;Baixo;10524
+3556602;Vera Cruz;2021;1;Baixo;10506
+3556701;Vinhedo;2014;4;Muito alto;69449
+3556701;Vinhedo;2016;4;Muito alto;72287
+3556701;Vinhedo;2018;4;Muito alto;74858
+3556701;Vinhedo;2020;4;Muito alto;77521
+3556701;Vinhedo;2021;4;Muito alto;78440
+3556800;Viradouro;2014;1;Baixo;17739
+3556800;Viradouro;2016;2;Médio;17952
+3556800;Viradouro;2018;2;Médio;18148
+3556800;Viradouro;2020;1;Baixo;18347
+3556800;Viradouro;2021;1;Baixo;18421
+3556909;Vista Alegre do Alto;2014;2;Médio;7363
+3556909;Vista Alegre do Alto;2016;3;Alto;7595
+3556909;Vista Alegre do Alto;2018;4;Muito alto;7802
+3556909;Vista Alegre do Alto;2020;3;Alto;8014
+3556909;Vista Alegre do Alto;2021;3;Alto;8091
+3556958;Vitória Brasil;2014;1;Baixo;1748
+3556958;Vitória Brasil;2016;2;Médio;1752
+3556958;Vitória Brasil;2018;2;Médio;1756
+3556958;Vitória Brasil;2020;3;Alto;1760
+3556958;Vitória Brasil;2021;3;Alto;1761
+3557006;Votorantim;2014;2;Médio;113264
+3557006;Votorantim;2016;2;Médio;115495
+3557006;Votorantim;2018;3;Alto;117640
+3557006;Votorantim;2020;2;Médio;119824
+3557006;Votorantim;2021;2;Médio;120662
+3557105;Votuporanga;2014;3;Alto;87690
+3557105;Votuporanga;2016;3;Alto;89124
+3557105;Votuporanga;2018;4;Muito alto;90432
+3557105;Votuporanga;2020;3;Alto;91760
+3557105;Votuporanga;2021;3;Alto;92193
+3557154;Zacarias;2014;1;Baixo;2432
+3557154;Zacarias;2016;2;Médio;2478
+3557154;Zacarias;2018;2;Médio;2518
+3557154;Zacarias;2020;3;Alto;2560
+3557154;Zacarias;2021;3;Alto;2574
+3557204;Chavantes;2014;1;Baixo;12157
+3557204;Chavantes;2016;1;Baixo;12179
+3557204;Chavantes;2018;2;Médio;12201
+3557204;Chavantes;2020;1;Baixo;12223
+3557204;Chavantes;2021;1;Baixo;12229
+3557303;Estiva Gerbi;2014;1;Baixo;10469
+3557303;Estiva Gerbi;2016;2;Médio;10678
+3557303;Estiva Gerbi;2018;3;Alto;10877
+3557303;Estiva Gerbi;2020;2;Médio;11079
+3557303;Estiva Gerbi;2021;2;Médio;11156

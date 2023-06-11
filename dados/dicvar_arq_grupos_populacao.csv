@@ -1,0 +1,7 @@
+Variável;Tipo;Descrição;Fonte;Nota
+cod_ibge;numérico;Código oficial de 7 dígitos definido pelo IBGE para município;Instituto Brasileiro de Geografia e Estatística – IBGE ;
+municipio;texto;Nome dos municípios do ESP;Instituto Brasileiro de Geografia e Estatística – IBGE ;
+ano;numérico;Ano ;Fundação Sistema Estadual de Análise de Dados – Seade;
+grupos_cod;numérico;Códigos dos grupos do IPDM;Fundação Sistema Estadual de Análise de Dados – Seade;Ver Anexo Metodológico
+grupos;numérico;Descrição do grupo do IPDM;Fundação Sistema Estadual de Análise de Dados – Seade;Ver Anexo Metodológico
+populacao;numérico;População;Fundação Sistema Estadual de Análise de Dados – Seade;
