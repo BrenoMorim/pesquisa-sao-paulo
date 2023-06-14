@@ -19,3 +19,19 @@ Através dos seguintes gráficos, podemos concluir que a cidade de São Paulo te
 É notável o crescimento de São Paulo nos últimos anos, tanto no PIB quanto no índice paulista de desenvolvimento, apresentando uma taxa de crescimento parecida. Podemos perceber que somente a partir de 2020 que temos uma diminuição no IPDM e no PIB, por conta do início da pandemia.
 
 ![Dois gráficos, um mostrando o IPDM entre 2014 e 2021 e outro mostrando o PIB entre 2002 e 2020](https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/serie_historica_sp.png?raw=true)
+
+## Série histórica do IPDM dos 10 municípios mais populosos
+
+Através desse gráfico, podemos ver que os municípios tiveram uma tendência parecida, todos estavam com o índice de desenvolvimento melhorando e começaram a diminuir em 2020 por conta da pandemia. Podemos destacar o município de Mauá, que estava com uma taxa de crescimento elevada, porém esta estagnou em 2018, além disso a cidade de Guarulhos além de ser a menos desenvolvida entre as 10, apresenta também uma taxa de crescimento menor em comparação com o resto.
+
+> Site com gráfico interativo: <https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/serie_historica_ipdm_top_10.html?raw=true>
+
+![Gráfico mostrando a variação do IPDM dos 10 municípios mais populosos de São Paulo ao longo do tempo](https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/serie_historica_ipdm_top_10.png?raw=true)
+
+## Série histórica do PIB dos 10 municípios mais populosos
+
+A visualização desse gráfico foi prejudicada por conta da diferença enorme entre o PIB de São Paulo e os outros municípios, desde 2002 São Paulo já se destacava dos outros, mas com o tempo essa diferença se tornou ainda maior. Para uma análise mais clara, podemos aplicar filtros no gráfico interativo e excluir a visualização de São Paulo, revelando uma tendência de crescimento em todos os municípios, sobretudo em Osasco, que chegou a alcançar 80 bilhões de PIB em 2019.
+
+> Site com o gráfico interativo: <https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/serie_historica_pib_top_10.html?raw=true>
+
+![Gráfico mostrando a variação do PIB dos 10 municípios mais populosos de São Paulo ao longo do tempo](https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/serie_historica_pib_top_10.png?raw=true)
