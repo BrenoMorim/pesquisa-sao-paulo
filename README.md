@@ -24,7 +24,7 @@ Através dos seguintes gráficos, podemos concluir que a cidade de São Paulo te
 
 Através desse gráfico, podemos ver que os municípios tiveram uma tendência parecida, todos estavam com o índice de desenvolvimento melhorando e começaram a diminuir em 2020 por conta da pandemia. Podemos destacar o município de Mauá, que estava com uma taxa de crescimento elevada, porém esta estagnou em 2018, além disso a cidade de Guarulhos além de ser a menos desenvolvida entre as 10, apresenta também uma taxa de crescimento menor em comparação com o resto.
 
-> Site com gráfico interativo: <https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/serie_historica_ipdm_top_10.html?raw=true>
+> HTML do gráfico interativo: <https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/serie_historica_ipdm_top_10.html>
 
 ![Gráfico mostrando a variação do IPDM dos 10 municípios mais populosos de São Paulo ao longo do tempo](https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/serie_historica_ipdm_top_10.png?raw=true)
 
@@ -32,6 +32,12 @@ Através desse gráfico, podemos ver que os municípios tiveram uma tendência p
 
 A visualização desse gráfico foi prejudicada por conta da diferença enorme entre o PIB de São Paulo e os outros municípios, desde 2002 São Paulo já se destacava dos outros, mas com o tempo essa diferença se tornou ainda maior. Para uma análise mais clara, podemos aplicar filtros no gráfico interativo e excluir a visualização de São Paulo, revelando uma tendência de crescimento em todos os municípios, sobretudo em Osasco, que chegou a alcançar 80 bilhões de PIB em 2019.
 
-> Site com o gráfico interativo: <https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/serie_historica_pib_top_10.html?raw=true>
+> HTML do gráfico interativo: <https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/serie_historica_pib_top_10.html>
 
 ![Gráfico mostrando a variação do PIB dos 10 municípios mais populosos de São Paulo ao longo do tempo](https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/serie_historica_pib_top_10.png?raw=true)
+
+## Histograma do PIB per capita dos municípios em 2020
+
+Podemos ver que a maior parte dos municípios possui um PIB per capita em torno de 50 mil reais, porém existem alguns municípios que se destacam por possuir um PIB per capita extremamente alto, como o município de Louveira, que apresenta um PIB per capita de mais de 360 mil reais.
+
+![Histograma mostrando a distribuição de frequência do PIB per capita dos municípios](https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/histograma_pib_per_capita.png?raw=true)
