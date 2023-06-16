@@ -41,3 +41,11 @@ A visualização desse gráfico foi prejudicada por conta da diferença enorme e
 Podemos ver que a maior parte dos municípios possui um PIB per capita em torno de 50 mil reais, porém existem alguns municípios que se destacam por possuir um PIB per capita extremamente alto, como o município de Louveira, que apresenta um PIB per capita de mais de 360 mil reais.
 
 ![Histograma mostrando a distribuição de frequência do PIB per capita dos municípios](https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/histograma_pib_per_capita.png?raw=true)
+
+## Comparando o PIB per capita dos 10 municípios mais populosos em 2020
+
+É notável que o PIB per capita de Osasco é muito maior que os dos outros municípios analisados, sendo de 112 mil reais. Podemos destacar também o município de São Paulo, que apesar de ter o PIB altíssimo, conta com uma população muito grande e portanto acaba tendo o PIB per capita mediano, próximo a 63 mil reais. O resto dos municípios se encontra na faixa entre 50 e 60 mil reais, sendo o município de Mauá, que anteriormante apresentava um bom crescimento, aquele com o menor PIB per capita, de somente 37 mil reais.
+
+> HTML do gráfico interativo: <https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/pib_per_capita_top_10.html>
+
+![Gráfico de barras mostrando o PIB per capita dos municípios](https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/pib_per_capita_top_10.png?raw=true)
