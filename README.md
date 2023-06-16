@@ -49,3 +49,9 @@ Podemos ver que a maior parte dos municípios possui um PIB per capita em torno 
 > HTML do gráfico interativo: <https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/pib_per_capita_top_10.html>
 
 ![Gráfico de barras mostrando o PIB per capita dos municípios](https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/pib_per_capita_top_10.png?raw=true)
+
+## Comparando os municípios com o maior e o menor IPDM em 2021
+
+O município com maior IPDM de SP é Águas de São Pedro, sendo de 0.687. Águas de São Pedro é o menor município de SP e é famoso por suas estâncias hidrominerais, possuindo só um distrito dividido em 4 partes. Já Guapiara é o município com o menor IPDM, de somente 0.366. Guapiara é um município do interior de SP conhecido como a Capital do Artesanato e do Pêssego.
+
+![Gráficos de barras mostrando o IPDM dos municípios mais e menos desenvolvidos](https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/comparacao_ipdm.png?raw=true)
