@@ -1,11 +1,14 @@
 # Pesquisa Desenvolvimento municipal de São Paulo
 
+> Fonte dos dados do IPDM: <https://repositorio.seade.gov.br/group/indice-paulista-de-desenvolvimento-municipal-ipdm>; 
+> Fonte dos dados do PIB: <https://repositorio.seade.gov.br/group/seade-pib>;
+
 O objetivo do projeto é analisar o desenvolvimento do estado de São Paulo a nível municipal, considerando questões como o PIB de cada município e também o IPDM (indíce paulista de desenvolvimento municipal) de cada um. Os dados para essa pesquisa foram obtidos da Fundação Seade - Sistema Estadual de Análise de Dados. É sabido que São Paulo está entre os estados mais ricos do Brasil e que existe uma evidente desigualdade entre os estados, porém será que existe também uma desigualdade entre os municípios dentro do estado? Esta é uma das perguntas que busco responder com essa pesquisa.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Pesquisa Desenvolvimento Municipal**
-| :label: Tecnologias | Python, Seaborn, Pandas, Plotly
+| :label: Tecnologias | Python, Seaborn, Pandas, Plotly, Jupyter Notebook
 
 ![Gráfico de exemplo](https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/comparacao_ipdm.png?raw=true#vitrinedev)
 
