@@ -52,6 +52,14 @@ Podemos ver que a maior parte dos municípios possui um PIB per capita em torno 
 
 ## Comparando os municípios com o maior e o menor IPDM em 2021
 
-O município com maior IPDM de SP é Águas de São Pedro, sendo de 0.687. Águas de São Pedro é o menor município de SP e é famoso por suas estâncias hidrominerais, possuindo só um distrito dividido em 4 partes. Já Guapiara é o município com o menor IPDM, de somente 0.366. Guapiara é um município do interior de SP conhecido como a Capital do Artesanato e do Pêssego.
+O município com maior IPDM de SP é Águas de São Pedro, sendo de 0,687. Águas de São Pedro é o menor município de SP e é famoso por suas estâncias hidrominerais, possuindo só um distrito dividido em 4 partes. Já Guapiara é o município com o menor IPDM, de somente 0,366. Guapiara é um município do interior de SP conhecido como a Capital do Artesanato e do Pêssego.
 
 ![Gráficos de barras mostrando o IPDM dos municípios mais e menos desenvolvidos](https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/comparacao_ipdm.png?raw=true)
+
+## Comparando os municípios com o maior e o menor PIB de 2020
+
+O município mais rico de SP é a capital São Paulo, com um PIB de quase 750 bilhões de reais em 2020. O PIB de São Paulo provém principalmente dos setores de Valor adicionado, Serviços e Impostos líquidos, sendo que o setor de Agropecuária representa menos de 1% de seu PIB. Já o município com o menor PIB é Torre de Pedra, com um PIB de somente 34 milhões de reais. O PIB de Torre de Pedra apresenta uma distribuição parecida com a de São Paulo, uma das diferenças é que o Setor de Serviços de Administração pública representam mais de 20% do PIB de Torre de Pedra, setor esse que não representa nem 4% do PIB de São Paulo. Torre de Pedra é um município pequeno de por volta de 72km² e 2500 habitantes, seu nome vem de uma elevação rochosa que existe na sua região rural.
+
+![Gráficos de pizza comparando a distribuição do PIB dos municípios mais e menos ricos](https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/comparacao_pib.png?raw=true)
+
+---
