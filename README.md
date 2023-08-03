@@ -10,7 +10,7 @@ O objetivo do projeto é analisar o desenvolvimento do estado de São Paulo a n�
 | :sparkles: Nome       | **Pesquisa Desenvolvimento Municipal**                      |
 | :label: Tecnologias   | Python, Seaborn, Pandas, Plotly, Power BI, Jupyter Notebook |
 
-![Gráfico de exemplo](https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/graficos/comparacao_ipdm.png?raw=true#vitrinedev)
+![Gráfico de exemplo](https://github.com/BrenoMorim/pesquisa-sao-paulo/blob/main/imagem-do-projeto.png?raw=true#vitrinedev)
 
 ## Páginas do Dashboard
 
